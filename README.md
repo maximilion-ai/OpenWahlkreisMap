@@ -9,7 +9,7 @@ Published as static JSON, CSV, npm package, and a free public API via GitHub Pag
 ### API (no setup needed)
 
 ```bash
-curl https://maximilionai.github.io/OpenWahlkreisMap/v1/10117.json
+curl https://maximilion-ai.github.io/OpenWahlkreisMap/v1/10117.json
 ```
 
 ```json

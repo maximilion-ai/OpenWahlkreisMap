@@ -184,7 +184,7 @@ def build_api():
       <ul>
         <li>API index: <a href="/v1/index.json"><code>/v1/index.json</code></a></li>
         <li>Example PLZ: <a href="/v1/10117.json"><code>/v1/10117.json</code></a></li>
-        <li>Project repository: <a href="https://github.com/maximilionai/OpenWahlkreisMap">GitHub</a></li>
+        <li>Project repository: <a href="https://github.com/maximilion-ai/OpenWahlkreisMap">GitHub</a></li>
       </ul>
     </div>
   </main>

@@ -7,7 +7,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 RAW_DIR="$SCRIPT_DIR/../raw"
-REPO_BASE="https://github.com/maximilionai/OpenWahlkreisMap/releases/download"
+REPO_BASE="https://github.com/maximilion-ai/OpenWahlkreisMap/releases/download"
 DATA_TAG="v0.1.0-data"
 
 # Expected SHA256 checksums
