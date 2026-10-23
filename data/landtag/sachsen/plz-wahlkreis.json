@@ -6,8 +6,8 @@
       "Landeswahlleiter Sachsen / Statistisches Landesamt (public domain)",
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
-    "plz_count": 428,
-    "generated": "2026-04-01"
+    "plz_count": 384,
+    "generated": "2026-10-23"
   },
   "data": {
     "01067": {
@@ -153,47 +153,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124988
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124988
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124988
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124988
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124988
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124988
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124988
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124988
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 9.7e-05
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -204,52 +199,47 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124747
+          "overlap": 0.123205
         },
         {
           "nr": 37,
           "name": "Meißen 2",
-          "overlap": 0.001818
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.000207
+          "overlap": 0.014362
         }
       ],
       "primary": 40,
@@ -260,52 +250,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.12492
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.12492
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.12492
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.12492
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.12492
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.12492
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.12492
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.12492
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.000339
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.000304
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -362,47 +342,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124896
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124896
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124896
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124896
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124896
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124896
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124896
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124896
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.000833
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -413,47 +388,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124844
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.001246
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -464,57 +434,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.12487
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.12487
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.12487
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.12487
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.12487
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.12487
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.12487
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.12487
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.000806
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.000166
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 7.1e-05
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -617,47 +572,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124854
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124854
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124854
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124854
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124854
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124854
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124854
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124854
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.001172
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -668,47 +618,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124861
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124861
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124861
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124861
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124861
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124861
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124861
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124861
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.001114
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -719,52 +664,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124821
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124821
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124821
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124821
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124821
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124821
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124821
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124821
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.000752
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.000681
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -775,47 +710,47 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124517
+          "overlap": 0.12124
         },
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.003862
+          "overlap": 0.030083
         }
       ],
       "primary": 40,
@@ -826,47 +761,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124945
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124945
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124945
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124945
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124945
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124945
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124945
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124945
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.000438
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -923,47 +853,47 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124655
+          "overlap": 0.122291
         },
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.002761
+          "overlap": 0.021671
         }
       ],
       "primary": 40,
@@ -974,52 +904,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124844
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124844
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.00113
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.000117
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -1030,47 +950,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124871
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124871
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124871
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124871
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124871
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124871
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124871
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124871
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.001029
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -1311,47 +1226,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124968
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.000253
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -1362,62 +1272,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124864
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.000518
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.000271
-        },
-        {
-          "nr": 51,
-          "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.000243
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 5.2e-05
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -1428,52 +1318,7 @@
         {
           "nr": 39,
           "name": "Meißen 4",
-          "overlap": 0.931686
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.008539
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 1e-06
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -1484,52 +1329,7 @@
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.936011
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.007171
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.006621
+          "overlap": 1.0
         }
       ],
       "primary": 54,
@@ -1540,52 +1340,7 @@
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.966986
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.003859
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.002143
+          "overlap": 1.0
         }
       ],
       "primary": 54,
@@ -1596,47 +1351,42 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.124935
+          "overlap": 0.125
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.124935
+          "overlap": 0.125
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.124935
+          "overlap": 0.125
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.124935
+          "overlap": 0.125
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.124935
+          "overlap": 0.125
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.124935
+          "overlap": 0.125
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.124935
+          "overlap": 0.125
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.124935
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.00052
+          "overlap": 0.125
         }
       ],
       "primary": 40,
@@ -1647,57 +1397,7 @@
         {
           "nr": 39,
           "name": "Meißen 4",
-          "overlap": 0.985392
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.004736
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.004418
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.000682
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -1708,57 +1408,7 @@
         {
           "nr": 37,
           "name": "Meißen 2",
-          "overlap": 0.956796
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.004775
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.003742
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.001263
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1769,62 +1419,7 @@
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.991321
-        },
-        {
-          "nr": 51,
-          "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.003151
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.002248
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.001077
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.000275
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.000275
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.000275
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.000275
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.000275
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.000275
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.000275
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.000275
+          "overlap": 1.0
         }
       ],
       "primary": 53,
@@ -1846,27 +1441,7 @@
         {
           "nr": 37,
           "name": "Meißen 2",
-          "overlap": 0.998121
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.000746
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.000579
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.000491
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 6.2e-05
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1888,12 +1463,7 @@
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.999958
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 4.2e-05
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1904,12 +1474,7 @@
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.999435
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.000565
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1920,22 +1485,7 @@
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.997819
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.001679
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.000289
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.000213
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1946,12 +1496,7 @@
         {
           "nr": 37,
           "name": "Meißen 2",
-          "overlap": 0.996959
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.003041
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1962,12 +1507,7 @@
         {
           "nr": 37,
           "name": "Meißen 2",
-          "overlap": 0.99223
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.00777
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1978,12 +1518,7 @@
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.996689
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.003311
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -2010,17 +1545,7 @@
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.995666
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.004004
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.00033
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -2031,12 +1556,7 @@
         {
           "nr": 39,
           "name": "Meißen 4",
-          "overlap": 0.991288
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.008712
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -2047,17 +1567,7 @@
         {
           "nr": 38,
           "name": "Meißen 3",
-          "overlap": 0.991959
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.006108
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.001933
+          "overlap": 1.0
         }
       ],
       "primary": 38,
@@ -2068,72 +1578,12 @@
         {
           "nr": 38,
           "name": "Meißen 3",
-          "overlap": 0.544483
+          "overlap": 0.54611
         },
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.452538
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.000667
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.0005
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.000437
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.000157
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.000121
+          "overlap": 0.45389
         }
       ],
       "primary": 38,
@@ -2144,22 +1594,7 @@
         {
           "nr": 38,
           "name": "Meißen 3",
-          "overlap": 0.996389
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.002503
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.001076
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 3.2e-05
+          "overlap": 1.0
         }
       ],
       "primary": 38,
@@ -2170,22 +1605,7 @@
         {
           "nr": 38,
           "name": "Meißen 3",
-          "overlap": 0.99249
-        },
-        {
-          "nr": 39,
-          "name": "Meißen 4",
-          "overlap": 0.006027
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.001338
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.000145
+          "overlap": 1.0
         }
       ],
       "primary": 38,
@@ -2196,52 +1616,7 @@
         {
           "nr": 48,
           "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.97516
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.002789
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.002525
+          "overlap": 1.0
         }
       ],
       "primary": 48,
@@ -2252,57 +1627,7 @@
         {
           "nr": 48,
           "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.977318
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.008242
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.001692
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.000906
+          "overlap": 1.0
         }
       ],
       "primary": 48,
@@ -2313,52 +1638,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.967765
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.003759
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.00216
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -2369,52 +1649,12 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.980724
+          "overlap": 0.98813
         },
         {
           "nr": 50,
           "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.011781
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.000937
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.000937
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.000937
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.000937
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.000937
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.000937
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.000937
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.000937
+          "overlap": 0.01187
         }
       ],
       "primary": 49,
@@ -2425,12 +1665,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.995912
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.004088
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -2441,17 +1676,7 @@
         {
           "nr": 48,
           "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.992031
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.004553
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.003416
+          "overlap": 1.0
         }
       ],
       "primary": 48,
@@ -2489,12 +1714,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.993236
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.006764
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -2505,12 +1725,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.998319
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.001681
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -2532,17 +1747,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.997742
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.00118
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.001078
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -2553,12 +1758,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.993318
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.006682
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -2569,12 +1769,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.999383
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.000617
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -2585,52 +1780,12 @@
         {
           "nr": 50,
           "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.773301
+          "overlap": 0.777622
         },
         {
           "nr": 51,
           "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.221142
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.000695
+          "overlap": 0.222378
         }
       ],
       "primary": 50,
@@ -2641,52 +1796,7 @@
         {
           "nr": 50,
           "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.988256
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.004811
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.000867
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.000867
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.000867
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.000867
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.000867
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.000867
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.000867
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.000867
+          "overlap": 1.0
         }
       ],
       "primary": 50,
@@ -2708,17 +1818,7 @@
         {
           "nr": 50,
           "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.999548
-        },
-        {
-          "nr": 51,
-          "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.000279
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.000173
+          "overlap": 1.0
         }
       ],
       "primary": 50,
@@ -2740,12 +1840,7 @@
         {
           "nr": 51,
           "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.995601
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.004399
+          "overlap": 1.0
         }
       ],
       "primary": 51,
@@ -2756,12 +1851,7 @@
         {
           "nr": 50,
           "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.995194
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.004806
+          "overlap": 1.0
         }
       ],
       "primary": 50,
@@ -2772,12 +1862,7 @@
         {
           "nr": 51,
           "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.998162
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.001838
+          "overlap": 1.0
         }
       ],
       "primary": 51,
@@ -2788,62 +1873,7 @@
         {
           "nr": 51,
           "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.9944
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.001144
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.000738
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.00052
-        },
-        {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.0004
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.0004
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.0004
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.0004
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.0004
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.0004
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.0004
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.0004
+          "overlap": 1.0
         }
       ],
       "primary": 51,
@@ -2854,12 +1884,7 @@
         {
           "nr": 51,
           "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.998367
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.001633
+          "overlap": 1.0
         }
       ],
       "primary": 51,
@@ -2870,12 +1895,7 @@
         {
           "nr": 51,
           "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.995338
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.004662
+          "overlap": 1.0
         }
       ],
       "primary": 51,
@@ -2908,22 +1928,12 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.949737
+          "overlap": 0.951048
         },
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.048885
-        },
-        {
-          "nr": 51,
-          "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.001024
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.000354
+          "overlap": 0.048952
         }
       ],
       "primary": 52,
@@ -2934,17 +1944,7 @@
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.995861
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.003031
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.001108
+          "overlap": 1.0
         }
       ],
       "primary": 53,
@@ -2955,17 +1955,7 @@
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.997629
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.001741
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.00063
+          "overlap": 1.0
         }
       ],
       "primary": 53,
@@ -2976,17 +1966,7 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.998742
-        },
-        {
-          "nr": 51,
-          "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.000667
-        },
-        {
-          "nr": 56,
-          "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.000591
+          "overlap": 1.0
         }
       ],
       "primary": 52,
@@ -2997,12 +1977,7 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.994372
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.005628
+          "overlap": 1.0
         }
       ],
       "primary": 52,
@@ -3013,17 +1988,7 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.996367
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.002611
-        },
-        {
-          "nr": 51,
-          "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.001022
+          "overlap": 1.0
         }
       ],
       "primary": 52,
@@ -3034,12 +1999,7 @@
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.99465
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.00535
+          "overlap": 1.0
         }
       ],
       "primary": 53,
@@ -3050,22 +2010,12 @@
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.803004
+          "overlap": 0.805455
         },
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.193952
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.002538
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.000506
+          "overlap": 0.194545
         }
       ],
       "primary": 53,
@@ -3076,74 +2026,15 @@
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.937026
+          "overlap": 0.940173
         },
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.059627
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.003347
+          "overlap": 0.059827
         }
       ],
       "primary": 54,
-      "period_id": 157
-    },
-    "01945": {
-      "wahlkreise": [
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.864734
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.131884
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.003382
-        }
-      ],
-      "primary": 54,
-      "period_id": 157
-    },
-    "01968": {
-      "wahlkreise": [
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 55,
-      "period_id": 157
-    },
-    "01990": {
-      "wahlkreise": [
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 37,
-      "period_id": 157
-    },
-    "01996": {
-      "wahlkreise": [
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 55,
       "period_id": 157
     },
     "02625": {
@@ -3151,17 +2042,7 @@
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.995325
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.003837
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.000838
+          "overlap": 1.0
         }
       ],
       "primary": 56,
@@ -3172,32 +2053,12 @@
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.686326
+          "overlap": 0.688031
         },
         {
           "nr": 55,
           "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.311197
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.001133
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.000599
-        },
-        {
-          "nr": 58,
-          "name": "Görlitz 2",
-          "overlap": 0.000543
-        },
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.000202
+          "overlap": 0.311969
         }
       ],
       "primary": 56,
@@ -3208,22 +2069,12 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.659981
+          "overlap": 0.661293
         },
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.338035
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.001165
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.000819
+          "overlap": 0.338707
         }
       ],
       "primary": 52,
@@ -3234,17 +2085,7 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.998875
-        },
-        {
-          "nr": 56,
-          "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.000743
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.000382
+          "overlap": 1.0
         }
       ],
       "primary": 52,
@@ -3255,12 +2096,7 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.9993
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.0007
+          "overlap": 1.0
         }
       ],
       "primary": 52,
@@ -3287,17 +2123,7 @@
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.996957
-        },
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.002042
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.001001
+          "overlap": 1.0
         }
       ],
       "primary": 56,
@@ -3308,22 +2134,7 @@
         {
           "nr": 55,
           "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.996165
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.003154
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.000579
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.000102
+          "overlap": 1.0
         }
       ],
       "primary": 55,
@@ -3334,22 +2145,7 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.996876
-        },
-        {
-          "nr": 58,
-          "name": "Görlitz 2",
-          "overlap": 0.001485
-        },
-        {
-          "nr": 56,
-          "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.001406
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.000233
+          "overlap": 1.0
         }
       ],
       "primary": 59,
@@ -3360,12 +2156,7 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.996096
-        },
-        {
-          "nr": 60,
-          "name": "Görlitz 4",
-          "overlap": 0.003904
+          "overlap": 1.0
         }
       ],
       "primary": 59,
@@ -3387,17 +2178,7 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.995288
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.003186
-        },
-        {
-          "nr": 56,
-          "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.001526
+          "overlap": 1.0
         }
       ],
       "primary": 52,
@@ -3408,12 +2189,7 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.99738
-        },
-        {
-          "nr": 52,
-          "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.00262
+          "overlap": 1.0
         }
       ],
       "primary": 59,
@@ -3424,12 +2200,7 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.998676
-        },
-        {
-          "nr": 60,
-          "name": "Görlitz 4",
-          "overlap": 0.001324
+          "overlap": 1.0
         }
       ],
       "primary": 59,
@@ -3451,12 +2222,7 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.997026
-        },
-        {
-          "nr": 60,
-          "name": "Görlitz 4",
-          "overlap": 0.002974
+          "overlap": 1.0
         }
       ],
       "primary": 59,
@@ -3467,17 +2233,7 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.998635
-        },
-        {
-          "nr": 58,
-          "name": "Görlitz 2",
-          "overlap": 0.001156
-        },
-        {
-          "nr": 60,
-          "name": "Görlitz 4",
-          "overlap": 0.000209
+          "overlap": 1.0
         }
       ],
       "primary": 59,
@@ -3488,12 +2244,7 @@
         {
           "nr": 60,
           "name": "Görlitz 4",
-          "overlap": 0.999893
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.000107
+          "overlap": 1.0
         }
       ],
       "primary": 60,
@@ -3515,12 +2266,7 @@
         {
           "nr": 60,
           "name": "Görlitz 4",
-          "overlap": 0.999482
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.000518
+          "overlap": 1.0
         }
       ],
       "primary": 60,
@@ -3542,12 +2288,7 @@
         {
           "nr": 60,
           "name": "Görlitz 4",
-          "overlap": 0.998492
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.001508
+          "overlap": 1.0
         }
       ],
       "primary": 60,
@@ -3558,12 +2299,7 @@
         {
           "nr": 60,
           "name": "Görlitz 4",
-          "overlap": 0.998155
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.001845
+          "overlap": 1.0
         }
       ],
       "primary": 60,
@@ -3574,12 +2310,7 @@
         {
           "nr": 60,
           "name": "Görlitz 4",
-          "overlap": 0.994354
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.005646
+          "overlap": 1.0
         }
       ],
       "primary": 60,
@@ -3634,17 +2365,7 @@
         {
           "nr": 58,
           "name": "Görlitz 2",
-          "overlap": 0.997109
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.002872
-        },
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 1.9e-05
+          "overlap": 1.0
         }
       ],
       "primary": 58,
@@ -3671,17 +2392,12 @@
         {
           "nr": 58,
           "name": "Görlitz 2",
-          "overlap": 0.51523
+          "overlap": 0.515456
         },
         {
           "nr": 57,
           "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.484331
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.000439
+          "overlap": 0.484544
         }
       ],
       "primary": 58,
@@ -3692,22 +2408,7 @@
         {
           "nr": 58,
           "name": "Görlitz 2",
-          "overlap": 0.994346
-        },
-        {
-          "nr": 59,
-          "name": "Görlitz 3",
-          "overlap": 0.00365
-        },
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.001609
-        },
-        {
-          "nr": 56,
-          "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.000395
+          "overlap": 1.0
         }
       ],
       "primary": 58,
@@ -3718,17 +2419,12 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.985398
+          "overlap": 0.988741
         },
         {
           "nr": 58,
           "name": "Görlitz 2",
-          "overlap": 0.011221
-        },
-        {
-          "nr": 60,
-          "name": "Görlitz 4",
-          "overlap": 0.003381
+          "overlap": 0.011259
         }
       ],
       "primary": 59,
@@ -3739,17 +2435,7 @@
         {
           "nr": 57,
           "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.998299
-        },
-        {
-          "nr": 58,
-          "name": "Görlitz 2",
-          "overlap": 0.000951
-        },
-        {
-          "nr": 56,
-          "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.00075
+          "overlap": 1.0
         }
       ],
       "primary": 57,
@@ -3760,12 +2446,7 @@
         {
           "nr": 57,
           "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.999142
-        },
-        {
-          "nr": 58,
-          "name": "Görlitz 2",
-          "overlap": 0.000858
+          "overlap": 1.0
         }
       ],
       "primary": 57,
@@ -3787,17 +2468,7 @@
         {
           "nr": 57,
           "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.998048
-        },
-        {
-          "nr": 56,
-          "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.001066
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.000886
+          "overlap": 1.0
         }
       ],
       "primary": 57,
@@ -3841,12 +2512,7 @@
         {
           "nr": 57,
           "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.99804
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.00196
+          "overlap": 1.0
         }
       ],
       "primary": 57,
@@ -3857,12 +2523,7 @@
         {
           "nr": 55,
           "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.998077
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.001923
+          "overlap": 1.0
         }
       ],
       "primary": 55,
@@ -3873,12 +2534,7 @@
         {
           "nr": 55,
           "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.998834
-        },
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.001166
+          "overlap": 1.0
         }
       ],
       "primary": 55,
@@ -3889,12 +2545,7 @@
         {
           "nr": 55,
           "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.999284
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.000716
+          "overlap": 1.0
         }
       ],
       "primary": 55,
@@ -3905,17 +2556,7 @@
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.998128
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.001567
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.000304
+          "overlap": 1.0
         }
       ],
       "primary": 54,
@@ -3926,17 +2567,7 @@
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.993879
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.005871
-        },
-        {
-          "nr": 53,
-          "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.00025
+          "overlap": 1.0
         }
       ],
       "primary": 54,
@@ -3947,69 +2578,10 @@
         {
           "nr": 55,
           "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.998284
-        },
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.001435
-        },
-        {
-          "nr": 54,
-          "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.000281
-        }
-      ],
-      "primary": 55,
-      "period_id": 157
-    },
-    "03103": {
-      "wahlkreise": [
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
           "overlap": 1.0
         }
       ],
       "primary": 55,
-      "period_id": 157
-    },
-    "03119": {
-      "wahlkreise": [
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 55,
-      "period_id": 157
-    },
-    "03130": {
-      "wahlkreise": [
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.923784
-        },
-        {
-          "nr": 55,
-          "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.076216
-        }
-      ],
-      "primary": 57,
-      "period_id": 157
-    },
-    "03159": {
-      "wahlkreise": [
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 57,
       "period_id": 157
     },
     "04103": {
@@ -4339,47 +2911,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124953
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124953
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124953
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124953
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124953
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124953
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124953
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124953
-        },
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.000375
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -4390,47 +2957,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124955
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124955
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124955
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124955
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124955
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124955
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124955
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124955
-        },
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.000364
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -4487,52 +3049,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.12495
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.12495
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.12495
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.12495
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.12495
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.12495
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.12495
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.12495
-        },
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.00032
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 8.1e-05
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -4589,47 +3141,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124949
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124949
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124949
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124949
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124949
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124949
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124949
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124949
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.000404
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -4640,47 +3187,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124932
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124932
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124932
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124932
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124932
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124932
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124932
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124932
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.000547
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -4783,47 +3325,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124864
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124864
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.001086
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -4880,47 +3417,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124919
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124919
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124919
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124919
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124919
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124919
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124919
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124919
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.000644
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -4931,47 +3463,47 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124838
+          "overlap": 0.123713
         },
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.001299
+          "overlap": 0.010298
         }
       ],
       "primary": 25,
@@ -4982,52 +3514,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.12484
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.12484
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.12484
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.12484
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.12484
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.12484
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.12484
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.12484
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.001241
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 3.8e-05
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -5038,47 +3560,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124995
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124995
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124995
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124995
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124995
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124995
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124995
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124995
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 4.4e-05
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -5319,57 +3836,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124923
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124923
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124923
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124923
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124923
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124923
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124923
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124923
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 3.7e-05
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 1.2e-05
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -5426,47 +3928,47 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124249
+          "overlap": 0.119235
         },
         {
           "nr": 34,
           "name": "Nordsachsen 2",
-          "overlap": 0.006007
+          "overlap": 0.046117
         }
       ],
       "primary": 25,
@@ -5523,47 +4025,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124968
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124968
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.000257
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -5574,52 +4071,42 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.124895
+          "overlap": 0.125
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.124895
+          "overlap": 0.125
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.124895
+          "overlap": 0.125
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.124895
+          "overlap": 0.125
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.124895
+          "overlap": 0.125
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.124895
+          "overlap": 0.125
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.124895
+          "overlap": 0.125
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.124895
-        },
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.000677
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.000163
+          "overlap": 0.125
         }
       ],
       "primary": 25,
@@ -5676,52 +4163,7 @@
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.924848
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.008902
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.003933
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -5732,52 +4174,7 @@
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.987146
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.00155
-        },
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.000454
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -5788,52 +4185,7 @@
         {
           "nr": 34,
           "name": "Nordsachsen 2",
-          "overlap": 0.944697
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.006829
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.000669
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -5844,52 +4196,7 @@
         {
           "nr": 33,
           "name": "Nordsachsen 1",
-          "overlap": 0.89488
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.01297
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.001359
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -5900,52 +4207,7 @@
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.995006
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.000452
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -5956,52 +4218,7 @@
         {
           "nr": 24,
           "name": "Leipzig Land 4",
-          "overlap": 0.989822
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.001878
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.001037
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.001037
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.001037
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.001037
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.001037
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.001037
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.001037
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.001037
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -6012,57 +4229,7 @@
         {
           "nr": 23,
           "name": "Leipzig Land 3",
-          "overlap": 0.96887
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.003363
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.002445
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.001781
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -6073,52 +4240,7 @@
         {
           "nr": 33,
           "name": "Nordsachsen 1",
-          "overlap": 0.995341
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.003442
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.000152
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.000152
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.000152
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.000152
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.000152
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.000152
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.000152
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.000152
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -6129,47 +4251,7 @@
         {
           "nr": 33,
           "name": "Nordsachsen 1",
-          "overlap": 0.927959
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.009005
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.009005
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.009005
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.009005
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.009005
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.009005
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.009005
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.009005
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -6180,47 +4262,7 @@
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.996887
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.000389
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.000389
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.000389
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.000389
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.000389
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.000389
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.000389
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.000389
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -6231,12 +4273,7 @@
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.999074
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.000926
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -6258,17 +4295,12 @@
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.891804
+          "overlap": 0.892241
         },
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.107706
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.00049
+          "overlap": 0.107759
         }
       ],
       "primary": 22,
@@ -6279,12 +4311,7 @@
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.996765
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.003235
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -6295,12 +4322,7 @@
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.996322
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.003678
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -6311,17 +4333,7 @@
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.995284
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.002577
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.002139
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -6332,111 +4344,10 @@
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.99863
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.00137
-        }
-      ],
-      "primary": 21,
-      "period_id": 157
-    },
-    "04603": {
-      "wahlkreise": [
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.506397
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.320896
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.135928
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.03678
-        }
-      ],
-      "primary": 7,
-      "period_id": 157
-    },
-    "04610": {
-      "wahlkreise": [
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
           "overlap": 1.0
         }
       ],
       "primary": 21,
-      "period_id": 157
-    },
-    "04613": {
-      "wahlkreise": [
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.685508
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.314492
-        }
-      ],
-      "primary": 22,
-      "period_id": 157
-    },
-    "04617": {
-      "wahlkreise": [
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 21,
-      "period_id": 157
-    },
-    "04618": {
-      "wahlkreise": [
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.424654
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.367144
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.208202
-        }
-      ],
-      "primary": 21,
-      "period_id": 157
-    },
-    "04626": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
       "period_id": 157
     },
     "04639": {
@@ -6444,12 +4355,7 @@
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.657752
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.342248
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -6460,17 +4366,7 @@
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.996436
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.003276
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.000288
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -6481,17 +4377,7 @@
         {
           "nr": 23,
           "name": "Leipzig Land 3",
-          "overlap": 0.997847
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.001968
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.000185
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -6502,17 +4388,7 @@
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.999135
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.000838
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 2.7e-05
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -6523,27 +4399,7 @@
         {
           "nr": 23,
           "name": "Leipzig Land 3",
-          "overlap": 0.997802
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.000903
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.000509
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.000406
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.00038
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -6554,17 +4410,7 @@
         {
           "nr": 23,
           "name": "Leipzig Land 3",
-          "overlap": 0.998061
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.001449
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.00049
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -6575,17 +4421,12 @@
         {
           "nr": 23,
           "name": "Leipzig Land 3",
-          "overlap": 0.987253
+          "overlap": 0.987608
         },
         {
           "nr": 24,
           "name": "Leipzig Land 4",
-          "overlap": 0.012388
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.000359
+          "overlap": 0.012392
         }
       ],
       "primary": 23,
@@ -6596,12 +4437,7 @@
         {
           "nr": 24,
           "name": "Leipzig Land 4",
-          "overlap": 0.99196
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.00804
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -6612,17 +4448,7 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.994588
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.002864
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.002548
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -6633,22 +4459,7 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.99748
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.001917
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.000538
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 6.5e-05
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -6659,12 +4470,7 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.99944
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.00056
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -6675,12 +4481,7 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.999374
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.000626
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -6691,12 +4492,7 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.999466
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.000534
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -6707,17 +4503,7 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.9968
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.002828
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.000372
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -6728,12 +4514,7 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.998225
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.001775
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -6744,22 +4525,7 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.994337
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.002185
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.001968
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.00151
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -6770,12 +4536,7 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.997243
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.002757
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -6786,17 +4547,7 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.991235
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.006558
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.002207
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -6807,22 +4558,7 @@
         {
           "nr": 24,
           "name": "Leipzig Land 4",
-          "overlap": 0.996931
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.001497
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.001238
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.000334
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -6833,12 +4569,7 @@
         {
           "nr": 24,
           "name": "Leipzig Land 4",
-          "overlap": 0.994913
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.005087
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -6849,52 +4580,7 @@
         {
           "nr": 24,
           "name": "Leipzig Land 4",
-          "overlap": 0.986899
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.004463
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.00108
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.00108
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.00108
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.00108
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.00108
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.00108
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.00108
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.00108
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -6905,12 +4591,7 @@
         {
           "nr": 24,
           "name": "Leipzig Land 4",
-          "overlap": 0.997404
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.002596
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -6932,57 +4613,7 @@
         {
           "nr": 34,
           "name": "Nordsachsen 2",
-          "overlap": 0.997361
-        },
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.001758
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.000833
-        },
-        {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 6e-06
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 6e-06
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 6e-06
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 6e-06
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 6e-06
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 6e-06
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 6e-06
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 6e-06
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -6993,12 +4624,7 @@
         {
           "nr": 34,
           "name": "Nordsachsen 2",
-          "overlap": 0.998533
-        },
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.001467
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -7025,12 +4651,7 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.998545
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.001455
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -7041,17 +4662,7 @@
         {
           "nr": 34,
           "name": "Nordsachsen 2",
-          "overlap": 0.996795
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.003023
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.000182
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -7073,12 +4684,7 @@
         {
           "nr": 34,
           "name": "Nordsachsen 2",
-          "overlap": 0.994662
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.005338
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -7089,12 +4695,7 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.99559
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.00441
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -7105,323 +4706,13 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.99885
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.000926
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.000224
-        }
-      ],
-      "primary": 35,
-      "period_id": 157
-    },
-    "04895": {
-      "wahlkreise": [
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
           "overlap": 1.0
         }
       ],
       "primary": 35,
-      "period_id": 157
-    },
-    "04916": {
-      "wahlkreise": [
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 35,
-      "period_id": 157
-    },
-    "04924": {
-      "wahlkreise": [
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.682879
-        },
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.317121
-        }
-      ],
-      "primary": 37,
-      "period_id": 157
-    },
-    "04931": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Meißen 1",
-          "overlap": 0.858599
-        },
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.141401
-        }
-      ],
-      "primary": 36,
-      "period_id": 157
-    },
-    "04932": {
-      "wahlkreise": [
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 37,
-      "period_id": 157
-    },
-    "06184": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06188": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06231": {
-      "wahlkreise": [
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 22,
-      "period_id": 157
-    },
-    "06237": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.594946
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.405054
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06258": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06679": {
-      "wahlkreise": [
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 22,
-      "period_id": 157
-    },
-    "06686": {
-      "wahlkreise": [
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 22,
-      "period_id": 157
-    },
-    "06729": {
-      "wahlkreise": [
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 22,
-      "period_id": 157
-    },
-    "06772": {
-      "wahlkreise": [
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 34,
-      "period_id": 157
-    },
-    "06774": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 0.537061
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.462939
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06796": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06808": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06809": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Nordsachsen 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 157
-    },
-    "06905": {
-      "wahlkreise": [
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 34,
-      "period_id": 157
-    },
-    "06925": {
-      "wahlkreise": [
-        {
-          "nr": 35,
-          "name": "Nordsachsen 3",
-          "overlap": 0.645868
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.354132
-        }
-      ],
-      "primary": 35,
-      "period_id": 157
-    },
-    "07580": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
-      "period_id": 157
-    },
-    "07907": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
       "period_id": 157
     },
     "07919": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 157
-    },
-    "07922": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 157
-    },
-    "07926": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 157
-    },
-    "07937": {
       "wahlkreise": [
         {
           "nr": 1,
@@ -7443,22 +4734,6 @@
       "primary": 1,
       "period_id": 157
     },
-    "07973": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.9604
-        },
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 0.0396
-        }
-      ],
-      "primary": 3,
-      "period_id": 157
-    },
     "07985": {
       "wahlkreise": [
         {
@@ -7470,38 +4745,17 @@
       "primary": 3,
       "period_id": 157
     },
-    "07987": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.803763
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.196237
-        }
-      ],
-      "primary": 5,
-      "period_id": 157
-    },
     "08056": {
       "wahlkreise": [
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.499134
+          "overlap": 0.5
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.499134
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.001732
+          "overlap": 0.5
         }
       ],
       "primary": 5,
@@ -7512,22 +4766,12 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.499708
+          "overlap": 0.502114
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.497595
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.002651
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 4.7e-05
+          "overlap": 0.497886
         }
       ],
       "primary": 5,
@@ -7538,17 +4782,12 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.500666
+          "overlap": 0.502273
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.49839
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.000945
+          "overlap": 0.497727
         }
       ],
       "primary": 5,
@@ -7575,17 +4814,17 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.494272
+          "overlap": 0.488675
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.494272
+          "overlap": 0.488675
         },
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.011455
+          "overlap": 0.022651
         }
       ],
       "primary": 5,
@@ -7596,17 +4835,12 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.499342
+          "overlap": 0.5
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.499342
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.001316
+          "overlap": 0.5
         }
       ],
       "primary": 5,
@@ -7617,22 +4851,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.99188
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.006985
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.000655
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.00048
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7643,17 +4862,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.991229
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.004386
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.004386
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7664,22 +4873,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.990479
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.00429
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.002843
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.002388
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7690,22 +4884,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.99543
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.002845
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.001372
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.000353
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7716,27 +4895,17 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.920715
+          "overlap": 0.9607
         },
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.037664
+          "overlap": 0.01965
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.037664
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.003645
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.000312
+          "overlap": 0.01965
         }
       ],
       "primary": 4,
@@ -7747,12 +4916,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.999555
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.000445
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7763,17 +4927,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.981302
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.009349
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.009349
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7784,22 +4938,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.990927
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.007055
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.001009
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.001009
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7810,17 +4949,7 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.995835
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.003776
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.000389
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -7831,17 +4960,7 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.996803
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.002246
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.000951
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -7868,22 +4987,7 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.99622
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.003362
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.0003
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.000118
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -7894,12 +4998,7 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.996439
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.003561
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -7921,17 +5020,7 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.994975
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.002728
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.002297
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -7980,12 +5069,7 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.994728
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.005272
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -7996,12 +5080,7 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.99918
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.00082
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -8023,17 +5102,7 @@
         {
           "nr": 13,
           "name": "Erzgebirge 2",
-          "overlap": 0.989849
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.006845
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.003306
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -8044,12 +5113,7 @@
         {
           "nr": 13,
           "name": "Erzgebirge 2",
-          "overlap": 0.995539
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.004461
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -8060,22 +5124,7 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.997359
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.00168
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.00056
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.000401
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -8086,17 +5135,7 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.994799
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.004561
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.00064
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -8107,12 +5146,7 @@
         {
           "nr": 13,
           "name": "Erzgebirge 2",
-          "overlap": 0.990641
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.009359
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -8123,17 +5157,7 @@
         {
           "nr": 13,
           "name": "Erzgebirge 2",
-          "overlap": 0.99899
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.000689
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.00032
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -8144,12 +5168,7 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.9922
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.0078
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -8187,17 +5206,7 @@
         {
           "nr": 13,
           "name": "Erzgebirge 2",
-          "overlap": 0.996964
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.001781
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.001255
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -8208,12 +5217,7 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.999989
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 1.1e-05
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -8235,12 +5239,7 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.994198
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 0.005802
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -8267,17 +5266,7 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.998187
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.00174
-        },
-        {
-          "nr": 13,
-          "name": "Erzgebirge 2",
-          "overlap": 7.3e-05
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -8288,27 +5277,7 @@
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.99464
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.001948
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.001586
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.00126
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.000566
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -8330,17 +5299,12 @@
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.719179
+          "overlap": 0.728124
         },
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.272631
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.00819
+          "overlap": 0.271876
         }
       ],
       "primary": 7,
@@ -8351,12 +5315,7 @@
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.996682
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.003318
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -8367,17 +5326,7 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.998241
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.001559
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.0002
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -8388,17 +5337,12 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.985271
+          "overlap": 0.986941
         },
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.013037
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.001692
+          "overlap": 0.013059
         }
       ],
       "primary": 5,
@@ -8420,17 +5364,7 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.99794
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.001946
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.000114
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -8441,12 +5375,7 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.998969
-        },
-        {
-          "nr": 6,
-          "name": "Zwickau 3",
-          "overlap": 0.001031
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -8457,12 +5386,7 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.998198
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.001802
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -8473,17 +5397,7 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.996458
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.002455
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.001087
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -8505,17 +5419,7 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.997375
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.00182
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.000805
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -8548,12 +5452,7 @@
         {
           "nr": 1,
           "name": "Vogtland 1",
-          "overlap": 0.996589
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.003411
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -8564,12 +5463,7 @@
         {
           "nr": 1,
           "name": "Vogtland 1",
-          "overlap": 0.99615
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.00385
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -8596,12 +5490,7 @@
         {
           "nr": 1,
           "name": "Vogtland 1",
-          "overlap": 0.99852
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.00148
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -8623,17 +5512,12 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.870234
+          "overlap": 0.87073
         },
         {
           "nr": 1,
           "name": "Vogtland 1",
-          "overlap": 0.129197
-        },
-        {
-          "nr": 2,
-          "name": "Vogtland 2",
-          "overlap": 0.000569
+          "overlap": 0.12927
         }
       ],
       "primary": 3,
@@ -8644,12 +5528,7 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.999386
-        },
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 0.000614
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -8660,12 +5539,7 @@
         {
           "nr": 1,
           "name": "Vogtland 1",
-          "overlap": 0.991819
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.008181
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -8687,17 +5561,12 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.92842
+          "overlap": 0.935599
         },
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.063907
-        },
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 0.007674
+          "overlap": 0.064401
         }
       ],
       "primary": 3,
@@ -8809,22 +5678,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.332865
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.332865
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.332865
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.001405
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -8835,22 +5699,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333296
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333296
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333296
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.000113
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -8861,22 +5720,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333267
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333267
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333267
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.000198
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -8950,22 +5804,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.332462
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.332462
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.332462
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.002615
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -9039,32 +5888,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.331876
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.331876
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.331876
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.002698
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.00094
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.000733
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -9096,27 +5930,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.331876
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.331876
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.331876
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.003251
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.001122
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -9127,32 +5951,7 @@
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.980781
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.004961
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.004961
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.004961
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.003467
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.000869
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -9163,22 +5962,7 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.986738
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.004421
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.004421
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.004421
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -9189,22 +5973,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.970646
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.009785
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.009785
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.009785
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9215,27 +5984,22 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.331055
+          "overlap": 0.327004
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.331055
+          "overlap": 0.327004
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.331055
+          "overlap": 0.327004
         },
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.006408
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.000426
+          "overlap": 0.018988
         }
       ],
       "primary": 9,
@@ -9246,22 +6010,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.33231
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.33231
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.33231
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.003071
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -9272,27 +6031,7 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.990303
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.006805
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.000964
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.000964
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.000964
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -9303,27 +6042,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.985492
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.004004
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.003501
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.003501
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.003501
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9345,12 +6064,7 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.991262
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.008738
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -9377,32 +6091,7 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.986433
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.003927
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.003927
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.003927
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.001776
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 1e-05
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -9413,27 +6102,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333209
+          "overlap": 0.333333
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333209
+          "overlap": 0.333333
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333209
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.000244
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.000128
+          "overlap": 0.333333
         }
       ],
       "primary": 9,
@@ -9444,22 +6123,7 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.996961
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.001013
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.001013
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.001013
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -9470,22 +6134,7 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.995766
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.001699
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.001308
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.001227
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -9496,17 +6145,7 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.997269
-        },
-        {
-          "nr": 21,
-          "name": "Leipzig Land 1",
-          "overlap": 0.00175
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.000982
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -9517,17 +6156,7 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.994156
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.005347
-        },
-        {
-          "nr": 23,
-          "name": "Leipzig Land 3",
-          "overlap": 0.000497
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -9549,32 +6178,12 @@
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.792192
+          "overlap": 0.793985
         },
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.20555
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.000602
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.000602
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.000602
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.000451
+          "overlap": 0.206015
         }
       ],
       "primary": 8,
@@ -9585,17 +6194,7 @@
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.990279
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.007299
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.002422
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -9606,32 +6205,7 @@
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.990791
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.006064
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.00178
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.000455
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.000455
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.000455
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -9642,17 +6216,7 @@
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.990816
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.008484
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.0007
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -9679,17 +6243,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.994741
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.004029
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.00123
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9700,22 +6254,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.989726
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.007861
-        },
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 0.00217
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.000243
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9726,12 +6265,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.99776
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.00224
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9742,27 +6276,12 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.981817
+          "overlap": 0.982603
         },
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.017383
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.000267
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.000267
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.000267
+          "overlap": 0.017397
         }
       ],
       "primary": 12,
@@ -9773,22 +6292,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.995633
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.001456
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.001456
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.001456
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9799,17 +6303,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.996655
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.001681
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.001664
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9820,17 +6314,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.994815
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.004423
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.000762
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -9841,17 +6325,12 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.980387
+          "overlap": 0.983067
         },
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.016887
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.002726
+          "overlap": 0.016933
         }
       ],
       "primary": 12,
@@ -9873,12 +6352,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.990457
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.009543
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -9889,22 +6363,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.996279
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.00227
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.00089
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.000561
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -9915,17 +6374,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.991117
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.008048
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.000835
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -9936,17 +6385,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.992245
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.007494
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.000261
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -9957,12 +6396,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.995509
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.004491
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -9973,17 +6407,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.995047
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.00373
-        },
-        {
-          "nr": 12,
-          "name": "Erzgebirge 1",
-          "overlap": 0.001223
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10016,12 +6440,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.999983
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 1.7e-05
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10032,32 +6451,12 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.963576
+          "overlap": 0.98475
         },
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.014922
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.006669
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.006669
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.006669
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.001495
+          "overlap": 0.01525
         }
       ],
       "primary": 12,
@@ -10068,12 +6467,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.996685
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.003315
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -10095,12 +6489,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.998166
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.001834
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -10122,12 +6511,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.999152
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.000848
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -10138,12 +6522,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.996559
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.003441
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -10170,12 +6549,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.998919
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.001081
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -10186,12 +6560,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.998352
-        },
-        {
-          "nr": 14,
-          "name": "Erzgebirge 3",
-          "overlap": 0.001648
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -10202,12 +6571,7 @@
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.998567
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.001433
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -10218,12 +6582,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.998688
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.001312
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10234,12 +6593,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.999437
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.000563
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10250,12 +6604,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.999547
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.000453
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10266,12 +6615,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.992657
-        },
-        {
-          "nr": 15,
-          "name": "Erzgebirge 4",
-          "overlap": 0.007343
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10282,17 +6626,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.998304
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.000912
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.000783
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10303,12 +6637,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.997628
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.002372
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10319,12 +6648,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.994597
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.005403
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10335,22 +6659,7 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.998415
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.000528
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.000528
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.000528
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -10372,27 +6681,12 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.866591
+          "overlap": 0.868475
         },
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.13124
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.000723
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.000723
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.000723
+          "overlap": 0.131525
         }
       ],
       "primary": 18,
@@ -10403,12 +6697,7 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.99787
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.00213
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -10419,22 +6708,7 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.983137
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.005621
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.005621
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.005621
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -10445,12 +6719,7 @@
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.990813
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.009187
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -10461,12 +6730,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.996567
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.003433
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10477,17 +6741,12 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.662769
+          "overlap": 0.662877
         },
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.337069
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.000162
+          "overlap": 0.337123
         }
       ],
       "primary": 18,
@@ -10498,22 +6757,12 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.98191
+          "overlap": 0.984578
         },
         {
           "nr": 38,
           "name": "Meißen 3",
-          "overlap": 0.01538
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.002147
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.000563
+          "overlap": 0.015422
         }
       ],
       "primary": 17,
@@ -10524,17 +6773,7 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.998152
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.001209
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.000639
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -10545,17 +6784,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.998118
-        },
-        {
-          "nr": 16,
-          "name": "Erzgebirge 5",
-          "overlap": 0.001288
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.000594
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10566,12 +6795,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.998556
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.001444
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10582,17 +6806,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.998831
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.000812
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.000357
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10603,17 +6817,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.994035
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.004925
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.00104
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10624,12 +6828,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.997174
-        },
-        {
-          "nr": 48,
-          "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.002826
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10656,12 +6855,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.99419
-        },
-        {
-          "nr": 18,
-          "name": "Mittelsachsen 2",
-          "overlap": 0.00581
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -10688,27 +6882,12 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.714249
+          "overlap": 0.71551
         },
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.283989
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.000645
-        },
-        {
-          "nr": 17,
-          "name": "Mittelsachsen 1",
-          "overlap": 0.000573
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.000544
+          "overlap": 0.28449
         }
       ],
       "primary": 20,
@@ -10719,73 +6898,10 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.997104
-        },
-        {
-          "nr": 20,
-          "name": "Mittelsachsen 4",
-          "overlap": 0.001751
-        },
-        {
-          "nr": 19,
-          "name": "Mittelsachsen 3",
-          "overlap": 0.000873
-        },
-        {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 9.1e-05
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 9.1e-05
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 9.1e-05
+          "overlap": 1.0
         }
       ],
       "primary": 18,
-      "period_id": 157
-    },
-    "95183": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Vogtland 1",
-          "overlap": 0.78334
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.21666
-        }
-      ],
-      "primary": 1,
-      "period_id": 157
-    },
-    "95185": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 157
-    },
-    "95194": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
       "period_id": 157
     }
   }

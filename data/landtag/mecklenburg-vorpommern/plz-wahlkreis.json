@@ -1,103 +1,15 @@
 {
   "meta": {
-    "election": "Mecklenburg-Vorpommern 2021",
+    "election": "Mecklenburg-Vorpommern 2026",
     "constituencies": 36,
     "sources": [
       "LAIV Mecklenburg-Vorpommern / Landeswahlleiterin (dl-de/by-2-0)",
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
-    "plz_count": 224,
-    "generated": "2026-04-02"
+    "plz_count": 193,
+    "generated": "2026-10-23"
   },
   "data": {
-    "16306": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Vorpommern-Greifswald V",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 36,
-      "period_id": 134
-    },
-    "16307": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Vorpommern-Greifswald V",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 36,
-      "period_id": 134
-    },
-    "16798": {
-      "wahlkreise": [
-        {
-          "nr": 21,
-          "name": "Mecklenburgische Seenplatte IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 21,
-      "period_id": 134
-    },
-    "16831": {
-      "wahlkreise": [
-        {
-          "nr": 21,
-          "name": "Mecklenburgische Seenplatte IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 21,
-      "period_id": 134
-    },
-    "16837": {
-      "wahlkreise": [
-        {
-          "nr": 20,
-          "name": "Mecklenburgische Seenplatte III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 20,
-      "period_id": 134
-    },
-    "16909": {
-      "wahlkreise": [
-        {
-          "nr": 20,
-          "name": "Mecklenburgische Seenplatte III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 20,
-      "period_id": 134
-    },
-    "16945": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Ludwigslust-Parchim IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 31,
-      "period_id": 134
-    },
-    "16949": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Ludwigslust-Parchim IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 31,
-      "period_id": 134
-    },
     "17033": {
       "wahlkreise": [
         {
@@ -117,7 +29,7 @@
         }
       ],
       "primary": 2,
-      "period_id": 134
+      "period_id": 177
     },
     "17034": {
       "wahlkreise": [
@@ -128,7 +40,7 @@
         }
       ],
       "primary": 3,
-      "period_id": 134
+      "period_id": 177
     },
     "17036": {
       "wahlkreise": [
@@ -139,7 +51,7 @@
         }
       ],
       "primary": 2,
-      "period_id": 134
+      "period_id": 177
     },
     "17039": {
       "wahlkreise": [
@@ -150,7 +62,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17087": {
       "wahlkreise": [
@@ -161,7 +73,7 @@
         }
       ],
       "primary": 14,
-      "period_id": 134
+      "period_id": 177
     },
     "17089": {
       "wahlkreise": [
@@ -172,7 +84,7 @@
         }
       ],
       "primary": 14,
-      "period_id": 134
+      "period_id": 177
     },
     "17091": {
       "wahlkreise": [
@@ -183,7 +95,7 @@
         }
       ],
       "primary": 14,
-      "period_id": 134
+      "period_id": 177
     },
     "17094": {
       "wahlkreise": [
@@ -194,7 +106,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17098": {
       "wahlkreise": [
@@ -205,7 +117,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17099": {
       "wahlkreise": [
@@ -216,7 +128,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17109": {
       "wahlkreise": [
@@ -227,7 +139,7 @@
         }
       ],
       "primary": 13,
-      "period_id": 134
+      "period_id": 177
     },
     "17111": {
       "wahlkreise": [
@@ -238,7 +150,7 @@
         }
       ],
       "primary": 13,
-      "period_id": 134
+      "period_id": 177
     },
     "17121": {
       "wahlkreise": [
@@ -249,7 +161,7 @@
         }
       ],
       "primary": 13,
-      "period_id": 134
+      "period_id": 177
     },
     "17126": {
       "wahlkreise": [
@@ -260,7 +172,7 @@
         }
       ],
       "primary": 13,
-      "period_id": 134
+      "period_id": 177
     },
     "17129": {
       "wahlkreise": [
@@ -271,7 +183,7 @@
         }
       ],
       "primary": 13,
-      "period_id": 134
+      "period_id": 177
     },
     "17139": {
       "wahlkreise": [
@@ -282,7 +194,7 @@
         }
       ],
       "primary": 14,
-      "period_id": 134
+      "period_id": 177
     },
     "17153": {
       "wahlkreise": [
@@ -293,7 +205,7 @@
         }
       ],
       "primary": 14,
-      "period_id": 134
+      "period_id": 177
     },
     "17154": {
       "wahlkreise": [
@@ -304,7 +216,7 @@
         }
       ],
       "primary": 14,
-      "period_id": 134
+      "period_id": 177
     },
     "17159": {
       "wahlkreise": [
@@ -315,7 +227,7 @@
         }
       ],
       "primary": 13,
-      "period_id": 134
+      "period_id": 177
     },
     "17166": {
       "wahlkreise": [
@@ -326,7 +238,7 @@
         }
       ],
       "primary": 15,
-      "period_id": 134
+      "period_id": 177
     },
     "17168": {
       "wahlkreise": [
@@ -337,7 +249,7 @@
         }
       ],
       "primary": 15,
-      "period_id": 134
+      "period_id": 177
     },
     "17179": {
       "wahlkreise": [
@@ -348,7 +260,7 @@
         }
       ],
       "primary": 15,
-      "period_id": 134
+      "period_id": 177
     },
     "17192": {
       "wahlkreise": [
@@ -359,7 +271,7 @@
         }
       ],
       "primary": 20,
-      "period_id": 134
+      "period_id": 177
     },
     "17194": {
       "wahlkreise": [
@@ -370,7 +282,7 @@
         }
       ],
       "primary": 20,
-      "period_id": 134
+      "period_id": 177
     },
     "17207": {
       "wahlkreise": [
@@ -381,7 +293,7 @@
         }
       ],
       "primary": 20,
-      "period_id": 134
+      "period_id": 177
     },
     "17209": {
       "wahlkreise": [
@@ -392,7 +304,7 @@
         }
       ],
       "primary": 20,
-      "period_id": 134
+      "period_id": 177
     },
     "17213": {
       "wahlkreise": [
@@ -403,7 +315,7 @@
         }
       ],
       "primary": 20,
-      "period_id": 134
+      "period_id": 177
     },
     "17214": {
       "wahlkreise": [
@@ -414,7 +326,7 @@
         }
       ],
       "primary": 20,
-      "period_id": 134
+      "period_id": 177
     },
     "17217": {
       "wahlkreise": [
@@ -425,7 +337,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17219": {
       "wahlkreise": [
@@ -436,7 +348,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17235": {
       "wahlkreise": [
@@ -447,7 +359,7 @@
         }
       ],
       "primary": 21,
-      "period_id": 134
+      "period_id": 177
     },
     "17237": {
       "wahlkreise": [
@@ -458,7 +370,7 @@
         }
       ],
       "primary": 21,
-      "period_id": 134
+      "period_id": 177
     },
     "17248": {
       "wahlkreise": [
@@ -469,7 +381,7 @@
         }
       ],
       "primary": 20,
-      "period_id": 134
+      "period_id": 177
     },
     "17252": {
       "wahlkreise": [
@@ -485,7 +397,7 @@
         }
       ],
       "primary": 21,
-      "period_id": 134
+      "period_id": 177
     },
     "17255": {
       "wahlkreise": [
@@ -496,7 +408,7 @@
         }
       ],
       "primary": 21,
-      "period_id": 134
+      "period_id": 177
     },
     "17258": {
       "wahlkreise": [
@@ -507,40 +419,7 @@
         }
       ],
       "primary": 21,
-      "period_id": 134
-    },
-    "17268": {
-      "wahlkreise": [
-        {
-          "nr": 21,
-          "name": "Mecklenburgische Seenplatte IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 21,
-      "period_id": 134
-    },
-    "17279": {
-      "wahlkreise": [
-        {
-          "nr": 21,
-          "name": "Mecklenburgische Seenplatte IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 21,
-      "period_id": 134
-    },
-    "17291": {
-      "wahlkreise": [
-        {
-          "nr": 22,
-          "name": "Mecklenburgische Seenplatte V",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17309": {
       "wahlkreise": [
@@ -551,7 +430,7 @@
         }
       ],
       "primary": 36,
-      "period_id": 134
+      "period_id": 177
     },
     "17321": {
       "wahlkreise": [
@@ -562,7 +441,7 @@
         }
       ],
       "primary": 36,
-      "period_id": 134
+      "period_id": 177
     },
     "17322": {
       "wahlkreise": [
@@ -573,18 +452,7 @@
         }
       ],
       "primary": 36,
-      "period_id": 134
-    },
-    "17326": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Vorpommern-Greifswald V",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 36,
-      "period_id": 134
+      "period_id": 177
     },
     "17328": {
       "wahlkreise": [
@@ -595,7 +463,7 @@
         }
       ],
       "primary": 36,
-      "period_id": 134
+      "period_id": 177
     },
     "17329": {
       "wahlkreise": [
@@ -606,7 +474,7 @@
         }
       ],
       "primary": 36,
-      "period_id": 134
+      "period_id": 177
     },
     "17335": {
       "wahlkreise": [
@@ -617,7 +485,7 @@
         }
       ],
       "primary": 36,
-      "period_id": 134
+      "period_id": 177
     },
     "17337": {
       "wahlkreise": [
@@ -633,7 +501,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17348": {
       "wahlkreise": [
@@ -644,7 +512,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17349": {
       "wahlkreise": [
@@ -655,7 +523,7 @@
         }
       ],
       "primary": 22,
-      "period_id": 134
+      "period_id": 177
     },
     "17358": {
       "wahlkreise": [
@@ -666,7 +534,7 @@
         }
       ],
       "primary": 35,
-      "period_id": 134
+      "period_id": 177
     },
     "17367": {
       "wahlkreise": [
@@ -677,7 +545,7 @@
         }
       ],
       "primary": 35,
-      "period_id": 134
+      "period_id": 177
     },
     "17373": {
       "wahlkreise": [
@@ -688,7 +556,7 @@
         }
       ],
       "primary": 35,
-      "period_id": 134
+      "period_id": 177
     },
     "17375": {
       "wahlkreise": [
@@ -699,7 +567,7 @@
         }
       ],
       "primary": 35,
-      "period_id": 134
+      "period_id": 177
     },
     "17379": {
       "wahlkreise": [
@@ -710,7 +578,7 @@
         }
       ],
       "primary": 35,
-      "period_id": 134
+      "period_id": 177
     },
     "17389": {
       "wahlkreise": [
@@ -721,7 +589,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17390": {
       "wahlkreise": [
@@ -732,7 +600,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17391": {
       "wahlkreise": [
@@ -743,7 +611,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17392": {
       "wahlkreise": [
@@ -754,7 +622,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17398": {
       "wahlkreise": [
@@ -765,7 +633,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17406": {
       "wahlkreise": [
@@ -776,7 +644,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17419": {
       "wahlkreise": [
@@ -787,7 +655,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17424": {
       "wahlkreise": [
@@ -798,7 +666,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17429": {
       "wahlkreise": [
@@ -809,7 +677,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17438": {
       "wahlkreise": [
@@ -820,7 +688,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17440": {
       "wahlkreise": [
@@ -831,7 +699,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17449": {
       "wahlkreise": [
@@ -842,7 +710,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17454": {
       "wahlkreise": [
@@ -853,7 +721,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17459": {
       "wahlkreise": [
@@ -864,7 +732,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "17489": {
       "wahlkreise": [
@@ -880,7 +748,7 @@
         }
       ],
       "primary": 1,
-      "period_id": 134
+      "period_id": 177
     },
     "17491": {
       "wahlkreise": [
@@ -896,7 +764,7 @@
         }
       ],
       "primary": 1,
-      "period_id": 134
+      "period_id": 177
     },
     "17493": {
       "wahlkreise": [
@@ -912,7 +780,7 @@
         }
       ],
       "primary": 1,
-      "period_id": 134
+      "period_id": 177
     },
     "17495": {
       "wahlkreise": [
@@ -923,7 +791,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17498": {
       "wahlkreise": [
@@ -934,7 +802,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17506": {
       "wahlkreise": [
@@ -945,7 +813,7 @@
         }
       ],
       "primary": 29,
-      "period_id": 134
+      "period_id": 177
     },
     "17509": {
       "wahlkreise": [
@@ -956,7 +824,7 @@
         }
       ],
       "primary": 30,
-      "period_id": 134
+      "period_id": 177
     },
     "18055": {
       "wahlkreise": [
@@ -972,7 +840,7 @@
         }
       ],
       "primary": 7,
-      "period_id": 134
+      "period_id": 177
     },
     "18057": {
       "wahlkreise": [
@@ -988,7 +856,7 @@
         }
       ],
       "primary": 6,
-      "period_id": 134
+      "period_id": 177
     },
     "18059": {
       "wahlkreise": [
@@ -1004,7 +872,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18069": {
       "wahlkreise": [
@@ -1030,7 +898,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18106": {
       "wahlkreise": [
@@ -1046,7 +914,7 @@
         }
       ],
       "primary": 5,
-      "period_id": 134
+      "period_id": 177
     },
     "18107": {
       "wahlkreise": [
@@ -1067,7 +935,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18109": {
       "wahlkreise": [
@@ -1083,7 +951,7 @@
         }
       ],
       "primary": 4,
-      "period_id": 134
+      "period_id": 177
     },
     "18119": {
       "wahlkreise": [
@@ -1094,7 +962,7 @@
         }
       ],
       "primary": 4,
-      "period_id": 134
+      "period_id": 177
     },
     "18146": {
       "wahlkreise": [
@@ -1110,7 +978,7 @@
         }
       ],
       "primary": 7,
-      "period_id": 134
+      "period_id": 177
     },
     "18147": {
       "wahlkreise": [
@@ -1126,7 +994,7 @@
         }
       ],
       "primary": 7,
-      "period_id": 134
+      "period_id": 177
     },
     "18181": {
       "wahlkreise": [
@@ -1142,7 +1010,7 @@
         }
       ],
       "primary": 7,
-      "period_id": 134
+      "period_id": 177
     },
     "18182": {
       "wahlkreise": [
@@ -1158,7 +1026,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18184": {
       "wahlkreise": [
@@ -1169,7 +1037,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18190": {
       "wahlkreise": [
@@ -1180,7 +1048,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18195": {
       "wahlkreise": [
@@ -1191,7 +1059,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18196": {
       "wahlkreise": [
@@ -1202,7 +1070,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18198": {
       "wahlkreise": [
@@ -1213,7 +1081,7 @@
         }
       ],
       "primary": 12,
-      "period_id": 134
+      "period_id": 177
     },
     "18209": {
       "wahlkreise": [
@@ -1224,7 +1092,7 @@
         }
       ],
       "primary": 11,
-      "period_id": 134
+      "period_id": 177
     },
     "18211": {
       "wahlkreise": [
@@ -1235,7 +1103,7 @@
         }
       ],
       "primary": 11,
-      "period_id": 134
+      "period_id": 177
     },
     "18225": {
       "wahlkreise": [
@@ -1246,7 +1114,7 @@
         }
       ],
       "primary": 11,
-      "period_id": 134
+      "period_id": 177
     },
     "18230": {
       "wahlkreise": [
@@ -1257,7 +1125,7 @@
         }
       ],
       "primary": 11,
-      "period_id": 134
+      "period_id": 177
     },
     "18233": {
       "wahlkreise": [
@@ -1268,7 +1136,7 @@
         }
       ],
       "primary": 11,
-      "period_id": 134
+      "period_id": 177
     },
     "18236": {
       "wahlkreise": [
@@ -1279,7 +1147,7 @@
         }
       ],
       "primary": 11,
-      "period_id": 134
+      "period_id": 177
     },
     "18239": {
       "wahlkreise": [
@@ -1290,7 +1158,7 @@
         }
       ],
       "primary": 11,
-      "period_id": 134
+      "period_id": 177
     },
     "18246": {
       "wahlkreise": [
@@ -1301,7 +1169,7 @@
         }
       ],
       "primary": 16,
-      "period_id": 134
+      "period_id": 177
     },
     "18249": {
       "wahlkreise": [
@@ -1312,7 +1180,7 @@
         }
       ],
       "primary": 16,
-      "period_id": 134
+      "period_id": 177
     },
     "18258": {
       "wahlkreise": [
@@ -1323,7 +1191,7 @@
         }
       ],
       "primary": 15,
-      "period_id": 134
+      "period_id": 177
     },
     "18273": {
       "wahlkreise": [
@@ -1334,7 +1202,7 @@
         }
       ],
       "primary": 16,
-      "period_id": 134
+      "period_id": 177
     },
     "18276": {
       "wahlkreise": [
@@ -1345,7 +1213,7 @@
         }
       ],
       "primary": 16,
-      "period_id": 134
+      "period_id": 177
     },
     "18279": {
       "wahlkreise": [
@@ -1356,7 +1224,7 @@
         }
       ],
       "primary": 15,
-      "period_id": 134
+      "period_id": 177
     },
     "18292": {
       "wahlkreise": [
@@ -1367,7 +1235,7 @@
         }
       ],
       "primary": 15,
-      "period_id": 134
+      "period_id": 177
     },
     "18299": {
       "wahlkreise": [
@@ -1378,7 +1246,7 @@
         }
       ],
       "primary": 15,
-      "period_id": 134
+      "period_id": 177
     },
     "18311": {
       "wahlkreise": [
@@ -1389,7 +1257,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18314": {
       "wahlkreise": [
@@ -1400,7 +1268,7 @@
         }
       ],
       "primary": 25,
-      "period_id": 134
+      "period_id": 177
     },
     "18317": {
       "wahlkreise": [
@@ -1411,7 +1279,7 @@
         }
       ],
       "primary": 25,
-      "period_id": 134
+      "period_id": 177
     },
     "18320": {
       "wahlkreise": [
@@ -1427,7 +1295,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18334": {
       "wahlkreise": [
@@ -1438,7 +1306,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18337": {
       "wahlkreise": [
@@ -1449,7 +1317,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18347": {
       "wahlkreise": [
@@ -1460,7 +1328,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18356": {
       "wahlkreise": [
@@ -1471,7 +1339,7 @@
         }
       ],
       "primary": 25,
-      "period_id": 134
+      "period_id": 177
     },
     "18374": {
       "wahlkreise": [
@@ -1482,7 +1350,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18375": {
       "wahlkreise": [
@@ -1493,7 +1361,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18435": {
       "wahlkreise": [
@@ -1509,7 +1377,7 @@
         }
       ],
       "primary": 25,
-      "period_id": 134
+      "period_id": 177
     },
     "18437": {
       "wahlkreise": [
@@ -1525,7 +1393,7 @@
         }
       ],
       "primary": 26,
-      "period_id": 134
+      "period_id": 177
     },
     "18439": {
       "wahlkreise": [
@@ -1541,7 +1409,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18442": {
       "wahlkreise": [
@@ -1552,7 +1420,7 @@
         }
       ],
       "primary": 25,
-      "period_id": 134
+      "period_id": 177
     },
     "18445": {
       "wahlkreise": [
@@ -1563,7 +1431,7 @@
         }
       ],
       "primary": 25,
-      "period_id": 134
+      "period_id": 177
     },
     "18461": {
       "wahlkreise": [
@@ -1574,7 +1442,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18465": {
       "wahlkreise": [
@@ -1585,7 +1453,7 @@
         }
       ],
       "primary": 23,
-      "period_id": 134
+      "period_id": 177
     },
     "18469": {
       "wahlkreise": [
@@ -1601,7 +1469,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18507": {
       "wahlkreise": [
@@ -1612,7 +1480,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18510": {
       "wahlkreise": [
@@ -1628,7 +1496,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18513": {
       "wahlkreise": [
@@ -1644,7 +1512,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18516": {
       "wahlkreise": [
@@ -1655,7 +1523,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18519": {
       "wahlkreise": [
@@ -1666,7 +1534,7 @@
         }
       ],
       "primary": 24,
-      "period_id": 134
+      "period_id": 177
     },
     "18528": {
       "wahlkreise": [
@@ -1677,7 +1545,7 @@
         }
       ],
       "primary": 34,
-      "period_id": 134
+      "period_id": 177
     },
     "18546": {
       "wahlkreise": [
@@ -1693,7 +1561,7 @@
         }
       ],
       "primary": 33,
-      "period_id": 134
+      "period_id": 177
     },
     "18551": {
       "wahlkreise": [
@@ -1704,7 +1572,7 @@
         }
       ],
       "primary": 33,
-      "period_id": 134
+      "period_id": 177
     },
     "18556": {
       "wahlkreise": [
@@ -1715,7 +1583,7 @@
         }
       ],
       "primary": 33,
-      "period_id": 134
+      "period_id": 177
     },
     "18565": {
       "wahlkreise": [
@@ -1726,7 +1594,7 @@
         }
       ],
       "primary": 33,
-      "period_id": 134
+      "period_id": 177
     },
     "18569": {
       "wahlkreise": [
@@ -1737,7 +1605,7 @@
         }
       ],
       "primary": 33,
-      "period_id": 134
+      "period_id": 177
     },
     "18573": {
       "wahlkreise": [
@@ -1748,7 +1616,7 @@
         }
       ],
       "primary": 33,
-      "period_id": 134
+      "period_id": 177
     },
     "18574": {
       "wahlkreise": [
@@ -1759,7 +1627,7 @@
         }
       ],
       "primary": 33,
-      "period_id": 134
+      "period_id": 177
     },
     "18581": {
       "wahlkreise": [
@@ -1770,7 +1638,7 @@
         }
       ],
       "primary": 34,
-      "period_id": 134
+      "period_id": 177
     },
     "18586": {
       "wahlkreise": [
@@ -1781,7 +1649,7 @@
         }
       ],
       "primary": 34,
-      "period_id": 134
+      "period_id": 177
     },
     "18609": {
       "wahlkreise": [
@@ -1792,7 +1660,7 @@
         }
       ],
       "primary": 34,
-      "period_id": 134
+      "period_id": 177
     },
     "19053": {
       "wahlkreise": [
@@ -1808,7 +1676,7 @@
         }
       ],
       "primary": 8,
-      "period_id": 134
+      "period_id": 177
     },
     "19055": {
       "wahlkreise": [
@@ -1824,7 +1692,7 @@
         }
       ],
       "primary": 8,
-      "period_id": 134
+      "period_id": 177
     },
     "19057": {
       "wahlkreise": [
@@ -1840,7 +1708,7 @@
         }
       ],
       "primary": 8,
-      "period_id": 134
+      "period_id": 177
     },
     "19059": {
       "wahlkreise": [
@@ -1851,7 +1719,7 @@
         }
       ],
       "primary": 8,
-      "period_id": 134
+      "period_id": 177
     },
     "19061": {
       "wahlkreise": [
@@ -1867,7 +1735,7 @@
         }
       ],
       "primary": 9,
-      "period_id": 134
+      "period_id": 177
     },
     "19063": {
       "wahlkreise": [
@@ -1883,7 +1751,7 @@
         }
       ],
       "primary": 8,
-      "period_id": 134
+      "period_id": 177
     },
     "19065": {
       "wahlkreise": [
@@ -1894,7 +1762,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19067": {
       "wahlkreise": [
@@ -1905,7 +1773,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19069": {
       "wahlkreise": [
@@ -1916,7 +1784,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "19071": {
       "wahlkreise": [
@@ -1927,7 +1795,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "19073": {
       "wahlkreise": [
@@ -1943,7 +1811,7 @@
         }
       ],
       "primary": 18,
-      "period_id": 134
+      "period_id": 177
     },
     "19075": {
       "wahlkreise": [
@@ -1954,7 +1822,7 @@
         }
       ],
       "primary": 18,
-      "period_id": 134
+      "period_id": 177
     },
     "19077": {
       "wahlkreise": [
@@ -1965,7 +1833,7 @@
         }
       ],
       "primary": 19,
-      "period_id": 134
+      "period_id": 177
     },
     "19079": {
       "wahlkreise": [
@@ -1976,7 +1844,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19086": {
       "wahlkreise": [
@@ -1987,7 +1855,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19089": {
       "wahlkreise": [
@@ -1998,7 +1866,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19205": {
       "wahlkreise": [
@@ -2014,7 +1882,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "19209": {
       "wahlkreise": [
@@ -2025,7 +1893,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "19217": {
       "wahlkreise": [
@@ -2036,7 +1904,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "19230": {
       "wahlkreise": [
@@ -2047,7 +1915,7 @@
         }
       ],
       "primary": 18,
-      "period_id": 134
+      "period_id": 177
     },
     "19243": {
       "wahlkreise": [
@@ -2058,7 +1926,7 @@
         }
       ],
       "primary": 18,
-      "period_id": 134
+      "period_id": 177
     },
     "19246": {
       "wahlkreise": [
@@ -2069,7 +1937,7 @@
         }
       ],
       "primary": 17,
-      "period_id": 134
+      "period_id": 177
     },
     "19249": {
       "wahlkreise": [
@@ -2080,7 +1948,7 @@
         }
       ],
       "primary": 17,
-      "period_id": 134
+      "period_id": 177
     },
     "19258": {
       "wahlkreise": [
@@ -2091,7 +1959,7 @@
         }
       ],
       "primary": 17,
-      "period_id": 134
+      "period_id": 177
     },
     "19260": {
       "wahlkreise": [
@@ -2102,7 +1970,7 @@
         }
       ],
       "primary": 17,
-      "period_id": 134
+      "period_id": 177
     },
     "19273": {
       "wahlkreise": [
@@ -2113,7 +1981,7 @@
         }
       ],
       "primary": 17,
-      "period_id": 134
+      "period_id": 177
     },
     "19288": {
       "wahlkreise": [
@@ -2124,7 +1992,7 @@
         }
       ],
       "primary": 19,
-      "period_id": 134
+      "period_id": 177
     },
     "19294": {
       "wahlkreise": [
@@ -2140,7 +2008,7 @@
         }
       ],
       "primary": 17,
-      "period_id": 134
+      "period_id": 177
     },
     "19300": {
       "wahlkreise": [
@@ -2151,7 +2019,7 @@
         }
       ],
       "primary": 19,
-      "period_id": 134
+      "period_id": 177
     },
     "19303": {
       "wahlkreise": [
@@ -2162,7 +2030,7 @@
         }
       ],
       "primary": 17,
-      "period_id": 134
+      "period_id": 177
     },
     "19306": {
       "wahlkreise": [
@@ -2173,29 +2041,7 @@
         }
       ],
       "primary": 19,
-      "period_id": 134
-    },
-    "19309": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "19348": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Ludwigslust-Parchim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 19,
-      "period_id": 134
+      "period_id": 177
     },
     "19357": {
       "wahlkreise": [
@@ -2206,7 +2052,7 @@
         }
       ],
       "primary": 19,
-      "period_id": 134
+      "period_id": 177
     },
     "19370": {
       "wahlkreise": [
@@ -2217,7 +2063,7 @@
         }
       ],
       "primary": 31,
-      "period_id": 134
+      "period_id": 177
     },
     "19372": {
       "wahlkreise": [
@@ -2233,7 +2079,7 @@
         }
       ],
       "primary": 31,
-      "period_id": 134
+      "period_id": 177
     },
     "19374": {
       "wahlkreise": [
@@ -2249,7 +2095,7 @@
         }
       ],
       "primary": 31,
-      "period_id": 134
+      "period_id": 177
     },
     "19376": {
       "wahlkreise": [
@@ -2260,7 +2106,7 @@
         }
       ],
       "primary": 31,
-      "period_id": 134
+      "period_id": 177
     },
     "19386": {
       "wahlkreise": [
@@ -2271,7 +2117,7 @@
         }
       ],
       "primary": 31,
-      "period_id": 134
+      "period_id": 177
     },
     "19395": {
       "wahlkreise": [
@@ -2282,7 +2128,7 @@
         }
       ],
       "primary": 31,
-      "period_id": 134
+      "period_id": 177
     },
     "19399": {
       "wahlkreise": [
@@ -2293,7 +2139,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19406": {
       "wahlkreise": [
@@ -2304,7 +2150,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19412": {
       "wahlkreise": [
@@ -2315,7 +2161,7 @@
         }
       ],
       "primary": 32,
-      "period_id": 134
+      "period_id": 177
     },
     "19417": {
       "wahlkreise": [
@@ -2326,106 +2172,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
-    },
-    "21354": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "21483": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "21514": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "21522": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "23562": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
-    },
-    "23564": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
-    },
-    "23566": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
-    },
-    "23568": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
-    },
-    "23569": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23570": {
       "wahlkreise": [
@@ -2436,62 +2183,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
-    },
-    "23627": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
-    },
-    "23883": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "23899": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "23909": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
-    },
-    "23911": {
-      "wahlkreise": [
-        {
-          "nr": 27,
-          "name": "Nordwestmecklenburg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23923": {
       "wahlkreise": [
@@ -2502,7 +2194,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23936": {
       "wahlkreise": [
@@ -2513,7 +2205,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23942": {
       "wahlkreise": [
@@ -2524,7 +2216,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23946": {
       "wahlkreise": [
@@ -2535,7 +2227,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23948": {
       "wahlkreise": [
@@ -2546,7 +2238,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23966": {
       "wahlkreise": [
@@ -2562,7 +2254,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "23968": {
       "wahlkreise": [
@@ -2583,7 +2275,7 @@
         }
       ],
       "primary": 27,
-      "period_id": 134
+      "period_id": 177
     },
     "23970": {
       "wahlkreise": [
@@ -2599,7 +2291,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "23972": {
       "wahlkreise": [
@@ -2610,7 +2302,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "23974": {
       "wahlkreise": [
@@ -2621,7 +2313,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "23992": {
       "wahlkreise": [
@@ -2632,7 +2324,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "23996": {
       "wahlkreise": [
@@ -2643,7 +2335,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
+      "period_id": 177
     },
     "23999": {
       "wahlkreise": [
@@ -2654,40 +2346,7 @@
         }
       ],
       "primary": 28,
-      "period_id": 134
-    },
-    "29472": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "29476": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
-    },
-    "29484": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Ludwigslust-Parchim I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 17,
-      "period_id": 134
+      "period_id": 177
     }
   }
 }

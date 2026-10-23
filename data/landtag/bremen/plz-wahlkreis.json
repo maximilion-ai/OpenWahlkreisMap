@@ -3,12 +3,101 @@
     "election": "Bremen 2023",
     "constituencies": 2,
     "sources": [
-      "Landeswahlleiter Bremen (public domain)"
+      "Landeswahlleiter Bremen (public domain)",
+      "BKG VG250 — Gemeindegrenzen (dl-de/by-2-0, © GeoBasis-DE / BKG 2024)",
+      "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
     "plz_count": 40,
-    "generated": "2026-04-23"
+    "generated": "2026-10-23"
   },
   "data": {
+    "27568": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 0.562477
+        },
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 0.437523
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27570": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27572": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27574": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27576": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27578": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
+    "27580": {
+      "wahlkreise": [
+        {
+          "nr": 2,
+          "name": "Bremerhaven",
+          "overlap": 0.969569
+        },
+        {
+          "nr": 1,
+          "name": "Bremen",
+          "overlap": 0.030431
+        }
+      ],
+      "primary": 2,
+      "period_id": 146
+    },
     "28195": {
       "wahlkreise": [
         {
@@ -370,83 +459,6 @@
         }
       ],
       "primary": 1,
-      "period_id": 146
-    },
-    "27568": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Bremerhaven",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 146
-    },
-    "27570": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Bremerhaven",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 146
-    },
-    "27572": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Bremerhaven",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 146
-    },
-    "27574": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Bremerhaven",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 146
-    },
-    "27576": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Bremerhaven",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 146
-    },
-    "27578": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Bremerhaven",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 146
-    },
-    "27580": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Bremerhaven",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
       "period_id": 146
     }
   }

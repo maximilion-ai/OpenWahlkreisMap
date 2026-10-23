@@ -4,171 +4,13 @@
     "constituencies": 3,
     "sources": [
       "Landeswahlleiter Saarland (public domain)",
-      "BKG VG250 — Gemeindegrenzen (dl-de/by-2-0, © GeoBasis-DE / BKG 2024)"
+      "BKG VG250 — Gemeindegrenzen (dl-de/by-2-0, © GeoBasis-DE / BKG 2024)",
+      "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
-    "plz_count": 92,
-    "generated": "2026-04-22"
+    "plz_count": 71,
+    "generated": "2026-10-23"
   },
   "data": {
-    "54314": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 137
-    },
-    "54411": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "54413": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.837024
-        },
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 0.162976
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "54422": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "54427": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 137
-    },
-    "54429": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 137
-    },
-    "54439": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 137
-    },
-    "54441": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 137
-    },
-    "54450": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 137
-    },
-    "54455": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 137
-    },
-    "55765": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "55767": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "55776": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "55777": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
     "66111": {
       "wahlkreise": [
         {
@@ -251,12 +93,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.999714
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.000286
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -311,12 +148,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.999576
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.000424
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -354,12 +186,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.996653
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.003347
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -370,17 +197,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.992163
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.004262
-        },
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 0.003575
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -391,12 +208,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.998107
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.001893
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -407,12 +219,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.996602
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.003398
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -423,12 +230,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.996012
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.003988
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -466,12 +268,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.997712
-        },
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 0.002288
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -482,12 +279,7 @@
         {
           "nr": 1,
           "name": "Saarbrücken",
-          "overlap": 0.993247
-        },
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 0.006753
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -525,12 +317,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.991358
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.008642
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -541,12 +328,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.998824
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.001176
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -607,28 +389,6 @@
       "primary": 3,
       "period_id": 137
     },
-    "66482": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "66500": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
     "66538": {
       "wahlkreise": [
         {
@@ -656,12 +416,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.998319
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.001681
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -672,12 +427,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.997685
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.002315
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -699,17 +449,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.995892
-        },
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 0.002112
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.001996
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -720,12 +460,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.995999
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.004001
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -736,12 +471,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.99575
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.00425
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -779,12 +509,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.997884
-        },
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 0.002116
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -817,12 +542,7 @@
         {
           "nr": 3,
           "name": "Neunkirchen",
-          "overlap": 0.996286
-        },
-        {
-          "nr": 2,
-          "name": "Saarlouis",
-          "overlap": 0.003714
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -888,12 +608,7 @@
         {
           "nr": 2,
           "name": "Saarlouis",
-          "overlap": 0.998853
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.001147
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -970,12 +685,7 @@
         {
           "nr": 2,
           "name": "Saarlouis",
-          "overlap": 0.997715
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.002285
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -997,12 +707,7 @@
         {
           "nr": 2,
           "name": "Saarlouis",
-          "overlap": 0.99463
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.00537
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -1013,12 +718,7 @@
         {
           "nr": 2,
           "name": "Saarlouis",
-          "overlap": 0.997379
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.002621
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -1073,17 +773,7 @@
         {
           "nr": 2,
           "name": "Saarlouis",
-          "overlap": 0.9963
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.003405
-        },
-        {
-          "nr": 1,
-          "name": "Saarbrücken",
-          "overlap": 0.000295
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -1094,70 +784,10 @@
         {
           "nr": 2,
           "name": "Saarlouis",
-          "overlap": 0.999528
-        },
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 0.000472
+          "overlap": 1.0
         }
       ],
       "primary": 2,
-      "period_id": 137
-    },
-    "66871": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "66892": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "66894": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "66903": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 137
-    },
-    "66909": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Neunkirchen",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
       "period_id": 137
     },
     "66914": {
