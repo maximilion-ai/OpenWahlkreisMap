@@ -1,38 +1,27 @@
 # Berlin — Abgeordnetenhaus
-# WK boundaries come from the official Berlin Open Data ZIP.
-# The tracked CSV only provides wk_nr -> wk_name labels derived from the
-# official Berlin Wahlkreiskarten PDFs because no better machine-readable
-# name table is published on the official site.
+# The WFS publishes only the Wahlkreis code (Bezirk + local number). Names
+# come from the official Wahlkreiskarten 2026 PDFs:
+# https://www.statistik-berlin-brandenburg.de/wahlkreiskarten-2026/
 state: berlin
 state_name: Berlin
 parliament: Abgeordnetenhaus
 method: spatial
 period_id: 133
 expected_wk_count: 78
+# WFS responses are not byte-stable, so the resulting mapping is pinned instead.
+mapping_checksum_sha256: "f6be177f515283ab31c6706a2ddaed7f0660d043e381df339ff9b2cfbf4d0157"
 election: Berlin 2026
-mapping_checksum_sha256: "8f673e4c9e22378337ac82ea1707a0aa174e5b5ffc1b0e070a0c64123085e236"
+names: configs/landtag/berlin-wahlkreisnamen.csv
 
 sources:
-  - "Landeswahlleiter Berlin / Amt für Statistik Berlin-Brandenburg (CC-BY)"
-  - "Berlin Wahlkreiskarten 2026 PDFs (wk names / descriptions)"
+  - "Amt für Statistik Berlin-Brandenburg — Wahlkreise AGH 2026 via GDI Berlin WFS (CC BY 3.0 DE)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  mode: auto
-  strategy: berlin_zip
-  filename: "RBS_OD_Wahlkreise_AH2026.zip"
-  local_zip_path: "raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip"
-  name_lookup: "configs/landtag/berlin_ortsteil_wahlkreis.csv"
-  checksum_sha256: "4e31b7a1347f83af281d5a0bd99827dc8eca717478da3943e5a6d5829740c040"
-  zip_generated_checksum_sha256: "6efda9e3f4ffd300ae68aaad62eb775093d861a4dcb01b0cdf8f1c76ef066ed2"
-  zip_generated_checksum_mode: "geodata"
+  url: "https://gdi.berlin.de/services/wfs/wahlgebiete_agh2026?service=WFS&version=2.0.0&request=GetFeature&typeNames=wahlgebiete_agh2026:agh2026_awk&outputFormat=application/json&srsName=EPSG:25833"
+  filename: wahlkreise.geojson
   format: geojson
   raw_subdir: berlin
-  source_file: "wahlkreise.geojson"
-  expected_files:
-    - "wahlkreise.geojson"
-  notes: "Requires the official Berlin Open Data ZIP to be copied to raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip. The tracked CSV is kept only as a name lookup derived from the official Wahlkreiskarten PDFs."
 
 columns:
-  wk_nr: wk_nr
-  wk_name: wk_name
+  awk: wk_nr

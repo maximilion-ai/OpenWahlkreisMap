@@ -3,36 +3,36 @@
     "state": "baden-wuerttemberg",
     "plz": "70173",
     "wahlkreis_nr": 1,
-    "wahlkreis_name": "01 - Stuttgart I",
+    "wahlkreis_name": "Stuttgart I",
     "description": "Stuttgart city center"
   },
   {
     "state": "baden-wuerttemberg",
     "plz": "79098",
     "wahlkreis_nr": 46,
-    "wahlkreis_name": "46 - Freiburg I",
+    "wahlkreis_name": "Freiburg I",
     "description": "Freiburg city center"
   },
   {
     "state": "baden-wuerttemberg",
     "plz": "69117",
     "wahlkreis_nr": 34,
-    "wahlkreis_name": "34 - Heidelberg",
+    "wahlkreis_name": "Heidelberg",
     "description": "Heidelberg"
   },
   {
     "state": "bayern",
-    "plz": "80331",
-    "wahlkreis_nr": 101,
-    "wahlkreis_name": "München-Stadt zusammen",
-    "description": "München city center"
+    "plz": "63739",
+    "wahlkreis_nr": 602,
+    "wahlkreis_name": "Aschaffenburg-West",
+    "description": "Aschaffenburg-West; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "bayern",
-    "plz": "90402",
-    "wahlkreis_nr": 501,
-    "wahlkreis_name": "Nürnberg-Stadt zusammen",
-    "description": "Nürnberg city center"
+    "plz": "90513",
+    "wahlkreis_nr": 509,
+    "wahlkreis_name": "Fürth",
+    "description": "Fürth; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "bayern",
@@ -99,24 +99,24 @@
   },
   {
     "state": "hessen",
-    "plz": "60311",
-    "wahlkreis_nr": 34,
-    "wahlkreis_name": "Frankfurt am Main I",
-    "description": "Frankfurt city center"
+    "plz": "34212",
+    "wahlkreis_nr": 7,
+    "wahlkreis_name": "Schwalm-Eder I",
+    "description": "Schwalm-Eder I; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "hessen",
     "plz": "65183",
     "wahlkreis_nr": 30,
-    "wahlkreis_name": "Wahlkreis 30",
+    "wahlkreis_name": "Wiesbaden I",
     "description": "Wiesbaden"
   },
   {
     "state": "hessen",
-    "plz": "34117",
-    "wahlkreis_nr": 3,
-    "wahlkreis_name": "Wahlkreis 3",
-    "description": "Kassel"
+    "plz": "34233",
+    "wahlkreis_nr": 1,
+    "wahlkreis_name": "Kassel-Land I",
+    "description": "Kassel-Land I; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "mecklenburg-vorpommern",
@@ -134,16 +134,16 @@
   },
   {
     "state": "niedersachsen",
-    "plz": "30159",
-    "wahlkreis_nr": 23,
-    "wahlkreis_name": "Wahlkreis 23",
-    "description": "Hannover city center"
+    "plz": "30669",
+    "wahlkreis_nr": 30,
+    "wahlkreis_name": "Langenhagen",
+    "description": "Langenhagen; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "niedersachsen",
     "plz": "26122",
     "wahlkreis_nr": 62,
-    "wahlkreis_name": "Wahlkreis 62",
+    "wahlkreis_name": "Oldenburg-Mitte/Süd",
     "description": "Oldenburg"
   },
   {
@@ -155,10 +155,10 @@
   },
   {
     "state": "nrw",
-    "plz": "50667",
-    "wahlkreis_nr": 13,
-    "wahlkreis_name": "Köln I",
-    "description": "Köln"
+    "plz": "50126",
+    "wahlkreis_nr": 5,
+    "wahlkreis_name": "Rhein-Erft-Kreis I",
+    "description": "Rhein-Erft-Kreis I; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "nrw",
@@ -176,10 +176,10 @@
   },
   {
     "state": "rheinland-pfalz",
-    "plz": "54290",
+    "plz": "54306",
     "wahlkreis_nr": 24,
     "wahlkreis_name": "Trier / Schweich",
-    "description": "Trier"
+    "description": "Trier / Schweich; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "saarland",
@@ -211,44 +211,44 @@
   },
   {
     "state": "sachsen-anhalt",
-    "plz": "39104",
-    "wahlkreis_nr": 10,
-    "wahlkreis_name": "Magdeburg I",
-    "description": "Magdeburg"
+    "plz": "39164",
+    "wahlkreis_nr": 9,
+    "wahlkreis_name": "Oschersleben-Wanzleben",
+    "description": "Oschersleben-Wanzleben; official Gemeinde table and Wahlkreis geometry agree"
   },
   {
     "state": "sachsen-anhalt",
-    "plz": "06108",
+    "plz": "06179",
+    "wahlkreis_nr": 29,
+    "wahlkreis_name": "Saalekreis",
+    "description": "Saalekreis; official Gemeinde table and Wahlkreis geometry agree"
+  },
+  {
+    "state": "schleswig-holstein",
+    "plz": "24211",
+    "wahlkreis_nr": 16,
+    "wahlkreis_name": "Plön-Ostholstein",
+    "description": "Plön-Ostholstein; official Gemeinde table and Wahlkreis geometry agree"
+  },
+  {
+    "state": "schleswig-holstein",
+    "plz": "23619",
+    "wahlkreis_nr": 28,
+    "wahlkreis_name": "Stormarn-Nord",
+    "description": "Stormarn-Nord; official Gemeinde table and Wahlkreis geometry agree"
+  },
+  {
+    "state": "thueringen",
+    "plz": "99100",
+    "wahlkreis_nr": 16,
+    "wahlkreis_name": "Sömmerda I/Gotha III",
+    "description": "Sömmerda I/Gotha III; official Gemeinde table and Wahlkreis geometry agree"
+  },
+  {
+    "state": "thueringen",
+    "plz": "07768",
     "wahlkreis_nr": 35,
-    "wahlkreis_name": "Halle I",
-    "description": "Halle"
-  },
-  {
-    "state": "schleswig-holstein",
-    "plz": "24103",
-    "wahlkreis_nr": 112,
-    "wahlkreis_name": "Wahlkreis 112",
-    "description": "Kiel"
-  },
-  {
-    "state": "schleswig-holstein",
-    "plz": "23552",
-    "wahlkreis_nr": 131,
-    "wahlkreis_name": "Wahlkreis 131",
-    "description": "Lübeck"
-  },
-  {
-    "state": "thueringen",
-    "plz": "99084",
-    "wahlkreis_nr": 24,
-    "wahlkreis_name": "Erfurt I",
-    "description": "Erfurt"
-  },
-  {
-    "state": "thueringen",
-    "plz": "07743",
-    "wahlkreis_nr": 37,
-    "wahlkreis_name": "Jena I",
-    "description": "Jena"
+    "wahlkreis_name": "Saale-Holzland-Kreis I",
+    "description": "Saale-Holzland-Kreis I; official Gemeinde table and Wahlkreis geometry agree"
   }
 ]

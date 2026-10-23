@@ -139,10 +139,18 @@ def verify_mapping(json_path, csv_path, samples_path, expected_wk, expected_plz_
         with open(csv_path, encoding="utf-8") as f:
             reader = csv.DictReader(f)
             csv_rows = list(reader)
-        json_pairs = sum(len(e["wahlkreise"]) for e in mapping.values())
-        if len(csv_rows) != json_pairs:
-            errors.append(check_failed(6, f"{prefix}CSV",
-                                       f"CSV {len(csv_rows)} rows vs JSON {json_pairs} pairs"))
+        csv_records = {
+            (r["plz"], int(r["wahlkreis_nr"]), r["wahlkreis_name"], float(r["overlap"]), r["is_primary"] == "True")
+            for r in csv_rows
+        }
+        json_records = {
+            (plz, wk["nr"], wk["name"], wk["overlap"], wk["nr"] == entry["primary"])
+            for plz, entry in mapping.items()
+            for wk in entry["wahlkreise"]
+        }
+        if len(csv_rows) != len(csv_records) or csv_records != json_records:
+            differing = sorted(csv_records ^ json_records)[:3]
+            errors.append(check_failed(6, f"{prefix}CSV", f"CSV and JSON records differ, e.g. {differing}"))
         else:
             check_passed(6, f"{prefix}CSV consistent ({len(csv_rows)} rows)")
     elif csv_path:

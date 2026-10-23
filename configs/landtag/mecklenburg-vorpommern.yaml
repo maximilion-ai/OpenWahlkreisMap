@@ -2,9 +2,9 @@ state: mecklenburg-vorpommern
 state_name: Mecklenburg-Vorpommern
 parliament: Landtag
 method: spatial
-period_id: 134
+period_id: 177
 expected_wk_count: 36
-election: Mecklenburg-Vorpommern 2021
+election: Mecklenburg-Vorpommern 2026
 
 sources:
   - "LAIV Mecklenburg-Vorpommern / Landeswahlleiterin (dl-de/by-2-0)"

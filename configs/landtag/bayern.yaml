@@ -1,18 +1,21 @@
 state: bayern
 state_name: Bayern
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 149
 expected_wk_count: 91
 election: Bayern 2023
-parser: bayern
 
 sources:
-  - "Bayerisches Landesamt für Statistik (public domain)"
+  - "Bayerisches Landesamt für Statistik — Stimmkreiszuschnitte Landtagswahl 2023 (Datenquelle: Bayerisches Landesamt für Statistik)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://www.landtagswahl2023.bayern.de/files/gemeindeuebersicht_stimmkreise.xlsx"
-  checksum_sha256: "05e01ecb8edc6c4a9c8bbd40549547e0da0f1e4a9a9c284f2064259b6440f713"
-  format: excel
+  url: "https://www.statistik.bayern.de/mam/wahlen/landtagswahlen/ergebnisse/shapefile_stimmkreiseltw_bayern_2023.zip"
+  checksum_sha256: "7847332550be9e4c0333d5ef319f366e6c0b3b7db7b7915c2c37399cab03d6e6"
+  format: shapefile
   raw_subdir: bayern
+
+columns:
+  "SKR_NR": wk_nr
+  "SKR_NAME": wk_name
