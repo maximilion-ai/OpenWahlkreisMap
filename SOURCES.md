@@ -44,14 +44,6 @@ All source datasets used by OpenWahlkreisMap, with provenance and licensing.
 | **License** | ODbl |
 | **Contains** | GeoJSON/TopoJSON of all PLZ areas |
 
-## PLZ Centroid Coordinates
-
-| Field | Value |
-|-------|-------|
-| **Publisher** | WZBSocialScienceCenter |
-| **URL** | https://github.com/WZBSocialScienceCenter/plz_geocoord |
-| **License** | MIT |
-| **Contains** | Lat/lon coordinates for all PLZ centroids |
 
 ## Abgeordnetenwatch API (constituency metadata)
 
