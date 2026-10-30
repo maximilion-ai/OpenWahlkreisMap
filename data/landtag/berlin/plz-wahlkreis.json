@@ -7,7 +7,7 @@
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
     "plz_count": 190,
-    "generated": "2026-10-23"
+    "generated": "2026-10-30"
   },
   "data": {
     "10115": {
@@ -24,7 +24,7 @@
         }
       ],
       "primary": 101,
-      "period_id": 133
+      "period_id": 176
     },
     "10117": {
       "wahlkreise": [
@@ -40,7 +40,7 @@
         }
       ],
       "primary": 102,
-      "period_id": 133
+      "period_id": 176
     },
     "10119": {
       "wahlkreise": [
@@ -61,7 +61,7 @@
         }
       ],
       "primary": 101,
-      "period_id": 133
+      "period_id": 176
     },
     "10178": {
       "wahlkreise": [
@@ -77,7 +77,7 @@
         }
       ],
       "primary": 102,
-      "period_id": 133
+      "period_id": 176
     },
     "10179": {
       "wahlkreise": [
@@ -93,7 +93,7 @@
         }
       ],
       "primary": 102,
-      "period_id": 133
+      "period_id": 176
     },
     "10243": {
       "wahlkreise": [
@@ -114,7 +114,7 @@
         }
       ],
       "primary": 204,
-      "period_id": 133
+      "period_id": 176
     },
     "10245": {
       "wahlkreise": [
@@ -130,7 +130,7 @@
         }
       ],
       "primary": 203,
-      "period_id": 133
+      "period_id": 176
     },
     "10247": {
       "wahlkreise": [
@@ -146,7 +146,7 @@
         }
       ],
       "primary": 205,
-      "period_id": 133
+      "period_id": 176
     },
     "10249": {
       "wahlkreise": [
@@ -167,7 +167,7 @@
         }
       ],
       "primary": 204,
-      "period_id": 133
+      "period_id": 176
     },
     "10315": {
       "wahlkreise": [
@@ -183,7 +183,7 @@
         }
       ],
       "primary": 1103,
-      "period_id": 133
+      "period_id": 176
     },
     "10317": {
       "wahlkreise": [
@@ -209,7 +209,7 @@
         }
       ],
       "primary": 1106,
-      "period_id": 133
+      "period_id": 176
     },
     "10318": {
       "wahlkreise": [
@@ -220,7 +220,7 @@
         }
       ],
       "primary": 1106,
-      "period_id": 133
+      "period_id": 176
     },
     "10319": {
       "wahlkreise": [
@@ -236,7 +236,7 @@
         }
       ],
       "primary": 1105,
-      "period_id": 133
+      "period_id": 176
     },
     "10365": {
       "wahlkreise": [
@@ -252,7 +252,7 @@
         }
       ],
       "primary": 1104,
-      "period_id": 133
+      "period_id": 176
     },
     "10367": {
       "wahlkreise": [
@@ -268,7 +268,7 @@
         }
       ],
       "primary": 1104,
-      "period_id": 133
+      "period_id": 176
     },
     "10369": {
       "wahlkreise": [
@@ -289,7 +289,7 @@
         }
       ],
       "primary": 1103,
-      "period_id": 133
+      "period_id": 176
     },
     "10405": {
       "wahlkreise": [
@@ -310,7 +310,7 @@
         }
       ],
       "primary": 308,
-      "period_id": 133
+      "period_id": 176
     },
     "10407": {
       "wahlkreise": [
@@ -326,7 +326,7 @@
         }
       ],
       "primary": 309,
-      "period_id": 133
+      "period_id": 176
     },
     "10409": {
       "wahlkreise": [
@@ -342,7 +342,7 @@
         }
       ],
       "primary": 307,
-      "period_id": 133
+      "period_id": 176
     },
     "10435": {
       "wahlkreise": [
@@ -363,7 +363,7 @@
         }
       ],
       "primary": 308,
-      "period_id": 133
+      "period_id": 176
     },
     "10437": {
       "wahlkreise": [
@@ -384,7 +384,7 @@
         }
       ],
       "primary": 306,
-      "period_id": 133
+      "period_id": 176
     },
     "10439": {
       "wahlkreise": [
@@ -405,7 +405,7 @@
         }
       ],
       "primary": 306,
-      "period_id": 133
+      "period_id": 176
     },
     "10551": {
       "wahlkreise": [
@@ -421,7 +421,7 @@
         }
       ],
       "primary": 104,
-      "period_id": 133
+      "period_id": 176
     },
     "10553": {
       "wahlkreise": [
@@ -442,7 +442,7 @@
         }
       ],
       "primary": 104,
-      "period_id": 133
+      "period_id": 176
     },
     "10555": {
       "wahlkreise": [
@@ -453,7 +453,7 @@
         }
       ],
       "primary": 103,
-      "period_id": 133
+      "period_id": 176
     },
     "10557": {
       "wahlkreise": [
@@ -474,7 +474,7 @@
         }
       ],
       "primary": 103,
-      "period_id": 133
+      "period_id": 176
     },
     "10559": {
       "wahlkreise": [
@@ -490,7 +490,7 @@
         }
       ],
       "primary": 104,
-      "period_id": 133
+      "period_id": 176
     },
     "10585": {
       "wahlkreise": [
@@ -511,7 +511,7 @@
         }
       ],
       "primary": 404,
-      "period_id": 133
+      "period_id": 176
     },
     "10587": {
       "wahlkreise": [
@@ -527,7 +527,7 @@
         }
       ],
       "primary": 401,
-      "period_id": 133
+      "period_id": 176
     },
     "10589": {
       "wahlkreise": [
@@ -538,7 +538,7 @@
         }
       ],
       "primary": 401,
-      "period_id": 133
+      "period_id": 176
     },
     "10623": {
       "wahlkreise": [
@@ -554,7 +554,7 @@
         }
       ],
       "primary": 404,
-      "period_id": 133
+      "period_id": 176
     },
     "10625": {
       "wahlkreise": [
@@ -565,7 +565,7 @@
         }
       ],
       "primary": 404,
-      "period_id": 133
+      "period_id": 176
     },
     "10627": {
       "wahlkreise": [
@@ -581,7 +581,7 @@
         }
       ],
       "primary": 404,
-      "period_id": 133
+      "period_id": 176
     },
     "10629": {
       "wahlkreise": [
@@ -597,7 +597,7 @@
         }
       ],
       "primary": 403,
-      "period_id": 133
+      "period_id": 176
     },
     "10707": {
       "wahlkreise": [
@@ -628,7 +628,7 @@
         }
       ],
       "primary": 405,
-      "period_id": 133
+      "period_id": 176
     },
     "10709": {
       "wahlkreise": [
@@ -644,7 +644,7 @@
         }
       ],
       "primary": 405,
-      "period_id": 133
+      "period_id": 176
     },
     "10711": {
       "wahlkreise": [
@@ -665,7 +665,7 @@
         }
       ],
       "primary": 405,
-      "period_id": 133
+      "period_id": 176
     },
     "10713": {
       "wahlkreise": [
@@ -686,7 +686,7 @@
         }
       ],
       "primary": 407,
-      "period_id": 133
+      "period_id": 176
     },
     "10715": {
       "wahlkreise": [
@@ -702,7 +702,7 @@
         }
       ],
       "primary": 406,
-      "period_id": 133
+      "period_id": 176
     },
     "10717": {
       "wahlkreise": [
@@ -713,7 +713,7 @@
         }
       ],
       "primary": 406,
-      "period_id": 133
+      "period_id": 176
     },
     "10719": {
       "wahlkreise": [
@@ -729,7 +729,7 @@
         }
       ],
       "primary": 406,
-      "period_id": 133
+      "period_id": 176
     },
     "10777": {
       "wahlkreise": [
@@ -745,7 +745,7 @@
         }
       ],
       "primary": 701,
-      "period_id": 133
+      "period_id": 176
     },
     "10779": {
       "wahlkreise": [
@@ -761,7 +761,7 @@
         }
       ],
       "primary": 701,
-      "period_id": 133
+      "period_id": 176
     },
     "10781": {
       "wahlkreise": [
@@ -772,7 +772,7 @@
         }
       ],
       "primary": 701,
-      "period_id": 133
+      "period_id": 176
     },
     "10783": {
       "wahlkreise": [
@@ -783,7 +783,7 @@
         }
       ],
       "primary": 701,
-      "period_id": 133
+      "period_id": 176
     },
     "10785": {
       "wahlkreise": [
@@ -804,7 +804,7 @@
         }
       ],
       "primary": 103,
-      "period_id": 133
+      "period_id": 176
     },
     "10787": {
       "wahlkreise": [
@@ -825,7 +825,7 @@
         }
       ],
       "primary": 103,
-      "period_id": 133
+      "period_id": 176
     },
     "10789": {
       "wahlkreise": [
@@ -846,7 +846,7 @@
         }
       ],
       "primary": 404,
-      "period_id": 133
+      "period_id": 176
     },
     "10823": {
       "wahlkreise": [
@@ -862,7 +862,7 @@
         }
       ],
       "primary": 702,
-      "period_id": 133
+      "period_id": 176
     },
     "10825": {
       "wahlkreise": [
@@ -883,7 +883,7 @@
         }
       ],
       "primary": 702,
-      "period_id": 133
+      "period_id": 176
     },
     "10827": {
       "wahlkreise": [
@@ -899,7 +899,7 @@
         }
       ],
       "primary": 702,
-      "period_id": 133
+      "period_id": 176
     },
     "10829": {
       "wahlkreise": [
@@ -925,7 +925,7 @@
         }
       ],
       "primary": 702,
-      "period_id": 133
+      "period_id": 176
     },
     "10961": {
       "wahlkreise": [
@@ -936,7 +936,7 @@
         }
       ],
       "primary": 202,
-      "period_id": 133
+      "period_id": 176
     },
     "10963": {
       "wahlkreise": [
@@ -957,7 +957,7 @@
         }
       ],
       "primary": 201,
-      "period_id": 133
+      "period_id": 176
     },
     "10965": {
       "wahlkreise": [
@@ -993,7 +993,7 @@
         }
       ],
       "primary": 202,
-      "period_id": 133
+      "period_id": 176
     },
     "10967": {
       "wahlkreise": [
@@ -1019,7 +1019,7 @@
         }
       ],
       "primary": 202,
-      "period_id": 133
+      "period_id": 176
     },
     "10969": {
       "wahlkreise": [
@@ -1035,7 +1035,7 @@
         }
       ],
       "primary": 201,
-      "period_id": 133
+      "period_id": 176
     },
     "10997": {
       "wahlkreise": [
@@ -1051,7 +1051,7 @@
         }
       ],
       "primary": 201,
-      "period_id": 133
+      "period_id": 176
     },
     "10999": {
       "wahlkreise": [
@@ -1072,7 +1072,7 @@
         }
       ],
       "primary": 203,
-      "period_id": 133
+      "period_id": 176
     },
     "12043": {
       "wahlkreise": [
@@ -1093,7 +1093,7 @@
         }
       ],
       "primary": 802,
-      "period_id": 133
+      "period_id": 176
     },
     "12045": {
       "wahlkreise": [
@@ -1104,7 +1104,7 @@
         }
       ],
       "primary": 801,
-      "period_id": 133
+      "period_id": 176
     },
     "12047": {
       "wahlkreise": [
@@ -1115,7 +1115,7 @@
         }
       ],
       "primary": 801,
-      "period_id": 133
+      "period_id": 176
     },
     "12049": {
       "wahlkreise": [
@@ -1126,7 +1126,7 @@
         }
       ],
       "primary": 802,
-      "period_id": 133
+      "period_id": 176
     },
     "12051": {
       "wahlkreise": [
@@ -1142,7 +1142,7 @@
         }
       ],
       "primary": 803,
-      "period_id": 133
+      "period_id": 176
     },
     "12053": {
       "wahlkreise": [
@@ -1153,7 +1153,7 @@
         }
       ],
       "primary": 802,
-      "period_id": 133
+      "period_id": 176
     },
     "12055": {
       "wahlkreise": [
@@ -1169,7 +1169,7 @@
         }
       ],
       "primary": 803,
-      "period_id": 133
+      "period_id": 176
     },
     "12057": {
       "wahlkreise": [
@@ -1180,7 +1180,7 @@
         }
       ],
       "primary": 803,
-      "period_id": 133
+      "period_id": 176
     },
     "12059": {
       "wahlkreise": [
@@ -1196,7 +1196,7 @@
         }
       ],
       "primary": 801,
-      "period_id": 133
+      "period_id": 176
     },
     "12099": {
       "wahlkreise": [
@@ -1212,7 +1212,7 @@
         }
       ],
       "primary": 704,
-      "period_id": 133
+      "period_id": 176
     },
     "12101": {
       "wahlkreise": [
@@ -1228,7 +1228,7 @@
         }
       ],
       "primary": 704,
-      "period_id": 133
+      "period_id": 176
     },
     "12103": {
       "wahlkreise": [
@@ -1244,7 +1244,7 @@
         }
       ],
       "primary": 704,
-      "period_id": 133
+      "period_id": 176
     },
     "12105": {
       "wahlkreise": [
@@ -1265,7 +1265,7 @@
         }
       ],
       "primary": 705,
-      "period_id": 133
+      "period_id": 176
     },
     "12107": {
       "wahlkreise": [
@@ -1281,7 +1281,7 @@
         }
       ],
       "primary": 705,
-      "period_id": 133
+      "period_id": 176
     },
     "12109": {
       "wahlkreise": [
@@ -1292,7 +1292,7 @@
         }
       ],
       "primary": 705,
-      "period_id": 133
+      "period_id": 176
     },
     "12157": {
       "wahlkreise": [
@@ -1313,7 +1313,7 @@
         }
       ],
       "primary": 703,
-      "period_id": 133
+      "period_id": 176
     },
     "12159": {
       "wahlkreise": [
@@ -1329,7 +1329,7 @@
         }
       ],
       "primary": 703,
-      "period_id": 133
+      "period_id": 176
     },
     "12161": {
       "wahlkreise": [
@@ -1345,7 +1345,7 @@
         }
       ],
       "primary": 703,
-      "period_id": 133
+      "period_id": 176
     },
     "12163": {
       "wahlkreise": [
@@ -1361,7 +1361,7 @@
         }
       ],
       "primary": 601,
-      "period_id": 133
+      "period_id": 176
     },
     "12165": {
       "wahlkreise": [
@@ -1377,7 +1377,7 @@
         }
       ],
       "primary": 601,
-      "period_id": 133
+      "period_id": 176
     },
     "12167": {
       "wahlkreise": [
@@ -1393,7 +1393,7 @@
         }
       ],
       "primary": 602,
-      "period_id": 133
+      "period_id": 176
     },
     "12169": {
       "wahlkreise": [
@@ -1414,7 +1414,7 @@
         }
       ],
       "primary": 602,
-      "period_id": 133
+      "period_id": 176
     },
     "12203": {
       "wahlkreise": [
@@ -1440,7 +1440,7 @@
         }
       ],
       "primary": 601,
-      "period_id": 133
+      "period_id": 176
     },
     "12205": {
       "wahlkreise": [
@@ -1456,7 +1456,7 @@
         }
       ],
       "primary": 603,
-      "period_id": 133
+      "period_id": 176
     },
     "12207": {
       "wahlkreise": [
@@ -1472,7 +1472,7 @@
         }
       ],
       "primary": 604,
-      "period_id": 133
+      "period_id": 176
     },
     "12209": {
       "wahlkreise": [
@@ -1483,7 +1483,7 @@
         }
       ],
       "primary": 604,
-      "period_id": 133
+      "period_id": 176
     },
     "12247": {
       "wahlkreise": [
@@ -1504,7 +1504,7 @@
         }
       ],
       "primary": 605,
-      "period_id": 133
+      "period_id": 176
     },
     "12249": {
       "wahlkreise": [
@@ -1525,7 +1525,7 @@
         }
       ],
       "primary": 605,
-      "period_id": 133
+      "period_id": 176
     },
     "12277": {
       "wahlkreise": [
@@ -1541,7 +1541,7 @@
         }
       ],
       "primary": 706,
-      "period_id": 133
+      "period_id": 176
     },
     "12279": {
       "wahlkreise": [
@@ -1552,7 +1552,7 @@
         }
       ],
       "primary": 706,
-      "period_id": 133
+      "period_id": 176
     },
     "12305": {
       "wahlkreise": [
@@ -1568,7 +1568,7 @@
         }
       ],
       "primary": 707,
-      "period_id": 133
+      "period_id": 176
     },
     "12307": {
       "wahlkreise": [
@@ -1584,7 +1584,7 @@
         }
       ],
       "primary": 707,
-      "period_id": 133
+      "period_id": 176
     },
     "12309": {
       "wahlkreise": [
@@ -1595,7 +1595,7 @@
         }
       ],
       "primary": 707,
-      "period_id": 133
+      "period_id": 176
     },
     "12347": {
       "wahlkreise": [
@@ -1616,7 +1616,7 @@
         }
       ],
       "primary": 805,
-      "period_id": 133
+      "period_id": 176
     },
     "12349": {
       "wahlkreise": [
@@ -1627,7 +1627,7 @@
         }
       ],
       "primary": 805,
-      "period_id": 133
+      "period_id": 176
     },
     "12351": {
       "wahlkreise": [
@@ -1643,7 +1643,7 @@
         }
       ],
       "primary": 804,
-      "period_id": 133
+      "period_id": 176
     },
     "12353": {
       "wahlkreise": [
@@ -1664,7 +1664,7 @@
         }
       ],
       "primary": 804,
-      "period_id": 133
+      "period_id": 176
     },
     "12355": {
       "wahlkreise": [
@@ -1675,7 +1675,7 @@
         }
       ],
       "primary": 806,
-      "period_id": 133
+      "period_id": 176
     },
     "12357": {
       "wahlkreise": [
@@ -1691,7 +1691,7 @@
         }
       ],
       "primary": 806,
-      "period_id": 133
+      "period_id": 176
     },
     "12359": {
       "wahlkreise": [
@@ -1712,7 +1712,7 @@
         }
       ],
       "primary": 804,
-      "period_id": 133
+      "period_id": 176
     },
     "12435": {
       "wahlkreise": [
@@ -1723,7 +1723,7 @@
         }
       ],
       "primary": 901,
-      "period_id": 133
+      "period_id": 176
     },
     "12437": {
       "wahlkreise": [
@@ -1739,7 +1739,7 @@
         }
       ],
       "primary": 903,
-      "period_id": 133
+      "period_id": 176
     },
     "12439": {
       "wahlkreise": [
@@ -1755,7 +1755,7 @@
         }
       ],
       "primary": 903,
-      "period_id": 133
+      "period_id": 176
     },
     "12459": {
       "wahlkreise": [
@@ -1766,7 +1766,7 @@
         }
       ],
       "primary": 902,
-      "period_id": 133
+      "period_id": 176
     },
     "12487": {
       "wahlkreise": [
@@ -1777,7 +1777,7 @@
         }
       ],
       "primary": 903,
-      "period_id": 133
+      "period_id": 176
     },
     "12489": {
       "wahlkreise": [
@@ -1793,7 +1793,7 @@
         }
       ],
       "primary": 905,
-      "period_id": 133
+      "period_id": 176
     },
     "12524": {
       "wahlkreise": [
@@ -1804,7 +1804,7 @@
         }
       ],
       "primary": 904,
-      "period_id": 133
+      "period_id": 176
     },
     "12526": {
       "wahlkreise": [
@@ -1815,7 +1815,7 @@
         }
       ],
       "primary": 904,
-      "period_id": 133
+      "period_id": 176
     },
     "12527": {
       "wahlkreise": [
@@ -1831,7 +1831,7 @@
         }
       ],
       "primary": 905,
-      "period_id": 133
+      "period_id": 176
     },
     "12555": {
       "wahlkreise": [
@@ -1857,7 +1857,7 @@
         }
       ],
       "primary": 907,
-      "period_id": 133
+      "period_id": 176
     },
     "12557": {
       "wahlkreise": [
@@ -1873,7 +1873,7 @@
         }
       ],
       "primary": 906,
-      "period_id": 133
+      "period_id": 176
     },
     "12559": {
       "wahlkreise": [
@@ -1884,7 +1884,7 @@
         }
       ],
       "primary": 906,
-      "period_id": 133
+      "period_id": 176
     },
     "12587": {
       "wahlkreise": [
@@ -1905,7 +1905,7 @@
         }
       ],
       "primary": 907,
-      "period_id": 133
+      "period_id": 176
     },
     "12589": {
       "wahlkreise": [
@@ -1921,7 +1921,7 @@
         }
       ],
       "primary": 907,
-      "period_id": 133
+      "period_id": 176
     },
     "12619": {
       "wahlkreise": [
@@ -1942,7 +1942,7 @@
         }
       ],
       "primary": 1006,
-      "period_id": 133
+      "period_id": 176
     },
     "12621": {
       "wahlkreise": [
@@ -1958,7 +1958,7 @@
         }
       ],
       "primary": 1005,
-      "period_id": 133
+      "period_id": 176
     },
     "12623": {
       "wahlkreise": [
@@ -1969,7 +1969,7 @@
         }
       ],
       "primary": 1005,
-      "period_id": 133
+      "period_id": 176
     },
     "12627": {
       "wahlkreise": [
@@ -1985,7 +1985,7 @@
         }
       ],
       "primary": 1003,
-      "period_id": 133
+      "period_id": 176
     },
     "12629": {
       "wahlkreise": [
@@ -1996,7 +1996,7 @@
         }
       ],
       "primary": 1003,
-      "period_id": 133
+      "period_id": 176
     },
     "12679": {
       "wahlkreise": [
@@ -2012,7 +2012,7 @@
         }
       ],
       "primary": 1002,
-      "period_id": 133
+      "period_id": 176
     },
     "12681": {
       "wahlkreise": [
@@ -2033,7 +2033,7 @@
         }
       ],
       "primary": 1004,
-      "period_id": 133
+      "period_id": 176
     },
     "12683": {
       "wahlkreise": [
@@ -2044,7 +2044,7 @@
         }
       ],
       "primary": 1004,
-      "period_id": 133
+      "period_id": 176
     },
     "12685": {
       "wahlkreise": [
@@ -2060,7 +2060,7 @@
         }
       ],
       "primary": 1002,
-      "period_id": 133
+      "period_id": 176
     },
     "12687": {
       "wahlkreise": [
@@ -2076,7 +2076,7 @@
         }
       ],
       "primary": 1001,
-      "period_id": 133
+      "period_id": 176
     },
     "12689": {
       "wahlkreise": [
@@ -2092,7 +2092,7 @@
         }
       ],
       "primary": 1001,
-      "period_id": 133
+      "period_id": 176
     },
     "13051": {
       "wahlkreise": [
@@ -2113,7 +2113,7 @@
         }
       ],
       "primary": 1102,
-      "period_id": 133
+      "period_id": 176
     },
     "13053": {
       "wahlkreise": [
@@ -2129,7 +2129,7 @@
         }
       ],
       "primary": 1102,
-      "period_id": 133
+      "period_id": 176
     },
     "13055": {
       "wahlkreise": [
@@ -2145,7 +2145,7 @@
         }
       ],
       "primary": 1102,
-      "period_id": 133
+      "period_id": 176
     },
     "13057": {
       "wahlkreise": [
@@ -2156,7 +2156,7 @@
         }
       ],
       "primary": 1101,
-      "period_id": 133
+      "period_id": 176
     },
     "13059": {
       "wahlkreise": [
@@ -2167,7 +2167,7 @@
         }
       ],
       "primary": 1101,
-      "period_id": 133
+      "period_id": 176
     },
     "13086": {
       "wahlkreise": [
@@ -2183,7 +2183,7 @@
         }
       ],
       "primary": 304,
-      "period_id": 133
+      "period_id": 176
     },
     "13088": {
       "wahlkreise": [
@@ -2199,7 +2199,7 @@
         }
       ],
       "primary": 304,
-      "period_id": 133
+      "period_id": 176
     },
     "13089": {
       "wahlkreise": [
@@ -2215,7 +2215,7 @@
         }
       ],
       "primary": 305,
-      "period_id": 133
+      "period_id": 176
     },
     "13125": {
       "wahlkreise": [
@@ -2226,7 +2226,7 @@
         }
       ],
       "primary": 301,
-      "period_id": 133
+      "period_id": 176
     },
     "13127": {
       "wahlkreise": [
@@ -2247,7 +2247,7 @@
         }
       ],
       "primary": 301,
-      "period_id": 133
+      "period_id": 176
     },
     "13129": {
       "wahlkreise": [
@@ -2263,7 +2263,7 @@
         }
       ],
       "primary": 304,
-      "period_id": 133
+      "period_id": 176
     },
     "13156": {
       "wahlkreise": [
@@ -2279,7 +2279,7 @@
         }
       ],
       "primary": 302,
-      "period_id": 133
+      "period_id": 176
     },
     "13158": {
       "wahlkreise": [
@@ -2290,7 +2290,7 @@
         }
       ],
       "primary": 302,
-      "period_id": 133
+      "period_id": 176
     },
     "13159": {
       "wahlkreise": [
@@ -2301,7 +2301,7 @@
         }
       ],
       "primary": 302,
-      "period_id": 133
+      "period_id": 176
     },
     "13187": {
       "wahlkreise": [
@@ -2322,7 +2322,7 @@
         }
       ],
       "primary": 303,
-      "period_id": 133
+      "period_id": 176
     },
     "13189": {
       "wahlkreise": [
@@ -2343,7 +2343,7 @@
         }
       ],
       "primary": 305,
-      "period_id": 133
+      "period_id": 176
     },
     "13347": {
       "wahlkreise": [
@@ -2364,7 +2364,7 @@
         }
       ],
       "primary": 107,
-      "period_id": 133
+      "period_id": 176
     },
     "13349": {
       "wahlkreise": [
@@ -2375,7 +2375,7 @@
         }
       ],
       "primary": 105,
-      "period_id": 133
+      "period_id": 176
     },
     "13351": {
       "wahlkreise": [
@@ -2386,7 +2386,7 @@
         }
       ],
       "primary": 105,
-      "period_id": 133
+      "period_id": 176
     },
     "13353": {
       "wahlkreise": [
@@ -2407,7 +2407,7 @@
         }
       ],
       "primary": 104,
-      "period_id": 133
+      "period_id": 176
     },
     "13355": {
       "wahlkreise": [
@@ -2428,7 +2428,7 @@
         }
       ],
       "primary": 107,
-      "period_id": 133
+      "period_id": 176
     },
     "13357": {
       "wahlkreise": [
@@ -2444,7 +2444,7 @@
         }
       ],
       "primary": 106,
-      "period_id": 133
+      "period_id": 176
     },
     "13359": {
       "wahlkreise": [
@@ -2460,7 +2460,7 @@
         }
       ],
       "primary": 106,
-      "period_id": 133
+      "period_id": 176
     },
     "13403": {
       "wahlkreise": [
@@ -2476,7 +2476,7 @@
         }
       ],
       "primary": 1202,
-      "period_id": 133
+      "period_id": 176
     },
     "13405": {
       "wahlkreise": [
@@ -2492,7 +2492,7 @@
         }
       ],
       "primary": 1202,
-      "period_id": 133
+      "period_id": 176
     },
     "13407": {
       "wahlkreise": [
@@ -2513,7 +2513,7 @@
         }
       ],
       "primary": 1201,
-      "period_id": 133
+      "period_id": 176
     },
     "13409": {
       "wahlkreise": [
@@ -2534,7 +2534,7 @@
         }
       ],
       "primary": 1201,
-      "period_id": 133
+      "period_id": 176
     },
     "13435": {
       "wahlkreise": [
@@ -2550,7 +2550,7 @@
         }
       ],
       "primary": 1205,
-      "period_id": 133
+      "period_id": 176
     },
     "13437": {
       "wahlkreise": [
@@ -2571,7 +2571,7 @@
         }
       ],
       "primary": 1204,
-      "period_id": 133
+      "period_id": 176
     },
     "13439": {
       "wahlkreise": [
@@ -2587,7 +2587,7 @@
         }
       ],
       "primary": 1205,
-      "period_id": 133
+      "period_id": 176
     },
     "13465": {
       "wahlkreise": [
@@ -2598,7 +2598,7 @@
         }
       ],
       "primary": 1206,
-      "period_id": 133
+      "period_id": 176
     },
     "13467": {
       "wahlkreise": [
@@ -2609,7 +2609,7 @@
         }
       ],
       "primary": 1206,
-      "period_id": 133
+      "period_id": 176
     },
     "13469": {
       "wahlkreise": [
@@ -2630,7 +2630,7 @@
         }
       ],
       "primary": 1205,
-      "period_id": 133
+      "period_id": 176
     },
     "13503": {
       "wahlkreise": [
@@ -2646,7 +2646,7 @@
         }
       ],
       "primary": 1203,
-      "period_id": 133
+      "period_id": 176
     },
     "13505": {
       "wahlkreise": [
@@ -2657,7 +2657,7 @@
         }
       ],
       "primary": 1203,
-      "period_id": 133
+      "period_id": 176
     },
     "13507": {
       "wahlkreise": [
@@ -2678,7 +2678,7 @@
         }
       ],
       "primary": 1203,
-      "period_id": 133
+      "period_id": 176
     },
     "13509": {
       "wahlkreise": [
@@ -2699,7 +2699,7 @@
         }
       ],
       "primary": 1204,
-      "period_id": 133
+      "period_id": 176
     },
     "13581": {
       "wahlkreise": [
@@ -2725,7 +2725,7 @@
         }
       ],
       "primary": 504,
-      "period_id": 133
+      "period_id": 176
     },
     "13583": {
       "wahlkreise": [
@@ -2746,7 +2746,7 @@
         }
       ],
       "primary": 502,
-      "period_id": 133
+      "period_id": 176
     },
     "13585": {
       "wahlkreise": [
@@ -2762,7 +2762,7 @@
         }
       ],
       "primary": 502,
-      "period_id": 133
+      "period_id": 176
     },
     "13587": {
       "wahlkreise": [
@@ -2773,7 +2773,7 @@
         }
       ],
       "primary": 501,
-      "period_id": 133
+      "period_id": 176
     },
     "13589": {
       "wahlkreise": [
@@ -2789,7 +2789,7 @@
         }
       ],
       "primary": 501,
-      "period_id": 133
+      "period_id": 176
     },
     "13591": {
       "wahlkreise": [
@@ -2800,7 +2800,7 @@
         }
       ],
       "primary": 504,
-      "period_id": 133
+      "period_id": 176
     },
     "13593": {
       "wahlkreise": [
@@ -2816,7 +2816,7 @@
         }
       ],
       "primary": 505,
-      "period_id": 133
+      "period_id": 176
     },
     "13595": {
       "wahlkreise": [
@@ -2837,7 +2837,7 @@
         }
       ],
       "primary": 505,
-      "period_id": 133
+      "period_id": 176
     },
     "13597": {
       "wahlkreise": [
@@ -2858,7 +2858,7 @@
         }
       ],
       "primary": 503,
-      "period_id": 133
+      "period_id": 176
     },
     "13599": {
       "wahlkreise": [
@@ -2874,7 +2874,7 @@
         }
       ],
       "primary": 503,
-      "period_id": 133
+      "period_id": 176
     },
     "13627": {
       "wahlkreise": [
@@ -2890,7 +2890,7 @@
         }
       ],
       "primary": 401,
-      "period_id": 133
+      "period_id": 176
     },
     "13629": {
       "wahlkreise": [
@@ -2916,7 +2916,7 @@
         }
       ],
       "primary": 503,
-      "period_id": 133
+      "period_id": 176
     },
     "14050": {
       "wahlkreise": [
@@ -2932,7 +2932,7 @@
         }
       ],
       "primary": 402,
-      "period_id": 133
+      "period_id": 176
     },
     "14052": {
       "wahlkreise": [
@@ -2943,7 +2943,7 @@
         }
       ],
       "primary": 402,
-      "period_id": 133
+      "period_id": 176
     },
     "14053": {
       "wahlkreise": [
@@ -2954,7 +2954,7 @@
         }
       ],
       "primary": 402,
-      "period_id": 133
+      "period_id": 176
     },
     "14055": {
       "wahlkreise": [
@@ -2970,7 +2970,7 @@
         }
       ],
       "primary": 402,
-      "period_id": 133
+      "period_id": 176
     },
     "14057": {
       "wahlkreise": [
@@ -2986,7 +2986,7 @@
         }
       ],
       "primary": 403,
-      "period_id": 133
+      "period_id": 176
     },
     "14059": {
       "wahlkreise": [
@@ -3012,7 +3012,7 @@
         }
       ],
       "primary": 402,
-      "period_id": 133
+      "period_id": 176
     },
     "14089": {
       "wahlkreise": [
@@ -3023,7 +3023,7 @@
         }
       ],
       "primary": 505,
-      "period_id": 133
+      "period_id": 176
     },
     "14109": {
       "wahlkreise": [
@@ -3034,7 +3034,7 @@
         }
       ],
       "primary": 607,
-      "period_id": 133
+      "period_id": 176
     },
     "14129": {
       "wahlkreise": [
@@ -3050,7 +3050,7 @@
         }
       ],
       "primary": 607,
-      "period_id": 133
+      "period_id": 176
     },
     "14163": {
       "wahlkreise": [
@@ -3066,7 +3066,7 @@
         }
       ],
       "primary": 607,
-      "period_id": 133
+      "period_id": 176
     },
     "14165": {
       "wahlkreise": [
@@ -3087,7 +3087,7 @@
         }
       ],
       "primary": 603,
-      "period_id": 133
+      "period_id": 176
     },
     "14167": {
       "wahlkreise": [
@@ -3108,7 +3108,7 @@
         }
       ],
       "primary": 603,
-      "period_id": 133
+      "period_id": 176
     },
     "14169": {
       "wahlkreise": [
@@ -3119,7 +3119,7 @@
         }
       ],
       "primary": 606,
-      "period_id": 133
+      "period_id": 176
     },
     "14193": {
       "wahlkreise": [
@@ -3140,7 +3140,7 @@
         }
       ],
       "primary": 405,
-      "period_id": 133
+      "period_id": 176
     },
     "14195": {
       "wahlkreise": [
@@ -3166,7 +3166,7 @@
         }
       ],
       "primary": 606,
-      "period_id": 133
+      "period_id": 176
     },
     "14197": {
       "wahlkreise": [
@@ -3187,7 +3187,7 @@
         }
       ],
       "primary": 407,
-      "period_id": 133
+      "period_id": 176
     },
     "14199": {
       "wahlkreise": [
@@ -3203,7 +3203,7 @@
         }
       ],
       "primary": 407,
-      "period_id": 133
+      "period_id": 176
     }
   }
 }

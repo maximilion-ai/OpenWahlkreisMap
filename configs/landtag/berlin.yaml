@@ -6,10 +6,10 @@ state: berlin
 state_name: Berlin
 parliament: Abgeordnetenhaus
 method: spatial
-period_id: 133
+period_id: 176
 expected_wk_count: 78
 # WFS responses are not byte-stable, so the resulting mapping is pinned instead.
-mapping_checksum_sha256: "f6be177f515283ab31c6706a2ddaed7f0660d043e381df339ff9b2cfbf4d0157"
+mapping_checksum_sha256: "f4150c15069c4b4cd6df8b754d85b591a1c98cb6049f6de442e18a380ff6b9df"
 election: Berlin 2026
 names: configs/landtag/berlin-wahlkreisnamen.csv
 

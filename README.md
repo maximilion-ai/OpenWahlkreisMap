@@ -27,7 +27,7 @@ curl https://maximilion-ai.github.io/OpenWahlkreisMap/v1/10117.json
       { "nr": 101, "name": "Charité, Oranienburger Tor", "overlap": 0.479906 }
     ],
     "primary": 102,
-    "period_id": 133
+    "period_id": 176
   }]
 }
 ```
@@ -52,7 +52,7 @@ const bt = getBundestagWahlkreis('10117');
 // { wahlkreise: [{ nr: 74, name: 'Berlin-Mitte', overlap: 1.0 }], primary: 74, period_id: 161 }
 
 const berlin = getLandtagWahlkreise('10117', 'berlin');
-// [{ state: 'berlin', wahlkreise: [...], primary: 102, period_id: 133 }]
+// [{ state: 'berlin', wahlkreise: [...], primary: 102, period_id: 176 }]
 ```
 
 The npm package is intended for backend and server-side use. It is an in-memory lookup table and bundles the full dataset for fast local reads, currently about 3 MB of JSON before transport compression. Importing it directly in a browser app will add that dataset to the frontend bundle; if bundle size matters, prefer the static API or consume generated JSON directly.
@@ -175,7 +175,7 @@ For BTW 2025, this mapping is valid 2025–2029.
 |-------|-----------|-----|-----|--------|----------|-----------|
 | Baden-Württemberg | Landtag | 70 | 1,199 | spatial | Baden-Württemberg 2026 | 165 |
 | Bayern | Landtag | 91 | 2,063 | spatial | Bayern 2023 | 149 |
-| Berlin | Abgeordnetenhaus | 78 | 190 | spatial | Berlin 2026 | 133 |
+| Berlin | Abgeordnetenhaus | 78 | 190 | spatial | Berlin 2026 | 176 |
 | Brandenburg | Landtag | 44 | 228 | spatial | Brandenburg 2024 | 158 |
 | Bremen | Bürgerschaft | 2 | 40 | municipality_join | Bremen 2023 | 146 |
 | Hamburg | Bürgerschaft | 17 | 100 | spatial | Hamburg 2025 | 162 |
@@ -197,7 +197,7 @@ Processing methods:
 
 Both methods drop overlaps below 1% of a PLZ's area as boundary misalignment. A PLZ whose area inside a state stays below 1% is left out of that state.
 
-`period_id` is the abgeordnetenwatch legislature period whose members were elected in these Wahlkreise. Berlin is the exception: its 2026 Wahlkreise belong to the legislature that starts after 2026-10-25, which abgeordnetenwatch has not created yet, so Berlin still carries the outgoing period 133.
+`period_id` is the abgeordnetenwatch legislature period whose members were elected in these Wahlkreise.
 
 `make download-landtag` fetches every state source from config. Berlin's WFS publishes only Wahlkreis codes; `configs/landtag/berlin-wahlkreisnamen.csv` supplies the names from the official [Wahlkreiskarten 2026](https://www.statistik-berlin-brandenburg.de/wahlkreiskarten-2026/).
 
