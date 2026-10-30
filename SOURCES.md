@@ -67,7 +67,7 @@ All source datasets used by OpenWahlkreisMap, with provenance and licensing.
 
 ## Landtag Constituency Data (per state)
 
-Each state source is fetched by `scripts/download_landtag.py` from its config in `configs/landtag/`. States that publish official Wahlkreis geometry use it directly. Sachsen and Brandenburg publish none, so they use the official municipality→Wahlkreis table; Bremen and Saarland map whole municipalities or Kreise from the config.
+Each state source is fetched by `scripts/download_landtag.py` from its config in `configs/landtag/`. States that publish official Wahlkreis geometry use it directly. Brandenburg and Sachsen send theirs only on request, so their configs use `mode: manual`: place the zip named in the config in `raw/landtag/<state>/` and the download step verifies its checksum. These two files are not mirrored, because the requests promised to publish only the derived mapping. Bremen and Saarland map whole municipalities or Kreise from the config.
 
 The geometry publishers state no open license but require the copyright notice quoted below. Only derived PLZ→Wahlkreis assignments are published here; the geometries themselves are not redistributed.
 
@@ -76,7 +76,7 @@ The geometry publishers state no open license but require the copyright notice q
 | Baden-Württemberg | Statistisches Landesamt Baden-Württemberg — Wahlkreiskarte Landtagswahl 2026 (© Statistisches Landesamt Baden-Württemberg, Fellbach 2025; Kartengrundlage: LGL, Städte Freiburg, Karlsruhe, Mannheim, Stuttgart) | `https://www.statistik-bw.de/fileadmin/user_upload/medien/bilder/Karten_und_Geometrien_der_Wahlkreise/LTWahlkreise2026-BW_SHP.zip` | shapefile | 70 |
 | Bayern | Bayerisches Landesamt für Statistik — Stimmkreiszuschnitte Landtagswahl 2023 (Datenquelle: Bayerisches Landesamt für Statistik) | `https://www.statistik.bayern.de/mam/wahlen/landtagswahlen/ergebnisse/shapefile_stimmkreiseltw_bayern_2023.zip` | shapefile | 91 |
 | Berlin | Amt für Statistik Berlin-Brandenburg — Wahlkreise AGH 2026 via GDI Berlin WFS (CC BY 3.0 DE) | `https://gdi.berlin.de/services/wfs/wahlgebiete_agh2026?service=WFS&version=2.0.0&request=GetFeature&typeNames=wahlgebiete_agh2026:agh2026_awk&outputFormat=application/json&srsName=EPSG:25833` | geojson | 78 |
-| Brandenburg | Amt für Statistik Berlin-Brandenburg (public domain) | `https://download.statistik-berlin-brandenburg.de/797f02a07ccf0c80/60948eac20a4/SB_B07-02-04_2024j05_BB.xlsx` | excel | 44 |
+| Brandenburg | Landeswahlleiter Brandenburg — Wahlkreise Landtagswahl 2024 (© GeoBasis-DE/LGB 2024) | on request: landeswahlleiter@mik.brandenburg.de | shapefile | 44 |
 | Bremen | Landeswahlleiter Bremen (public domain) | — | config mapping + VG250 | 2 |
 | Hamburg | LGV Hamburg — Geodienste WFS (dl-de/by-2-0) | `https://geodienste.hamburg.de/HH_WFS_Wahlen?SERVICE=WFS&VERSION=1.1.0&REQUEST=GetFeature&TYPENAME=de.hh.up:buergerschaftswahlkreise&OUTPUTFORMAT=text/xml%3B%20subtype%3Dgml/3.1.1&SRSNAME=EPSG:25832` | gml | 17 |
 | Hessen | Hessisches Statistisches Landesamt — Landtagswahlkreise 2023 (© Hessisches Statistisches Landesamt, Wiesbaden 2022; Kartengrundlage © GeoBasis-DE / BKG 2021) | `https://statistik.hessen.de/sites/statistik.hessen.de/files/2024-08/hsl_landtagswahlkreise_2023.zip` | shapefile | 55 |
@@ -85,7 +85,7 @@ The geometry publishers state no open license but require the copyright notice q
 | Nordrhein-Westfalen | IT.NRW — Wahlkreiseinteilung zur Landtagswahl 2022 (© Ministerium des Innern des Landes Nordrhein-Westfalen, IT.NRW, Düsseldorf) | `https://www.wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/16_LW2022_NRW_Wahlkreise.zip` | shapefile | 128 |
 | Rheinland-Pfalz | Statistisches Landesamt Rheinland-Pfalz — Geodaten Landtagswahl 2026 (Quelle: Statistisches Landesamt Rheinland-Pfalz) | `https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/ltw/Shapefiles/Geodaten_LW2026_RP.zip` | shapefile | 52 |
 | Saarland | Landeswahlleiter Saarland (public domain) | — | config mapping + VG250 | 3 |
-| Sachsen | Landeswahlleiter Sachsen / Statistisches Landesamt (public domain) | `https://wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx` | excel | 60 |
+| Sachsen | Landeswahlleiter Sachsen — Wahlkreise Landtagswahl 2024 (Quelle: Verwaltungsatlas Sachsen, dl-de/by-2-0) | on request: landeswahlleiter@statistik.sachsen.de | shapefile | 60 |
 | Sachsen-Anhalt | Statistisches Landesamt Sachsen-Anhalt — Wahlkreiskarte für die Wahl zum 9. Landtag (© GeoBasis-DE / LVermGeo ST) | `https://statistik.sachsen-anhalt.de/fileadmin/Bibliothek/Landesaemter/StaLa/startseite/Themen/Wahlen/Wahlkreise/Wahlkreise_LTW_2026.zip` | shapefile | 41 |
 | Schleswig-Holstein | Statistikamt Nord — Landtagswahlkreise Schleswig-Holstein 2022 (© Statistisches Amt für Hamburg und Schleswig-Holstein 2022; © GeoBasis-DE/LVermGeo SH/BKG 2022) | `https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Schleswig-Holstein/Landtagswahlen/2022/Vor_der_Wahl/Landtagswahlkreise.zip` | shapefile | 35 |
 | Thüringen | Thüringer Landesamt für Statistik — Wahlkreiseinteilung Landtagswahl 2024 (© GDI-Th / Thüringer Landesamt für Statistik) | `https://wahlen.thueringen.de/landtagswahlen/informationen/vektor/2024/16TH_L24_Wahlkreiseinteilung.zip` | gpkg | 44 |

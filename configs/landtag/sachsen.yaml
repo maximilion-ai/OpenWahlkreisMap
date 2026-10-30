@@ -1,18 +1,25 @@
 state: sachsen
 state_name: Sachsen
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 157
 expected_wk_count: 60
 election: Sachsen 2024
-parser: sachsen
 
 sources:
-  - "Landeswahlleiter Sachsen / Statistisches Landesamt (public domain)"
+  - "Landeswahlleiter Sachsen — Wahlkreise Landtagswahl 2024 (Quelle: Verwaltungsatlas Sachsen, dl-de/by-2-0)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://wahlen.sachsen.de/download/Landtag/statistik-sachsen_LW24_endgErgebniss.xlsx"
-  checksum_sha256: "3eee59f5c843cd21165894eee669090b672db87bdcc46bdb879b216134532ba6"
-  format: excel
+  mode: manual
+  filename: wkland2024.zip
+  checksum_sha256: "08d61567e5464c7963fa6978bbe78e1ef1cf148603f37d657b7fabc887678b63"
+  archive: zip
+  format: shapefile
   raw_subdir: sachsen
+  source_file: wkland2024.shp
+  notes: "Sent on request by landeswahlleiter@statistik.sachsen.de. Not mirrored: the request promised to publish only the derived PLZ mapping."
+
+columns:
+  nr_wk: wk_nr
+  name_wk: wk_name

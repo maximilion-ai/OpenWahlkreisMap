@@ -3,149 +3,54 @@
     "election": "Sachsen 2024",
     "constituencies": 60,
     "sources": [
-      "Landeswahlleiter Sachsen / Statistisches Landesamt (public domain)",
+      "Landeswahlleiter Sachsen — Wahlkreise Landtagswahl 2024 (Quelle: Verwaltungsatlas Sachsen, dl-de/by-2-0)",
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
-    "plz_count": 384,
-    "generated": "2026-10-23"
+    "plz_count": 383,
+    "generated": "2026-10-30"
   },
   "data": {
     "01067": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 45,
       "period_id": 157
     },
     "01069": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
+          "overlap": 0.500662
         },
         {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.499338
         }
       ],
-      "primary": 40,
+      "primary": 45,
       "period_id": 157
     },
     "01097": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
+          "overlap": 0.944088
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.055912
         }
       ],
-      "primary": 40,
+      "primary": 41,
       "period_id": 157
     },
     "01099": {
@@ -153,42 +58,12 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.125
+          "overlap": 0.802599
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.197401
         }
       ],
       "primary": 40,
@@ -199,47 +74,7 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.123205
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.014362
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -250,42 +85,7 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -294,47 +94,22 @@
     "01127": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
+          "nr": 45,
+          "name": "Dresden 6",
+          "overlap": 0.703994
         },
         {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.125
+          "overlap": 0.206907
         },
         {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "nr": 40,
+          "name": "Dresden 1",
+          "overlap": 0.089099
         }
       ],
-      "primary": 40,
+      "primary": 45,
       "period_id": 157
     },
     "01129": {
@@ -342,42 +117,12 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
+          "overlap": 0.739505
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.260495
         }
       ],
       "primary": 40,
@@ -388,42 +133,7 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -432,885 +142,290 @@
     "01156": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 46,
       "period_id": 157
     },
     "01157": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
+          "nr": 46,
+          "name": "Dresden 7",
+          "overlap": 0.986586
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.013414
         }
       ],
-      "primary": 40,
+      "primary": 46,
       "period_id": 157
     },
     "01159": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
+          "nr": 47,
+          "name": "Dresden 8",
+          "overlap": 0.373355
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.125
+          "overlap": 0.343261
         },
         {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "nr": 45,
+          "name": "Dresden 6",
+          "overlap": 0.283384
         }
       ],
-      "primary": 40,
+      "primary": 47,
       "period_id": 157
     },
     "01169": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 46,
       "period_id": 157
     },
     "01187": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
+          "nr": 47,
+          "name": "Dresden 8",
+          "overlap": 0.571187
         },
         {
           "nr": 46,
           "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.428813
         }
       ],
-      "primary": 40,
+      "primary": 47,
       "period_id": 157
     },
     "01189": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
           "nr": 47,
           "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 47,
       "period_id": 157
     },
     "01217": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.12124
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.12124
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.12124
+          "nr": 47,
+          "name": "Dresden 8",
+          "overlap": 0.867058
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.12124
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.12124
+          "overlap": 0.103418
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.12124
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.12124
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.12124
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.030083
+          "overlap": 0.029524
         }
       ],
-      "primary": 40,
+      "primary": 47,
       "period_id": 157
     },
     "01219": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
+          "nr": 45,
+          "name": "Dresden 6",
+          "overlap": 0.615071
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.125
+          "overlap": 0.360878
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.024052
         }
       ],
-      "primary": 40,
+      "primary": 45,
       "period_id": 157
     },
     "01237": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
+          "nr": 43,
+          "name": "Dresden 4",
+          "overlap": 0.956263
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.043737
         }
       ],
-      "primary": 40,
+      "primary": 43,
       "period_id": 157
     },
     "01239": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.122291
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.122291
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.122291
-        },
-        {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.122291
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.122291
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.122291
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.122291
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.122291
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.021671
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 43,
       "period_id": 157
     },
     "01257": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
+          "nr": 43,
+          "name": "Dresden 4",
+          "overlap": 0.631575
         },
         {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.368425
         }
       ],
-      "primary": 40,
+      "primary": 43,
       "period_id": 157
     },
     "01259": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.125
+          "overlap": 0.691383
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.308617
         }
       ],
-      "primary": 40,
+      "primary": 42,
       "period_id": 157
     },
     "01277": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
+          "nr": 44,
+          "name": "Dresden 5",
+          "overlap": 0.716389
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
+          "overlap": 0.257336
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.026275
         }
       ],
-      "primary": 40,
+      "primary": 44,
       "period_id": 157
     },
     "01279": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.125
+          "overlap": 0.5424
         },
         {
           "nr": 43,
           "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.4576
         }
       ],
-      "primary": 40,
+      "primary": 42,
       "period_id": 157
     },
     "01307": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
           "nr": 41,
           "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
+          "overlap": 0.934976
         },
         {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.125
+          "overlap": 0.043199
         },
         {
           "nr": 45,
           "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 0.021825
         }
       ],
-      "primary": 40,
+      "primary": 41,
       "period_id": 157
     },
     "01309": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
           "nr": 44,
           "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 44,
       "period_id": 157
     },
     "01324": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 42,
       "period_id": 157
     },
     "01326": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 42,
       "period_id": 157
     },
     "01328": {
       "wahlkreise": [
         {
-          "nr": 40,
-          "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 42,
           "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 40,
+      "primary": 42,
       "period_id": 157
     },
     "01445": {
@@ -1351,42 +466,7 @@
         {
           "nr": 40,
           "name": "Dresden 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 41,
-          "name": "Dresden 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 42,
-          "name": "Dresden 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 43,
-          "name": "Dresden 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 44,
-          "name": "Dresden 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 45,
-          "name": "Dresden 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 46,
-          "name": "Dresden 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 47,
-          "name": "Dresden 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -1529,12 +609,7 @@
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.985505
-        },
-        {
-          "nr": 37,
-          "name": "Meißen 2",
-          "overlap": 0.014495
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1578,12 +653,12 @@
         {
           "nr": 38,
           "name": "Meißen 3",
-          "overlap": 0.54611
+          "overlap": 0.543938
         },
         {
           "nr": 36,
           "name": "Meißen 1",
-          "overlap": 0.45389
+          "overlap": 0.456062
         }
       ],
       "primary": 38,
@@ -1649,12 +724,7 @@
         {
           "nr": 49,
           "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.98813
-        },
-        {
-          "nr": 50,
-          "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.01187
+          "overlap": 1.0
         }
       ],
       "primary": 49,
@@ -1687,12 +757,7 @@
         {
           "nr": 48,
           "name": "Sächsische Schweiz-Osterzgebirge 1",
-          "overlap": 0.977812
-        },
-        {
-          "nr": 49,
-          "name": "Sächsische Schweiz-Osterzgebirge 2",
-          "overlap": 0.022188
+          "overlap": 1.0
         }
       ],
       "primary": 48,
@@ -1780,12 +845,12 @@
         {
           "nr": 50,
           "name": "Sächsische Schweiz-Osterzgebirge 3",
-          "overlap": 0.777622
+          "overlap": 0.775676
         },
         {
           "nr": 51,
           "name": "Sächsische Schweiz-Osterzgebirge 4",
-          "overlap": 0.222378
+          "overlap": 0.224324
         }
       ],
       "primary": 50,
@@ -1928,12 +993,12 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.951048
+          "overlap": 0.951509
         },
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.048952
+          "overlap": 0.048491
         }
       ],
       "primary": 52,
@@ -2010,12 +1075,12 @@
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.805455
+          "overlap": 0.806198
         },
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.194545
+          "overlap": 0.193802
         }
       ],
       "primary": 53,
@@ -2026,12 +1091,12 @@
         {
           "nr": 54,
           "name": "Bautzen 3/Budyšin 3",
-          "overlap": 0.940173
+          "overlap": 0.94015
         },
         {
           "nr": 53,
           "name": "Bautzen 2/Budyšin 2",
-          "overlap": 0.059827
+          "overlap": 0.05985
         }
       ],
       "primary": 54,
@@ -2053,12 +1118,12 @@
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.688031
+          "overlap": 0.688119
         },
         {
           "nr": 55,
           "name": "Bautzen 4/Budyšin 4",
-          "overlap": 0.311969
+          "overlap": 0.311881
         }
       ],
       "primary": 56,
@@ -2069,12 +1134,12 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.661293
+          "overlap": 0.659702
         },
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.338707
+          "overlap": 0.340298
         }
       ],
       "primary": 52,
@@ -2107,12 +1172,12 @@
         {
           "nr": 52,
           "name": "Bautzen 1/Budyšin 1",
-          "overlap": 0.670409
+          "overlap": 0.671624
         },
         {
           "nr": 56,
           "name": "Bautzen 5/Budyšin 5",
-          "overlap": 0.329591
+          "overlap": 0.328376
         }
       ],
       "primary": 52,
@@ -2376,12 +1441,7 @@
         {
           "nr": 58,
           "name": "Görlitz 2",
-          "overlap": 0.965952
-        },
-        {
-          "nr": 57,
-          "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.034048
+          "overlap": 1.0
         }
       ],
       "primary": 58,
@@ -2392,12 +1452,12 @@
         {
           "nr": 58,
           "name": "Görlitz 2",
-          "overlap": 0.515456
+          "overlap": 0.515217
         },
         {
           "nr": 57,
           "name": "Görlitz 1/Zhorjelc 1",
-          "overlap": 0.484544
+          "overlap": 0.484783
         }
       ],
       "primary": 58,
@@ -2419,12 +1479,12 @@
         {
           "nr": 59,
           "name": "Görlitz 3",
-          "overlap": 0.988741
+          "overlap": 0.988604
         },
         {
           "nr": 58,
           "name": "Görlitz 2",
-          "overlap": 0.011259
+          "overlap": 0.011396
         }
       ],
       "primary": 59,
@@ -2589,42 +1649,7 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
       "primary": 25,
@@ -2633,47 +1658,17 @@
     "04105": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
+          "nr": 31,
+          "name": "Leipzig 7",
+          "overlap": 0.726093
         },
         {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.273907
         }
       ],
-      "primary": 25,
+      "primary": 31,
       "period_id": 157
     },
     "04107": {
@@ -2681,42 +1676,12 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
+          "overlap": 0.969916
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.030084
         }
       ],
       "primary": 25,
@@ -2727,42 +1692,12 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
+          "overlap": 0.988995
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.011005
         }
       ],
       "primary": 25,
@@ -2771,972 +1706,282 @@
     "04129": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 27,
       "period_id": 157
     },
     "04155": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
+          "overlap": 0.926118
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.073882
         }
       ],
-      "primary": 25,
+      "primary": 27,
       "period_id": 157
     },
     "04157": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
           "nr": 27,
           "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
+          "overlap": 0.838432
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.161568
         }
       ],
-      "primary": 25,
+      "primary": 27,
       "period_id": 157
     },
     "04158": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.125
+          "overlap": 0.705666
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.294334
         }
       ],
-      "primary": 25,
+      "primary": 31,
       "period_id": 157
     },
     "04159": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 31,
       "period_id": 157
     },
     "04177": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 30,
       "period_id": 157
     },
     "04178": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 31,
       "period_id": 157
     },
     "04179": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
+          "nr": 30,
+          "name": "Leipzig 6",
+          "overlap": 0.893226
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
+          "overlap": 0.096394
         },
         {
           "nr": 31,
           "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.010379
         }
       ],
-      "primary": 25,
+      "primary": 30,
       "period_id": 157
     },
     "04205": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 29,
       "period_id": 157
     },
     "04207": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 29,
       "period_id": 157
     },
     "04209": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.125
+          "overlap": 0.92328
         },
         {
           "nr": 30,
           "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.07672
         }
       ],
-      "primary": 25,
+      "primary": 29,
       "period_id": 157
     },
     "04229": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
+          "nr": 30,
+          "name": "Leipzig 6",
+          "overlap": 0.731027
         },
         {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.268973
         }
       ],
-      "primary": 25,
+      "primary": 30,
       "period_id": 157
     },
     "04249": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
           "nr": 29,
           "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 29,
       "period_id": 157
     },
     "04275": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 28,
       "period_id": 157
     },
     "04277": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 28,
       "period_id": 157
     },
     "04279": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.123713
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.123713
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.123713
-        },
-        {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.123713
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.123713
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.123713
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.123713
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.123713
-        },
-        {
-          "nr": 22,
-          "name": "Leipzig Land 2",
-          "overlap": 0.010298
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 28,
       "period_id": 157
     },
     "04288": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 26,
       "period_id": 157
     },
     "04289": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 28,
       "period_id": 157
     },
     "04299": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
+          "overlap": 0.795767
         },
         {
           "nr": 28,
           "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
+          "overlap": 0.159107
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.045126
         }
       ],
-      "primary": 25,
+      "primary": 26,
       "period_id": 157
     },
     "04315": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.549605
+        },
+        {
+          "nr": 25,
+          "name": "Leipzig 1",
+          "overlap": 0.450395
         }
       ],
-      "primary": 25,
+      "primary": 32,
       "period_id": 157
     },
     "04316": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 26,
       "period_id": 157
     },
     "04317": {
@@ -3744,42 +1989,7 @@
         {
           "nr": 25,
           "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
       "primary": 25,
@@ -3788,374 +1998,104 @@
     "04318": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
+          "nr": 32,
+          "name": "Leipzig 8",
+          "overlap": 0.505321
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.494679
         }
       ],
-      "primary": 25,
+      "primary": 32,
       "period_id": 157
     },
     "04319": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 26,
       "period_id": 157
     },
     "04328": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 26,
       "period_id": 157
     },
     "04329": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.119235
-        },
-        {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.119235
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.119235
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.119235
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.119235
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.119235
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.119235
+          "overlap": 0.97503
         },
         {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.119235
-        },
-        {
-          "nr": 34,
-          "name": "Nordsachsen 2",
-          "overlap": 0.046117
+          "overlap": 0.02497
         }
       ],
-      "primary": 25,
+      "primary": 26,
       "period_id": 157
     },
     "04347": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
+          "nr": 32,
+          "name": "Leipzig 8",
+          "overlap": 0.88065
         },
         {
           "nr": 26,
           "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
-          "nr": 32,
-          "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 0.11935
         }
       ],
-      "primary": 25,
+      "primary": 32,
       "period_id": 157
     },
     "04349": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 32,
       "period_id": 157
     },
     "04356": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 32,
       "period_id": 157
     },
     "04357": {
       "wahlkreise": [
         {
-          "nr": 25,
-          "name": "Leipzig 1",
-          "overlap": 0.125
-        },
-        {
-          "nr": 26,
-          "name": "Leipzig 2",
-          "overlap": 0.125
-        },
-        {
-          "nr": 27,
-          "name": "Leipzig 3",
-          "overlap": 0.125
-        },
-        {
-          "nr": 28,
-          "name": "Leipzig 4",
-          "overlap": 0.125
-        },
-        {
-          "nr": 29,
-          "name": "Leipzig 5",
-          "overlap": 0.125
-        },
-        {
-          "nr": 30,
-          "name": "Leipzig 6",
-          "overlap": 0.125
-        },
-        {
-          "nr": 31,
-          "name": "Leipzig 7",
-          "overlap": 0.125
-        },
-        {
           "nr": 32,
           "name": "Leipzig 8",
-          "overlap": 0.125
+          "overlap": 1.0
         }
       ],
-      "primary": 25,
+      "primary": 32,
       "period_id": 157
     },
     "04416": {
@@ -4295,12 +2235,12 @@
         {
           "nr": 22,
           "name": "Leipzig Land 2",
-          "overlap": 0.892241
+          "overlap": 0.897979
         },
         {
           "nr": 21,
           "name": "Leipzig Land 1",
-          "overlap": 0.107759
+          "overlap": 0.102021
         }
       ],
       "primary": 22,
@@ -4348,17 +2288,6 @@
         }
       ],
       "primary": 21,
-      "period_id": 157
-    },
-    "04639": {
-      "wahlkreise": [
-        {
-          "nr": 7,
-          "name": "Zwickau 4",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 7,
       "period_id": 157
     },
     "04643": {
@@ -4421,12 +2350,7 @@
         {
           "nr": 23,
           "name": "Leipzig Land 3",
-          "overlap": 0.987608
-        },
-        {
-          "nr": 24,
-          "name": "Leipzig Land 4",
-          "overlap": 0.012392
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -4635,12 +2559,12 @@
         {
           "nr": 35,
           "name": "Nordsachsen 3",
-          "overlap": 0.976381
+          "overlap": 0.978798
         },
         {
           "nr": 34,
           "name": "Nordsachsen 2",
-          "overlap": 0.023619
+          "overlap": 0.021202
         }
       ],
       "primary": 35,
@@ -4748,33 +2672,33 @@
     "08056": {
       "wahlkreise": [
         {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.5
-        },
-        {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.5
+          "overlap": 0.625133
+        },
+        {
+          "nr": 5,
+          "name": "Zwickau 2",
+          "overlap": 0.374867
         }
       ],
-      "primary": 5,
+      "primary": 6,
       "period_id": 157
     },
     "08058": {
       "wahlkreise": [
         {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.502114
-        },
-        {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.497886
+          "overlap": 0.988295
+        },
+        {
+          "nr": 5,
+          "name": "Zwickau 2",
+          "overlap": 0.011705
         }
       ],
-      "primary": 5,
+      "primary": 6,
       "period_id": 157
     },
     "08060": {
@@ -4782,12 +2706,12 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.502273
+          "overlap": 0.946424
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.497727
+          "overlap": 0.053576
         }
       ],
       "primary": 5,
@@ -4796,54 +2720,34 @@
     "08062": {
       "wahlkreise": [
         {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.5
-        },
-        {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
-      "primary": 5,
+      "primary": 6,
       "period_id": 157
     },
     "08064": {
       "wahlkreise": [
         {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.488675
-        },
-        {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.488675
-        },
-        {
-          "nr": 4,
-          "name": "Zwickau 1",
-          "overlap": 0.022651
+          "overlap": 1.0
         }
       ],
-      "primary": 5,
+      "primary": 6,
       "period_id": 157
     },
     "08066": {
       "wahlkreise": [
         {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.5
-        },
-        {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
-      "primary": 5,
+      "primary": 6,
       "period_id": 157
     },
     "08107": {
@@ -4895,17 +2799,12 @@
         {
           "nr": 4,
           "name": "Zwickau 1",
-          "overlap": 0.9607
-        },
-        {
-          "nr": 5,
-          "name": "Zwickau 2",
-          "overlap": 0.01965
+          "overlap": 0.972263
         },
         {
           "nr": 6,
           "name": "Zwickau 3",
-          "overlap": 0.01965
+          "overlap": 0.027737
         }
       ],
       "primary": 4,
@@ -4971,12 +2870,12 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.810434
+          "overlap": 0.811569
         },
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.189566
+          "overlap": 0.188431
         }
       ],
       "primary": 2,
@@ -5031,12 +2930,12 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.622463
+          "overlap": 0.624391
         },
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.377537
+          "overlap": 0.375609
         }
       ],
       "primary": 2,
@@ -5190,12 +3089,12 @@
         {
           "nr": 13,
           "name": "Erzgebirge 2",
-          "overlap": 0.976
+          "overlap": 0.984398
         },
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.024
+          "overlap": 0.015602
         }
       ],
       "primary": 13,
@@ -5250,12 +3149,12 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.976548
+          "overlap": 0.9781
         },
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.023452
+          "overlap": 0.0219
         }
       ],
       "primary": 14,
@@ -5299,12 +3198,12 @@
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.728124
+          "overlap": 0.726676
         },
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.271876
+          "overlap": 0.273324
         }
       ],
       "primary": 7,
@@ -5337,12 +3236,7 @@
         {
           "nr": 5,
           "name": "Zwickau 2",
-          "overlap": 0.986941
-        },
-        {
-          "nr": 3,
-          "name": "Vogtland 3",
-          "overlap": 0.013059
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -5474,12 +3368,12 @@
         {
           "nr": 1,
           "name": "Vogtland 1",
-          "overlap": 0.972366
+          "overlap": 0.987601
         },
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.027634
+          "overlap": 0.012399
         }
       ],
       "primary": 1,
@@ -5512,12 +3406,12 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.87073
+          "overlap": 0.872196
         },
         {
           "nr": 1,
           "name": "Vogtland 1",
-          "overlap": 0.12927
+          "overlap": 0.127804
         }
       ],
       "primary": 3,
@@ -5561,12 +3455,12 @@
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.935599
+          "overlap": 0.935487
         },
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.064401
+          "overlap": 0.064513
         }
       ],
       "primary": 3,
@@ -5577,12 +3471,12 @@
         {
           "nr": 2,
           "name": "Vogtland 2",
-          "overlap": 0.689918
+          "overlap": 0.690214
         },
         {
           "nr": 3,
           "name": "Vogtland 3",
-          "overlap": 0.310082
+          "overlap": 0.309786
         }
       ],
       "primary": 2,
@@ -5613,22 +3507,17 @@
     "09111": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
+          "overlap": 0.982166
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.017834
         }
       ],
-      "primary": 9,
+      "primary": 10,
       "period_id": 157
     },
     "09112": {
@@ -5636,17 +3525,17 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333333
+          "overlap": 0.847392
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
+          "overlap": 0.114675
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.037933
         }
       ],
       "primary": 9,
@@ -5657,17 +3546,12 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333333
+          "overlap": 0.90607
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.09393
         }
       ],
       "primary": 9,
@@ -5676,22 +3560,17 @@
     "09114": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
+          "overlap": 0.983391
         },
         {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "nr": 9,
+          "name": "Chemnitz 1",
+          "overlap": 0.016609
         }
       ],
-      "primary": 9,
+      "primary": 10,
       "period_id": 157
     },
     "09116": {
@@ -5699,17 +3578,12 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
+          "overlap": 0.73941
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.26059
         }
       ],
       "primary": 9,
@@ -5720,17 +3594,7 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
       "primary": 9,
@@ -5739,43 +3603,23 @@
     "09119": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 9,
+      "primary": 11,
       "period_id": 157
     },
     "09120": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 9,
+      "primary": 11,
       "period_id": 157
     },
     "09122": {
@@ -5783,17 +3627,12 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
+          "overlap": 0.809367
         },
         {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.190633
         }
       ],
       "primary": 9,
@@ -5802,148 +3641,93 @@
     "09123": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.938245
+        },
+        {
+          "nr": 9,
+          "name": "Chemnitz 1",
+          "overlap": 0.061755
         }
       ],
-      "primary": 9,
+      "primary": 11,
       "period_id": 157
     },
     "09125": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 9,
+      "primary": 11,
       "period_id": 157
     },
     "09126": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
+          "nr": 11,
+          "name": "Chemnitz 3",
+          "overlap": 0.691512
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.308488
         }
       ],
-      "primary": 9,
+      "primary": 11,
       "period_id": 157
     },
     "09127": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
+          "nr": 11,
+          "name": "Chemnitz 3",
+          "overlap": 0.802988
         },
         {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 0.197012
         }
       ],
-      "primary": 9,
+      "primary": 11,
       "period_id": 157
     },
     "09128": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
           "nr": 11,
           "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 9,
+      "primary": 11,
       "period_id": 157
     },
     "09130": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 9,
+      "primary": 10,
       "period_id": 157
     },
     "09131": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
-      "primary": 9,
+      "primary": 10,
       "period_id": 157
     },
     "09212": {
@@ -5962,7 +3746,12 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 1.0
+          "overlap": 0.989443
+        },
+        {
+          "nr": 10,
+          "name": "Chemnitz 2",
+          "overlap": 0.010557
         }
       ],
       "primary": 19,
@@ -5984,22 +3773,7 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.327004
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.327004
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.327004
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.018988
+          "overlap": 1.0
         }
       ],
       "primary": 9,
@@ -6008,22 +3782,17 @@
     "09228": {
       "wahlkreise": [
         {
-          "nr": 9,
-          "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
           "nr": 10,
           "name": "Chemnitz 2",
-          "overlap": 0.333333
+          "overlap": 0.987711
         },
         {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "nr": 19,
+          "name": "Mittelsachsen 3",
+          "overlap": 0.012289
         }
       ],
-      "primary": 9,
+      "primary": 10,
       "period_id": 157
     },
     "09232": {
@@ -6075,12 +3844,12 @@
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.983324
+          "overlap": 0.989276
         },
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.016676
+          "overlap": 0.010724
         }
       ],
       "primary": 8,
@@ -6102,17 +3871,7 @@
         {
           "nr": 9,
           "name": "Chemnitz 1",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 10,
-          "name": "Chemnitz 2",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 11,
-          "name": "Chemnitz 3",
-          "overlap": 0.333333
+          "overlap": 1.0
         }
       ],
       "primary": 9,
@@ -6178,12 +3937,12 @@
         {
           "nr": 8,
           "name": "Zwickau 5",
-          "overlap": 0.793985
+          "overlap": 0.792995
         },
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.206015
+          "overlap": 0.207005
         }
       ],
       "primary": 8,
@@ -6227,12 +3986,7 @@
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.973504
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.026496
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -6276,12 +4030,7 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.982603
-        },
-        {
-          "nr": 8,
-          "name": "Zwickau 5",
-          "overlap": 0.017397
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -6314,7 +4063,12 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 1.0
+          "overlap": 0.989206
+        },
+        {
+          "nr": 15,
+          "name": "Erzgebirge 4",
+          "overlap": 0.010794
         }
       ],
       "primary": 12,
@@ -6325,12 +4079,12 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.983067
+          "overlap": 0.989209
         },
         {
           "nr": 7,
           "name": "Zwickau 4",
-          "overlap": 0.016933
+          "overlap": 0.010791
         }
       ],
       "primary": 12,
@@ -6451,12 +4205,12 @@
         {
           "nr": 12,
           "name": "Erzgebirge 1",
-          "overlap": 0.98475
+          "overlap": 0.987631
         },
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.01525
+          "overlap": 0.012369
         }
       ],
       "primary": 12,
@@ -6533,12 +4287,12 @@
         {
           "nr": 14,
           "name": "Erzgebirge 3",
-          "overlap": 0.823621
+          "overlap": 0.827172
         },
         {
           "nr": 15,
           "name": "Erzgebirge 4",
-          "overlap": 0.176379
+          "overlap": 0.172828
         }
       ],
       "primary": 14,
@@ -6681,12 +4435,12 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.868475
+          "overlap": 0.868507
         },
         {
           "nr": 16,
           "name": "Erzgebirge 5",
-          "overlap": 0.131525
+          "overlap": 0.131493
         }
       ],
       "primary": 18,
@@ -6741,12 +4495,12 @@
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.662877
+          "overlap": 0.661822
         },
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.337123
+          "overlap": 0.338178
         }
       ],
       "primary": 18,
@@ -6757,12 +4511,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.984578
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.015422
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -6839,12 +4588,7 @@
         {
           "nr": 17,
           "name": "Mittelsachsen 1",
-          "overlap": 0.900131
-        },
-        {
-          "nr": 38,
-          "name": "Meißen 3",
-          "overlap": 0.099869
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -6866,12 +4610,12 @@
         {
           "nr": 19,
           "name": "Mittelsachsen 3",
-          "overlap": 0.638156
+          "overlap": 0.6386
         },
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.361844
+          "overlap": 0.3614
         }
       ],
       "primary": 19,
@@ -6882,12 +4626,12 @@
         {
           "nr": 20,
           "name": "Mittelsachsen 4",
-          "overlap": 0.71551
+          "overlap": 0.715667
         },
         {
           "nr": 18,
           "name": "Mittelsachsen 2",
-          "overlap": 0.28449
+          "overlap": 0.284333
         }
       ],
       "primary": 20,

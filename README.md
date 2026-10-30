@@ -176,7 +176,7 @@ For BTW 2025, this mapping is valid 2025–2029.
 | Baden-Württemberg | Landtag | 70 | 1,199 | spatial | Baden-Württemberg 2026 | 165 |
 | Bayern | Landtag | 91 | 2,063 | spatial | Bayern 2023 | 149 |
 | Berlin | Abgeordnetenhaus | 78 | 190 | spatial | Berlin 2026 | 133 |
-| Brandenburg | Landtag | 44 | 225 | municipality_join | Brandenburg 2024 | 158 |
+| Brandenburg | Landtag | 44 | 228 | spatial | Brandenburg 2024 | 158 |
 | Bremen | Bürgerschaft | 2 | 40 | municipality_join | Bremen 2023 | 146 |
 | Hamburg | Bürgerschaft | 17 | 100 | spatial | Hamburg 2025 | 162 |
 | Hessen | Landtag | 55 | 555 | spatial | Hessen 2023 | 150 |
@@ -185,15 +185,15 @@ For BTW 2025, this mapping is valid 2025–2029.
 | Nordrhein-Westfalen | Landtag | 128 | 865 | spatial | NRW 2022 | 139 |
 | Rheinland-Pfalz | Landtag | 52 | 661 | spatial | Rheinland-Pfalz 2026 | 166 |
 | Saarland | Landtag | 3 | 71 | municipality_join | Saarland 2022 | 137 |
-| Sachsen | Landtag | 60 | 384 | municipality_join | Sachsen 2024 | 157 |
+| Sachsen | Landtag | 60 | 383 | spatial | Sachsen 2024 | 157 |
 | Sachsen-Anhalt | Landtag | 41 | 202 | spatial | Sachsen-Anhalt 2026 | 178 |
 | Schleswig-Holstein | Landtag | 35 | 456 | spatial | Schleswig-Holstein 2022 | 138 |
 | Thüringen | Landtag | 44 | 216 | spatial | Thüringen 2024 | 156 |
-| **Total** | | **843** | **8,222** | | | |
+| **Total** | | **843** | **8,224** | | | |
 
 Processing methods:
-- **spatial**: intersection of PLZ polygons with the state's official Wahlkreis geometry. Used wherever the state publishes one.
-- **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries. Used for Sachsen and Brandenburg, which publish no Wahlkreis geometry, and for Bremen and Saarland, whose Wahlkreise are whole municipalities or Kreise. A municipality split across several Wahlkreise (Chemnitz, Dresden, Leipzig, Zwickau; Brandenburg an der Havel, Cottbus, Potsdam) has no sub-municipal geometry, so its share is divided evenly between them and `primary` among them is the lowest number.
+- **spatial**: intersection of PLZ polygons with the state's official Wahlkreis geometry. Used wherever the state has one, including Brandenburg and Sachsen, which provide it on request.
+- **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries. Used for Bremen and Saarland, whose Wahlkreise are whole municipalities or Kreise.
 
 Both methods drop overlaps below 1% of a PLZ's area as boundary misalignment. A PLZ whose area inside a state stays below 1% is left out of that state.
 

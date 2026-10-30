@@ -58,15 +58,15 @@
   {
     "state": "brandenburg",
     "plz": "14467",
-    "wahlkreis_nr": 19,
-    "wahlkreis_name": "Potsdam-Mittelmark III/ Potsdam III",
+    "wahlkreis_nr": 21,
+    "wahlkreis_name": "Potsdam I",
     "description": "Potsdam"
   },
   {
     "state": "brandenburg",
     "plz": "03046",
-    "wahlkreis_nr": 43,
-    "wahlkreis_name": "Cottbus I",
+    "wahlkreis_nr": 44,
+    "wahlkreis_name": "Cottbus II",
     "description": "Cottbus"
   },
   {
@@ -198,8 +198,8 @@
   {
     "state": "sachsen",
     "plz": "01067",
-    "wahlkreis_nr": 40,
-    "wahlkreis_name": "Dresden 1",
+    "wahlkreis_nr": 45,
+    "wahlkreis_name": "Dresden 6",
     "description": "Dresden"
   },
   {
