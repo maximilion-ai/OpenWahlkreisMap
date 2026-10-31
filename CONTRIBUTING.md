@@ -44,7 +44,7 @@ make verify
 npm run build:data
 ```
 
-`make download-landtag` downloads all states with direct source URLs and prints notes for the remaining manual inputs. Berlin additionally requires the official ZIP to be copied to `raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip`.
+`make download-landtag` downloads every state source listed in `configs/landtag/`.
 
 ## Code of Conduct
 

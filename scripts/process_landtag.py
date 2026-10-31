@@ -1,11 +1,10 @@
 """
 Generic Landtag processor — config-driven PLZ-to-Wahlkreis mapping.
 
-Supports three processing methods:
-  - spatial: Polygon intersection (like Bundestag) for states with geodata
-  - municipality_join: PLZ→AGS→Wahlkreis via VG250 municipality boundaries
-  - plz_mapping: Direct PLZ→Wahlkreis CSV input
-  - manual: Hardcoded mapping from YAML config (for tiny states)
+Supports two processing methods:
+  - spatial: Polygon intersection with official Wahlkreis geometries
+  - municipality_join: PLZ→AGS→Wahlkreis via VG250 municipality boundaries,
+    for states that publish no Wahlkreis geometry
 
 Usage:
   python3 scripts/process_landtag.py --build-plz-ags [--force]
@@ -23,6 +22,7 @@ import sys
 import time
 from pathlib import Path
 
+import pandas as pd
 import yaml
 
 from lib.errors import DataPipelineError, SourceDataError, ValidationError
@@ -74,7 +74,6 @@ def get_plz_gdf():
 
 def process_spatial(config: dict) -> dict:
     """Process a state using spatial intersection (Tier 1)."""
-    state = config["state"]
     raw_dir = PROJECT_DIR / "raw" / "landtag" / config["download"]["raw_subdir"]
     source_file = config["download"].get("source_file")
     wk_source = raw_dir / source_file if source_file else raw_dir
@@ -85,10 +84,17 @@ def process_spatial(config: dict) -> dict:
     if col_map and all(v is None for v in col_map.values()):
         col_map = None
 
+    names = config.get("names")
+    if isinstance(names, str):
+        names_df = pd.read_csv(PROJECT_DIR / names, dtype={"wk_nr": int, "wk_name": str})
+        names = dict(zip(names_df["wk_nr"], names_df["wk_name"]))
+
     wk_gdf = load_constituency_polygons(
         wk_source,
         fmt=config["download"].get("format", "shapefile"),
         col_map=col_map,
+        names=names,
+        wk_nr_pattern=config.get("wk_nr_pattern"),
         expected_count=config["expected_wk_count"],
     )
 
@@ -97,7 +103,7 @@ def process_spatial(config: dict) -> dict:
     state_plz = filter_plz_by_bbox(plz_gdf, wk_gdf)
 
     # Compute intersections
-    intersections = compute_intersections(state_plz, wk_gdf)
+    intersections = compute_intersections(state_plz, wk_gdf, rescue_slivers=False)
 
     # Build mapping
     mapping = determine_primary(intersections, config["period_id"])
@@ -107,7 +113,6 @@ def process_spatial(config: dict) -> dict:
 def process_municipality_join(config: dict) -> dict:
     """Process a state using municipality join (Tier 2)."""
     state = config["state"]
-    raw_dir = PROJECT_DIR / "raw" / "landtag" / config["download"]["raw_subdir"]
 
     # Load PLZ-AGS mapping
     if not PLZ_AGS_CACHE.exists():
@@ -115,40 +120,34 @@ def process_municipality_join(config: dict) -> dict:
     plz_ags_df = load_plz_ags_mapping(PLZ_AGS_CACHE)
 
     # Parse state's constituency-municipality data
-    data_format = config["download"].get("format", "excel")
-    source_file = config["download"].get("source_file")
-    parser_name = config.get("parser", "excel_generic")
+    parser_name = config["parser"]
     parser = get_parser(config)
-
-    if data_format == "excel":
-        excel_files = [raw_dir / source_file] if source_file else []
-        if not excel_files:
-            excel_files = list(raw_dir.glob("*.xlsx")) + list(raw_dir.glob("*.xls"))
-        if not excel_files:
-            raise FileNotFoundError(f"No Excel file found in {raw_dir}")
-        ags_wk_lookup = parser(sorted(excel_files)[0], config)
-    elif data_format == "csv":
-        csv_files = [raw_dir / source_file] if source_file else []
-        if csv_files:
-            ags_wk_lookup = parser(csv_files[0], config)
-        elif parser_name == "landkreis_prefix" and config.get("landkreis_prefix_mapping"):
-            ags_wk_lookup = parser(None, config)
-        else:
-            csv_files = list(raw_dir.glob("*.csv"))
-            if not csv_files:
-                raise FileNotFoundError(f"No CSV file found in {raw_dir}")
-            ags_wk_lookup = parser(sorted(csv_files)[0], config)
+    if parser_name == "landkreis_prefix":
+        ags_wk_lookup = parser(None, config)
     else:
-        raise ValueError(f"Unsupported format for municipality_join: {data_format}")
+        raw_dir = PROJECT_DIR / "raw" / "landtag" / config["download"]["raw_subdir"]
+        source_file = config["download"].get("source_file")
+        patterns = {"excel": ["*.xlsx", "*.xls"], "csv": ["*.csv"]}[config["download"].get("format", "excel")]
+        files = [raw_dir / source_file] if source_file else sorted(f for pat in patterns for f in raw_dir.glob(pat))
+        if not files:
+            raise FileNotFoundError(f"No {patterns} source file found in {raw_dir}")
+        ags_wk_lookup = parser(files[0], config)
 
     ags_wk_lookup = validate_parser_output(
         ags_wk_lookup,
         parser_name=f"process_municipality_join:{parser_name}",
-        allow_multi_wk_per_ags=bool(config.get("allow_multi_wk_per_ags", parser_name != "excel_generic")),
+        allow_multi_wk_per_ags=bool(config.get("allow_multi_wk_per_ags", True)),
     )
 
-    # Filter PLZ-AGS to this state's AGS codes
+    # A municipality missing from the lookup would silently hand its PLZ shares
+    # to the neighbouring municipalities, so require every one of the state's.
     state_ags = set(ags_wk_lookup["ags"])
+    land_codes = {ags[:2] for ags in state_ags}
+    unassigned = sorted(set(plz_ags_df.loc[plz_ags_df["ags"].str[:2].isin(land_codes), "ags"]) - state_ags)
+    if unassigned:
+        raise ValidationError(f"{state}: {len(unassigned)} municipalities have no Wahlkreis, e.g. {unassigned[:5]}")
+
+    # Filter PLZ-AGS to this state's AGS codes
     state_plz_ags = plz_ags_df[plz_ags_df["ags"].isin(state_ags)].copy()
 
     if len(state_plz_ags) == 0:
@@ -156,80 +155,6 @@ def process_municipality_join(config: dict) -> dict:
 
     # Join PLZ → AGS → Wahlkreis
     mapping = join_plz_to_wahlkreis(state_plz_ags, ags_wk_lookup, config["period_id"])
-    return mapping
-
-
-def process_manual(config: dict) -> dict:
-    """Process a state using hardcoded manual mapping from config."""
-    manual = config.get("manual_mapping", [])
-    if not manual:
-        raise ValueError(f"No manual_mapping in config for state {config['state']}")
-
-    mapping = {}
-    for entry in manual:
-        wk_nr = entry["wk_nr"]
-        wk_name = entry["wk_name"]
-        for plz in entry["plz"]:
-            plz = str(plz).zfill(5)
-            if plz in mapping:
-                # PLZ already assigned — add this WK
-                mapping[plz]["wahlkreise"].append({
-                    "nr": wk_nr, "name": wk_name, "overlap": 0.0,
-                })
-            else:
-                mapping[plz] = {
-                    "wahlkreise": [{"nr": wk_nr, "name": wk_name, "overlap": 1.0}],
-                    "primary": wk_nr,
-                    "period_id": config["period_id"],
-                }
-
-    # For PLZ in multiple WK, set equal overlap and pick primary (lowest nr)
-    for plz, entry in mapping.items():
-        if len(entry["wahlkreise"]) > 1:
-            n = len(entry["wahlkreise"])
-            for wk in entry["wahlkreise"]:
-                wk["overlap"] = round(1.0 / n, 6)
-            entry["primary"] = min(wk["nr"] for wk in entry["wahlkreise"])
-
-    log.info("Manual mapping: %d PLZ → %d Wahlkreise",
-             len(mapping), len({wk["nr"] for e in mapping.values() for wk in e["wahlkreise"]}))
-    return mapping
-
-
-def process_plz_mapping(config: dict) -> dict:
-    """Process a state from a direct PLZ→Wahlkreis CSV."""
-    raw_dir = PROJECT_DIR / "raw" / "landtag" / config["download"]["raw_subdir"]
-    source_file = config["download"].get("source_file")
-    csv_path = raw_dir / source_file if source_file else None
-
-    if csv_path is None or not csv_path.exists():
-        raise FileNotFoundError(f"PLZ mapping CSV not found for state {config['state']}: {csv_path}")
-
-    parser = get_parser(config)
-    df = parser(csv_path, config)
-
-    mapping: dict[str, dict] = {}
-    for _, row in df.iterrows():
-        plz = str(row["plz"]).zfill(5)
-        wk_entry = {"nr": int(row["wk_nr"]), "name": str(row["wk_name"]), "overlap": 1.0}
-        current = mapping.setdefault(
-            plz,
-            {"wahlkreise": [], "primary": int(row["wk_nr"]), "period_id": config["period_id"]},
-        )
-        current["wahlkreise"].append(wk_entry)
-
-    for entry in mapping.values():
-        if len(entry["wahlkreise"]) > 1:
-            share = round(1.0 / len(entry["wahlkreise"]), 6)
-            for wk in entry["wahlkreise"]:
-                wk["overlap"] = share
-            entry["primary"] = min(wk["nr"] for wk in entry["wahlkreise"])
-
-    log.info(
-        "Direct PLZ mapping: %d PLZ → %d Wahlkreise",
-        len(mapping),
-        len({wk["nr"] for e in mapping.values() for wk in e["wahlkreise"]}),
-    )
     return mapping
 
 
@@ -268,10 +193,6 @@ def process_state(state_slug: str) -> bool:
         mapping = process_spatial(config)
     elif method == "municipality_join":
         mapping = process_municipality_join(config)
-    elif method == "plz_mapping":
-        mapping = process_plz_mapping(config)
-    elif method == "manual":
-        mapping = process_manual(config)
     else:
         log.error("Unknown method: %s", method)
         return False
@@ -322,10 +243,14 @@ def process_state(state_slug: str) -> bool:
 # ---------------------------------------------------------------------------
 
 def cmd_build_plz_ags(force: bool = False) -> None:
-    """Build the PLZ-to-AGS mapping (one-time, shared across states)."""
-    if PLZ_AGS_CACHE.exists() and not force:
-        log.info("PLZ-AGS mapping already cached at %s", PLZ_AGS_CACHE)
-        log.info("Use --force to rebuild.")
+    """Build the PLZ-to-AGS mapping shared by the municipality-join states."""
+    inputs = [p for p in (RAW_PLZ_PATH, VG250_GEM_PATH) if p.exists()]
+    if (
+        PLZ_AGS_CACHE.exists()
+        and not force
+        and all(p.stat().st_mtime <= PLZ_AGS_CACHE.stat().st_mtime for p in inputs)
+    ):
+        log.info("PLZ-AGS mapping is up to date at %s", PLZ_AGS_CACHE)
         return
 
     if not VG250_GEM_PATH.exists():

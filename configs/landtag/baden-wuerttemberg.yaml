@@ -1,18 +1,21 @@
 state: baden-wuerttemberg
 state_name: Baden-Württemberg
 parliament: Landtag
-method: municipality_join
-period_id: 163
+method: spatial
+period_id: 165
 expected_wk_count: 70
 election: Baden-Württemberg 2026
-parser: baden_wuerttemberg
 
 sources:
-  - "Statistisches Landesamt Baden-Württemberg (public domain)"
+  - "Statistisches Landesamt Baden-Württemberg — Wahlkreiskarte Landtagswahl 2026 (© Statistisches Landesamt Baden-Württemberg, Fellbach 2025; Kartengrundlage: LGL, Städte Freiburg, Karlsruhe, Mannheim, Stuttgart)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://wahlen.statistik-bw.de/ltw26/ltw26-ergebnisse.csv"
-  checksum_sha256: "5afd94b13ee6af30c0ec63bdd2543ca3826f80d2281646a1f84d9f0e6a822866"
-  format: csv
+  url: "https://www.statistik-bw.de/fileadmin/user_upload/medien/bilder/Karten_und_Geometrien_der_Wahlkreise/LTWahlkreise2026-BW_SHP.zip"
+  checksum_sha256: "d658776da193677744b06395666b8a0e11c4f713a4ad635411423a30708932d3"
+  format: shapefile
   raw_subdir: baden-wuerttemberg
+
+columns:
+  "Nummer": wk_nr
+  "WK Name": wk_name

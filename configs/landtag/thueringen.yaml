@@ -1,18 +1,21 @@
 state: thueringen
 state_name: Thüringen
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 156
 expected_wk_count: 44
 election: Thüringen 2024
-parser: thueringen
 
 sources:
-  - "Landeswahlleiter Thüringen (public domain)"
+  - "Thüringer Landesamt für Statistik — Wahlkreiseinteilung Landtagswahl 2024 (© GDI-Th / Thüringer Landesamt für Statistik)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://wahlen.thueringen.de/downloads/LWINFOG2024.xlsx"
-  checksum_sha256: "74b421bc31c69c9b99f12534fdd2effd850a2dadcfca918444285ae336431779"
-  format: excel
+  url: "https://wahlen.thueringen.de/landtagswahlen/informationen/vektor/2024/16TH_L24_Wahlkreiseinteilung.zip"
+  checksum_sha256: "d556c97841f7c07ca510329d33a4afd3a1096985338f6324ef2e683e33accc3c"
+  format: gpkg
   raw_subdir: thueringen
+
+columns:
+  WK_ID: wk_nr
+  WK: wk_name

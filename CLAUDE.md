@@ -99,7 +99,7 @@ tests/                  ← Additional test files
 
 ## API (GitHub Pages)
 
-Static JSON served at: `https://openwahlkreismap.org/api/v1/{plz}.json`
+Static JSON served at: `https://maximilion-ai.github.io/OpenWahlkreisMap/v1/{plz}.json`
 
 - No auth, no rate limiting, CDN-backed
 - Pre-generated one file per PLZ (~8,000 files)
@@ -113,20 +113,20 @@ Static JSON served at: `https://openwahlkreismap.org/api/v1/{plz}.json`
 | Parliament | Constituencies | abgeordnetenwatch period_id |
 |-----------|---------------|----------------------------|
 | Bundestag | 299 | 161 |
-| Baden-Württemberg | 70 | 163 |
+| Baden-Württemberg | 70 | 165 |
 | Bayern | 91 (Stimmkreise) | 149 |
 | Berlin | 78 | 133 |
 | Brandenburg | 44 | 158 |
 | Bremen | 2 | 146 |
 | Hamburg | 17 | 162 |
 | Hessen | 55 | 150 |
-| Mecklenburg-Vorpommern | 36 | 134 |
+| Mecklenburg-Vorpommern | 36 | 177 |
 | Niedersachsen | 87 | 143 |
 | Nordrhein-Westfalen | 128 | 139 |
-| Rheinland-Pfalz | 52 | 164 |
+| Rheinland-Pfalz | 52 | 166 |
 | Saarland | 3 | 137 |
 | Sachsen | 60 | 157 |
-| Sachsen-Anhalt | 41 | 131 |
+| Sachsen-Anhalt | 41 | 178 |
 | Schleswig-Holstein | 35 | 138 |
 | Thüringen | 44 | 156 |
 

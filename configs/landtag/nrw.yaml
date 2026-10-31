@@ -1,23 +1,21 @@
 state: nrw
 state_name: Nordrhein-Westfalen
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 139
 expected_wk_count: 128
 election: NRW 2022
-parser: nrw
 
 sources:
-  - "Landeswahlleiter Nordrhein-Westfalen (public domain)"
+  - "IT.NRW — Wahlkreiseinteilung zur Landtagswahl 2022 (© Ministerium des Innern des Landes Nordrhein-Westfalen, IT.NRW, Düsseldorf)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/22_LW2022_NRW_Zuordnung_Gemeinden.csv"
-  checksum_sha256: "48f442ddd9d5365bfdc66b8d20d9f8ebcc31a5743711af9cf96bc2ff77c34a98"
-  format: csv
+  url: "https://www.wahlergebnisse.nrw/landtagswahlen/2022/wahlkreiskarten/16_LW2022_NRW_Wahlkreise.zip"
+  checksum_sha256: "d6067c1454dc19b7e13a9d7a7df7c2b6aac0842f343f5d611675432f7480fbc1"
+  format: shapefile
   raw_subdir: nrw
 
-csv:
-  wk_nr_col: Landtagswahlkreisnummer
-  wk_name_col: Landtagswahlkreisname
-  ags_col: Gemeindenummer
+columns:
+  "LWKNR": wk_nr
+  "Name": wk_name
