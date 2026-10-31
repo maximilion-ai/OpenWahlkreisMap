@@ -8,6 +8,7 @@ import pytest
 from shapely.geometry import Polygon
 
 import process_landtag
+from lib.errors import ValidationError
 
 
 def _write_geojson(path: Path, rows: list[dict], crs: str = "EPSG:25832") -> None:
@@ -61,6 +62,42 @@ def test_process_spatial_with_real_fixture_geometries(isolated_project: Path) ->
     assert len(mapping["10001"]["wahlkreise"]) == 2
 
 
+def test_process_spatial_drops_plz_that_only_touch_the_state(isolated_project: Path) -> None:
+    _write_geojson(
+        isolated_project / "raw" / "plz" / "plz-5stellig.geojson",
+        [
+            {"plz": "10000", "geometry": Polygon([(0, 0), (0, 100), (100, 100), (100, 0)])},
+            # Lies in the neighbouring state; overlaps this one by 0.5%.
+            {"plz": "20000", "geometry": Polygon([(99.5, 0), (99.5, 100), (199.5, 100), (199.5, 0)])},
+        ],
+    )
+    _write_geojson(
+        isolated_project / "raw" / "landtag" / "spatial" / "wahlkreise.geojson",
+        [{"awk": "0101", "geometry": Polygon([(0, 0), (0, 100), (100, 100), (100, 0)])}],
+    )
+    names = isolated_project / "names.csv"
+    names.write_text("wk_nr,wk_name\n101,Mitte 1\n", encoding="utf-8")
+
+    config = {
+        "state": "mock-spatial",
+        "period_id": 123,
+        "expected_wk_count": 1,
+        "names": "names.csv",
+        "download": {"raw_subdir": "spatial", "source_file": "wahlkreise.geojson", "format": "geojson"},
+        "columns": {"awk": "wk_nr"},
+    }
+
+    mapping = process_landtag.process_spatial(config)
+
+    assert mapping == {
+        "10000": {
+            "wahlkreise": [{"nr": 101, "name": "Mitte 1", "overlap": 1.0}],
+            "primary": 101,
+            "period_id": 123,
+        }
+    }
+
+
 def test_process_municipality_join_with_small_fixture(
     isolated_project: Path,
     monkeypatch: pytest.MonkeyPatch,
@@ -100,32 +137,63 @@ def test_process_municipality_join_with_small_fixture(
     assert mapping["20001"]["primary"] == 11
 
 
-def test_process_plz_mapping_with_small_fixture(isolated_project: Path) -> None:
-    source_dir = isolated_project / "raw" / "landtag" / "plz"
+def _join_fixture(isolated_project: Path, monkeypatch: pytest.MonkeyPatch, plz_ags: list[dict], lookup: str) -> dict:
+    pd.DataFrame(plz_ags).to_parquet(
+        isolated_project / "raw" / "municipality" / "plz-ags-mapping.parquet", index=False
+    )
+    source_dir = isolated_project / "raw" / "landtag" / "join"
     source_dir.mkdir(parents=True, exist_ok=True)
-    (source_dir / "mapping.csv").write_text(
-        "plz,wk_nr,wk_name\n30000,20,Zentrum\n30001,21,Nord\n",
-        encoding="utf-8",
+    (source_dir / "ags.csv").write_text(lookup, encoding="utf-8")
+    monkeypatch.setattr(
+        process_landtag,
+        "get_parser",
+        lambda _config: (lambda path, _cfg: pd.read_csv(path, dtype={"ags": str})),
+    )
+    return {
+        "state": "mock-join",
+        "period_id": 456,
+        "download": {"raw_subdir": "join", "format": "csv", "source_file": "ags.csv"},
+        "parser": "custom_csv",
+    }
+
+
+def test_process_municipality_join_drops_slivers_and_neighbouring_plz(
+    isolated_project: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    config = _join_fixture(
+        isolated_project,
+        monkeypatch,
+        [
+            {"plz": "20000", "ags": "01001001", "overlap": 0.995},
+            {"plz": "20000", "ags": "01001002", "overlap": 0.005},
+            # Mostly in another state; touches this one by 0.4%.
+            {"plz": "30000", "ags": "01001002", "overlap": 0.004},
+            {"plz": "30000", "ags": "03001001", "overlap": 0.996},
+        ],
+        "ags,wk_nr,wk_name\n01001001,10,Nord\n01001002,11,Sued\n",
     )
 
-    config = {
-        "state": "mock-plz",
-        "period_id": 789,
-        "download": {"raw_subdir": "plz", "source_file": "mapping.csv"},
-        "parser": "plz_mapping",
-    }
-
-    mapping = process_landtag.process_plz_mapping(config)
+    mapping = process_landtag.process_municipality_join(config)
 
     assert mapping == {
-        "30000": {
-            "wahlkreise": [{"nr": 20, "name": "Zentrum", "overlap": 1.0}],
-            "primary": 20,
-            "period_id": 789,
-        },
-        "30001": {
-            "wahlkreise": [{"nr": 21, "name": "Nord", "overlap": 1.0}],
-            "primary": 21,
-            "period_id": 789,
-        },
+        "20000": {"wahlkreise": [{"nr": 10, "name": "Nord", "overlap": 1.0}], "primary": 10, "period_id": 456}
     }
+
+
+def test_process_municipality_join_rejects_unassigned_municipality(
+    isolated_project: Path,
+    monkeypatch: pytest.MonkeyPatch,
+) -> None:
+    config = _join_fixture(
+        isolated_project,
+        monkeypatch,
+        [
+            {"plz": "20000", "ags": "01001001", "overlap": 0.5},
+            {"plz": "20000", "ags": "01001003", "overlap": 0.5},
+        ],
+        "ags,wk_nr,wk_name\n01001001,10,Nord\n",
+    )
+
+    with pytest.raises(ValidationError, match="01001003"):
+        process_landtag.process_municipality_join(config)

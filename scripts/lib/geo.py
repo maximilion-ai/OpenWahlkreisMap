@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+import re
 from pathlib import Path
 from typing import Optional
 
@@ -88,6 +89,8 @@ def load_constituency_polygons(
     *,
     fmt: str = "shapefile",
     col_map: Optional[dict] = None,
+    names: Optional[dict[int, str]] = None,
+    wk_nr_pattern: Optional[str] = None,
     expected_count: Optional[int] = None,
 ) -> gpd.GeoDataFrame:
     """Load constituency boundary polygons from shapefile or GeoJSON.
@@ -97,6 +100,9 @@ def load_constituency_polygons(
         fmt: Format — "shapefile", "geojson", or "gpkg".
         col_map: Dict mapping source column names to canonical names (wk_nr, wk_name).
                  If None, auto-detects columns.
+        names: wk_nr → wk_name for sources without a name column, or fixes for
+               a source's misspelt or truncated names.
+        wk_nr_pattern: Regex whose first group extracts the number from the wk_nr column.
         expected_count: Expected number of constituencies. Exits on mismatch if set.
 
     Returns GeoDataFrame with columns: wk_nr (int), wk_name (str), geometry in EPSG:25832.
@@ -131,6 +137,17 @@ def load_constituency_polygons(
     # Apply column mapping
     if col_map:
         gdf = gdf.rename(columns=col_map)
+        if wk_nr_pattern:
+            gdf["wk_nr"] = gdf["wk_nr"].astype(str).str.extract(wk_nr_pattern, expand=False)
+        if names is not None:
+            configured = gdf["wk_nr"].astype(int).map(names)
+            if "wk_name" in gdf.columns:
+                gdf["wk_name"] = configured.fillna(gdf["wk_name"])
+            else:
+                gdf["wk_name"] = configured
+            unnamed = sorted(gdf.loc[gdf["wk_name"].isna(), "wk_nr"].astype(int).unique())
+            if unnamed:
+                raise SourceDataError(f"No name configured for Wahlkreise {unnamed}")
     else:
         # Auto-detect columns (Bundestag-style heuristic)
         detected = {}
@@ -189,7 +206,11 @@ def load_constituency_polygons(
 
     gdf = gdf[["wk_nr", "wk_name", "geometry"]].copy()
     gdf["wk_nr"] = gdf["wk_nr"].astype(int)
-    gdf["wk_name"] = gdf["wk_name"].astype(str)
+    # Some sources repeat the number ("18 Köln VI") or append ", Wahlkreis".
+    gdf["wk_name"] = [
+        re.sub(rf"^{nr}\s+|,\s*Wahlkreis$", "", str(name)).strip()
+        for nr, name in zip(gdf["wk_nr"], gdf["wk_name"])
+    ]
 
     # Dissolve duplicate WK numbers (multipart features)
     if gdf["wk_nr"].duplicated().any():
@@ -223,13 +244,49 @@ def load_constituency_polygons(
 # Spatial intersection
 # ---------------------------------------------------------------------------
 
+def drop_slivers(
+    result: pd.DataFrame,
+    *,
+    overlap_threshold: float = OVERLAP_THRESHOLD,
+    rescue_slivers: bool = True,
+) -> pd.DataFrame:
+    """Filter PLZ–WK shares (fractions of each PLZ's area) and renormalize them.
+
+    Shares below the threshold are boundary misalignment, not real overlap. A
+    PLZ made only of slivers keeps its largest share. Without rescue_slivers,
+    a PLZ whose shares together stay below the threshold is dropped instead:
+    it lies in a neighbouring state and only touches this one.
+    """
+    if not rescue_slivers:
+        outside = result.groupby("plz")["overlap"].transform("sum") < overlap_threshold
+        log.info(
+            "Dropping %d PLZ that only touch these constituencies",
+            result.loc[outside, "plz"].nunique(),
+        )
+        result = result[~outside]
+
+    largest = result.groupby("plz")["overlap"].transform("max")
+    rescued = largest < overlap_threshold
+    for plz in sorted(result.loc[rescued, "plz"].unique()):
+        log.warning("PLZ %s: all overlaps below %.0f%% threshold, keeping largest", plz, overlap_threshold * 100)
+    result = result[(result["overlap"] >= overlap_threshold) | (rescued & (result["overlap"] == largest))].copy()
+
+    result["overlap"] = (result["overlap"] / result.groupby("plz")["overlap"].transform("sum")).round(6)
+    result["wk_nr"] = result["wk_nr"].astype(int)
+    return result
+
+
 def compute_intersections(
     plz_gdf: gpd.GeoDataFrame,
     wk_gdf: gpd.GeoDataFrame,
     *,
     overlap_threshold: float = OVERLAP_THRESHOLD,
+    rescue_slivers: bool = True,
 ) -> pd.DataFrame:
     """Compute spatial overlay of PLZ and constituency polygons.
+
+    Slivers are filtered by drop_slivers. Pass rescue_slivers=False for a
+    Landtag, so PLZ from neighbouring states are dropped.
 
     Returns DataFrame with columns: plz, wk_nr, wk_name, overlap (0.0–1.0).
     """
@@ -246,47 +303,9 @@ def compute_intersections(
     plz_area_series = intersection["plz"].map(plz_areas)
     intersection["overlap"] = intersection["intersection_area"] / plz_area_series
 
-    result = intersection[["plz", "wk_nr", "wk_name", "overlap"]].copy()
-
-    # Filter slivers below threshold
-    below = result["overlap"] < overlap_threshold
-    dropped = result[below]
-
-    # Identify PLZ where ALL intersections are below threshold
-    plz_all_below = set(dropped.groupby("plz").filter(
-        lambda g: g["plz"].iloc[0] not in result[~below]["plz"].values
-    )["plz"]) if below.any() else set()
-
-    # For PLZ with all-below-threshold: keep only the largest intersection
-    rescue_rows = []
-    if plz_all_below:
-        for plz in plz_all_below:
-            group = result[result["plz"] == plz]
-            idx = group["overlap"].idxmax()
-            row = group.loc[[idx]].copy()
-            log.warning(
-                "PLZ %s: all overlaps below %.0f%% threshold, keeping largest (WK %d, %.4f)",
-                plz, overlap_threshold * 100,
-                row.iloc[0]["wk_nr"], row.iloc[0]["overlap"],
-            )
-            row["overlap"] = 1.0
-            rescue_rows.append(row)
-
-    # Keep rows above threshold (excluding all-below PLZ)
-    result = result[~below | result["plz"].isin(plz_all_below)]
-    result = result[~result["plz"].isin(plz_all_below)]
-
-    # Renormalize overlaps to sum to 1.0 per PLZ (vectorized)
-    totals = result.groupby("plz")["overlap"].transform("sum")
-    result = result.copy()
-    result["overlap"] = result["overlap"] / totals
-
-    # Add back rescued rows
-    if rescue_rows:
-        result = pd.concat([result] + rescue_rows, ignore_index=True)
-
-    result["overlap"] = result["overlap"].round(6)
-    result["wk_nr"] = result["wk_nr"].astype(int)
+    # A PLZ split into several polygons can meet the same WK more than once.
+    result = intersection.groupby(["plz", "wk_nr", "wk_name"], as_index=False)["overlap"].sum()
+    result = drop_slivers(result, overlap_threshold=overlap_threshold, rescue_slivers=rescue_slivers)
 
     log.info(
         "Intersection complete: %d PLZ-WK pairs across %d PLZ",

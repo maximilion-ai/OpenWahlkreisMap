@@ -1,18 +1,21 @@
 state: schleswig-holstein
 state_name: Schleswig-Holstein
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 138
 expected_wk_count: 35
 election: Schleswig-Holstein 2022
-parser: schleswig_holstein
 
 sources:
-  - "Statistikamt Nord / Landeswahlleiter SH (public domain)"
+  - "Statistikamt Nord — Landtagswahlkreise Schleswig-Holstein 2022 (© Statistisches Amt für Hamburg und Schleswig-Holstein 2022; © GeoBasis-DE/LVermGeo SH/BKG 2022)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Schleswig-Holstein/Landtagswahlen/2022/Vor_der_Wahl/Downloadmuster_ohne_Ergebnisse.csv"
-  checksum_sha256: "e7ec2fea1de0dd505e6f8b191e01c37eb4a87ad397194fa05580a239d01166f2"
-  format: csv
+  url: "https://www.statistik-nord.de/fileadmin/Dokumente/Wahlen/Schleswig-Holstein/Landtagswahlen/2022/Vor_der_Wahl/Landtagswahlkreise.zip"
+  checksum_sha256: "fa096bd7e6ffcde2450a979b7eeee7d14a5544b95defa79175b1d52d98667d65"
+  format: shapefile
   raw_subdir: schleswig-holstein
+
+columns:
+  WKNR: wk_nr
+  WKNAME: wk_name

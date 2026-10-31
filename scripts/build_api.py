@@ -182,9 +182,9 @@ def build_api():
       <p class="muted">Static postcode-to-constituency data for Bundestag and all 16 Landtage.</p>
       <p>Current dataset version: <code>{version_html}</code>. Generated: <code>{generated_html}</code>.</p>
       <ul>
-        <li>API index: <a href="/v1/index.json"><code>/v1/index.json</code></a></li>
-        <li>Example PLZ: <a href="/v1/10117.json"><code>/v1/10117.json</code></a></li>
-        <li>Project repository: <a href="https://github.com/maximilionai/OpenWahlkreisMap">GitHub</a></li>
+        <li>API index: <a href="v1/index.json"><code>/v1/index.json</code></a></li>
+        <li>Example PLZ: <a href="v1/10117.json"><code>/v1/10117.json</code></a></li>
+        <li>Project repository: <a href="https://github.com/maximilion-ai/OpenWahlkreisMap">GitHub</a></li>
       </ul>
     </div>
   </main>

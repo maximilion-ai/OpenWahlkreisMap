@@ -9,7 +9,7 @@ Published as static JSON, CSV, npm package, and a free public API via GitHub Pag
 ### API (no setup needed)
 
 ```bash
-curl https://maximilionai.github.io/OpenWahlkreisMap/v1/10117.json
+curl https://maximilion-ai.github.io/OpenWahlkreisMap/v1/10117.json
 ```
 
 ```json
@@ -27,7 +27,7 @@ curl https://maximilionai.github.io/OpenWahlkreisMap/v1/10117.json
       { "nr": 101, "name": "Charité, Oranienburger Tor", "overlap": 0.479906 }
     ],
     "primary": 102,
-    "period_id": 133
+    "period_id": 176
   }]
 }
 ```
@@ -52,7 +52,7 @@ const bt = getBundestagWahlkreis('10117');
 // { wahlkreise: [{ nr: 74, name: 'Berlin-Mitte', overlap: 1.0 }], primary: 74, period_id: 161 }
 
 const berlin = getLandtagWahlkreise('10117', 'berlin');
-// [{ state: 'berlin', wahlkreise: [...], primary: 102, period_id: 133 }]
+// [{ state: 'berlin', wahlkreise: [...], primary: 102, period_id: 176 }]
 ```
 
 The npm package is intended for backend and server-side use. It is an in-memory lookup table and bundles the full dataset for fast local reads, currently about 3 MB of JSON before transport compression. Importing it directly in a browser app will add that dataset to the frontend bundle; if bundle size matters, prefer the static API or consume generated JSON directly.
@@ -94,99 +94,7 @@ Published as:
 
 ## Data Sources
 
-### 1. Wahlkreis → Gemeinde (authoritative)
-
-**Source:** Bundeswahlleiterin — Wahlkreiseinteilung BTW 2025
-**URL:** https://www.bundeswahlleiterin.de/bundestagswahlen/2025/wahlkreiseinteilung/downloads.html
-
-Two files available:
-- `btw25_wahlkreisnummern_namen.csv` — 299 Wahlkreise with numbers and names (13 KB)
-- `btw25_wahlkreise_gemeinden.csv` — All Wahlkreise with their constituent Gemeinden, identified by AGS (Amtlicher Gemeindeschlüssel) (1.36 MB)
-
-The Gemeinde file is the key dataset. It tells us exactly which municipalities belong to which constituency.
-
-### 2. PLZ → Gemeinde (geographic)
-
-**Source:** BKG (Bundesamt für Kartographie und Geodäsie) — Postleitzahlengebiete
-**URL:** https://gdz.bkg.bund.de/index.php/default/postleitzahlgebiete-deutschland-plz.html
-**Documentation:** https://sg.geodatenzentrum.de/web_public/gdz/dokumentation/deu/plz.pdf
-
-Provides vector polygons (shapefiles) of all 5-digit PLZ areas with a mapping of PLZ → AGS (official municipality key). This is the bridge between PLZ and Gemeinde.
-
-**License:** dl-de/by-2-0 (attribution required, commercial use OK)
-
-### 3. Gemeindeverzeichnis (supplementary)
-
-**Source:** Destatis (Statistisches Bundesamt) — GV-ISys Gemeindeverzeichnis
-**URL:** https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/Archiv/GVAuszugQ/AuszugGV2QAktuell.html
-
-Provides every Gemeinde with its AGS and the PLZ of its administrative seat.
-
-**Limitation:** Only lists ONE PLZ per Gemeinde (the Verwaltungssitz). Large cities with many PLZ areas are not fully covered. Useful as a supplement/cross-check but not sufficient alone.
-
-### 4. Wahlkreis boundary shapefiles (for spatial approach)
-
-**Source:** Bundeswahlleiterin — Geometrien der Wahlkreise
-**URL:** https://www.bundeswahlleiterin.de/bundestagswahlen/2025/wahlkreiseinteilung/downloads.html
-
-Exact Wahlkreis boundary polygons. Can be intersected with PLZ polygons for a purely geometric approach.
-
-### 5. PLZ centroid coordinates (for point-in-polygon fallback)
-
-**Source:** WZBSocialScienceCenter/plz_geocoord (GitHub)
-**URL:** https://github.com/WZBSocialScienceCenter/plz_geocoord
-
-Geocoordinates for all PLZ centroids. Useful for a simpler point-in-polygon approach (check which Wahlkreis the center of each PLZ falls in), though this misses PLZ that straddle boundaries.
-
-### 6. PLZ boundary GeoJSON (open alternative to BKG)
-
-**Source:** yetzt/postleitzahlen (GitHub)
-**URL:** https://github.com/yetzt/postleitzahlen
-
-GeoJSON/TopoJSON of all German PLZ areas (2025 edition). No Wahlkreis linkage, but useful if BKG data is hard to obtain.
-
-## Approach
-
-Two methods, in order of preference:
-
-### Method A: AGS-based join (simpler, slightly less precise)
-
-```
-PLZ shapefile (BKG)     →  PLZ → AGS mapping
-Gemeinde-Wahlkreis CSV  →  AGS → Wahlkreis mapping
-                         ─────────────────────────
-                         =  PLZ → Wahlkreis mapping
-```
-
-1. From the BKG PLZ shapefile, extract which AGS codes each PLZ overlaps with
-2. From the Bundeswahlleiterin CSV, get which Wahlkreis each AGS belongs to
-3. Join on AGS: for each PLZ, collect all Wahlkreise that its constituent Gemeinden belong to
-4. Output: `{ plz: "87435", wahlkreise: [256], primary: 256 }`
-
-**Pros:** Straightforward data join, no complex geometry needed
-**Cons:** Depends on PLZ↔AGS mapping quality in the BKG data
-
-### Method B: Spatial intersection (most precise)
-
-```
-PLZ boundary polygons    ─┐
-                          ├→ geometric intersection → PLZ → Wahlkreis + area overlap %
-Wahlkreis boundary polygons ─┘
-```
-
-1. Load PLZ boundary polygons (from BKG or yetzt/postleitzahlen)
-2. Load Wahlkreis boundary polygons (from Bundeswahlleiterin)
-3. For each PLZ polygon, compute intersection with all Wahlkreis polygons
-4. Calculate area overlap percentage
-5. Mark primary Wahlkreis (largest overlap) and secondary ones
-6. Output: `{ plz: "87435", wahlkreise: [{ nr: 256, overlap: 0.95 }, { nr: 255, overlap: 0.05 }], primary: 256 }`
-
-**Pros:** Most precise, captures boundary-straddling PLZ with percentages
-**Cons:** Requires geopandas/shapely, heavier computation
-
-### Recommended: Method B with Method A as cross-check
-
-Run Method B to get the precise mapping with overlap percentages, then cross-check against Method A to catch any data anomalies.
+[SOURCES.md](SOURCES.md) lists every source with its URL, license, and attribution.
 
 ## Output Format
 
@@ -238,7 +146,6 @@ export function getLandtagWahlkreise(plz: string, state?: string): LandtagEntry[
 - **geopandas** + **shapely** for spatial operations
 - **pandas** for data joins
 - **pytest** for unit and fixture-based integration tests
-- Optionally: **DuckDB** with spatial extension as a faster alternative
 
 ## Verification
 
@@ -246,8 +153,7 @@ export function getLandtagWahlkreise(plz: string, state?: string): LandtagEntry[
 - Every Wahlkreis must appear at least once
 - Every valid 5-digit PLZ must map to at least one Wahlkreis
 - Primary Wahlkreis must have the largest overlap for each PLZ
-- Cross-check: compare against 2-digit prefix mapping from liebemdb (sanity check)
-- Spot-check: manually verify ~50 PLZ across all Bundesländer
+- Spot-check: `tests/expected_samples.json` and `tests/expected_landtag_samples.json`
 
 ## Update Cycle
 
@@ -265,36 +171,35 @@ For BTW 2025, this mapping is valid 2025–2029.
 
 ### Landtage (all 16 states)
 
-| State | Parliament | WK | PLZ | Method | Election |
-|-------|-----------|-----|-----|--------|----------|
-| Baden-Württemberg | Landtag | 70 | 1,309 | municipality_join | LTW 2026 |
-| Bayern | Landtag | 91 | 2,174 | municipality_join | LTW 2023 |
-| Berlin | Abgeordnetenhaus | 78 | 216 | spatial (repo-local official ZIP) | AgH 2026 |
-| Brandenburg | Landtag | 44 | 310 | municipality_join | LTW 2024 |
-| Bremen | Bürgerschaft | 2 | 40 | plz_mapping | BW 2023 |
-| Hamburg | Bürgerschaft | 17 | 123 | spatial (WFS) | BüW 2025 |
-| Hessen | Landtag | 55 | 668 | municipality_join | LTW 2023 |
-| Mecklenburg-Vorpommern | Landtag | 36 | 224 | spatial | LTW 2021 |
-| Niedersachsen | Landtag | 87 | 919 | municipality_join | LTW 2022 |
-| Nordrhein-Westfalen | Landtag | 128 | 961 | municipality_join | LTW 2022 |
-| Rheinland-Pfalz | Landtag | 52 | 737 | municipality_join | LTW 2021 |
-| Saarland | Landtag | 3 | 92 | municipality_join | LTW 2022 |
-| Sachsen | Landtag | 60 | 428 | municipality_join | LTW 2024 |
-| Sachsen-Anhalt | Landtag | 41 | 280 | municipality_join | LTW 2021 |
-| Schleswig-Holstein | Landtag | 35 | 464 | municipality_join | LTW 2022 |
-| Thüringen | Landtag | 44 | 312 | municipality_join | LTW 2024 |
-| **Total** | | **843** | **9,256** | | |
+| State | Parliament | WK | PLZ | Method | Election | period_id |
+|-------|-----------|-----|-----|--------|----------|-----------|
+| Baden-Württemberg | Landtag | 70 | 1,199 | spatial | Baden-Württemberg 2026 | 165 |
+| Bayern | Landtag | 91 | 2,063 | spatial | Bayern 2023 | 149 |
+| Berlin | Abgeordnetenhaus | 78 | 190 | spatial | Berlin 2026 | 176 |
+| Brandenburg | Landtag | 44 | 228 | spatial | Brandenburg 2024 | 158 |
+| Bremen | Bürgerschaft | 2 | 40 | municipality_join | Bremen 2023 | 146 |
+| Hamburg | Bürgerschaft | 17 | 100 | spatial | Hamburg 2025 | 162 |
+| Hessen | Landtag | 55 | 555 | spatial | Hessen 2023 | 150 |
+| Mecklenburg-Vorpommern | Landtag | 36 | 193 | spatial | Mecklenburg-Vorpommern 2026 | 177 |
+| Niedersachsen | Landtag | 87 | 802 | spatial | Niedersachsen 2022 | 143 |
+| Nordrhein-Westfalen | Landtag | 128 | 865 | spatial | NRW 2022 | 139 |
+| Rheinland-Pfalz | Landtag | 52 | 661 | spatial | Rheinland-Pfalz 2026 | 166 |
+| Saarland | Landtag | 3 | 71 | municipality_join | Saarland 2022 | 137 |
+| Sachsen | Landtag | 60 | 383 | spatial | Sachsen 2024 | 157 |
+| Sachsen-Anhalt | Landtag | 41 | 202 | spatial | Sachsen-Anhalt 2026 | 178 |
+| Schleswig-Holstein | Landtag | 35 | 456 | spatial | Schleswig-Holstein 2022 | 138 |
+| Thüringen | Landtag | 44 | 216 | spatial | Thüringen 2024 | 156 |
+| **Total** | | **843** | **8,224** | | | |
 
 Processing methods:
-- **spatial**: Direct polygon intersection of PLZ and Wahlkreis boundaries
-- **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries
-- **plz_mapping**: Direct PLZ→Wahlkreis mapping for compact city-state cases
+- **spatial**: intersection of PLZ polygons with the state's official Wahlkreis geometry. Used wherever the state has one, including Brandenburg and Sachsen, which provide it on request.
+- **municipality_join**: PLZ→AGS→Wahlkreis via VG250 municipality boundaries. Used for Bremen and Saarland, whose Wahlkreise are whole municipalities or Kreise.
 
-Landtag downloads are fully scripted. `make download-landtag` fetches or generates every state source from config, including Berlin, Hamburg, and Saarland.
+Both methods drop overlaps below 1% of a PLZ's area as boundary misalignment. A PLZ whose area inside a state stays below 1% is left out of that state.
 
-Berlin has one special-case manual source step: place the official archive at `raw/landtag/berlin/RBS_OD_Wahlkreise_AH2026.zip`. The downloader requires that ZIP and verifies it before normalizing the shapefile into the repo format.
+`period_id` is the abgeordnetenwatch legislature period whose members were elected in these Wahlkreise.
 
-The tracked file `configs/landtag/berlin_ortsteil_wahlkreis.csv` is retained only as a Berlin `wk_nr -> wk_name` lookup. As of April 23, 2026, I could not find a better machine-readable official name table on the Berlin election/statistics sites. The names were derived from the official Berlin Wahlkreiskarten PDFs published at `https://www.statistik-berlin-brandenburg.de/wahlkreiskarten-2026/`.
+`make download-landtag` fetches every state source from config. Berlin's WFS publishes only Wahlkreis codes; `configs/landtag/berlin-wahlkreisnamen.csv` supplies the names from the official [Wahlkreiskarten 2026](https://www.statistik-berlin-brandenburg.de/wahlkreiskarten-2026/).
 
 ## Testing
 

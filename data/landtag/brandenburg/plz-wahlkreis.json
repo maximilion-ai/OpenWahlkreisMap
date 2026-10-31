@@ -3,89 +3,24 @@
     "election": "Brandenburg 2024",
     "constituencies": 44,
     "sources": [
-      "Amt für Statistik Berlin-Brandenburg (public domain)",
+      "Landeswahlleiter Brandenburg — Wahlkreise Landtagswahl 2024 (© GeoBasis-DE/LGB 2024)",
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
-    "plz_count": 310,
-    "generated": "2026-04-02"
+    "plz_count": 228,
+    "generated": "2026-10-30"
   },
   "data": {
-    "01561": {
-      "wahlkreise": [
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.780967
-        },
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 0.219033
-        }
-      ],
-      "primary": 38,
-      "period_id": 158
-    },
-    "01609": {
-      "wahlkreise": [
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 37,
-      "period_id": 158
-    },
-    "01616": {
-      "wahlkreise": [
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 37,
-      "period_id": 158
-    },
-    "01619": {
-      "wahlkreise": [
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 37,
-      "period_id": 158
-    },
-    "01936": {
-      "wahlkreise": [
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 38,
-      "period_id": 158
-    },
     "01945": {
       "wahlkreise": [
         {
           "nr": 38,
           "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.943176
+          "overlap": 0.942248
         },
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.056726
-        },
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 9.7e-05
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 0.057752
         }
       ],
       "primary": 38,
@@ -95,13 +30,13 @@
       "wahlkreise": [
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.886946
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 0.881304
         },
         {
           "nr": 38,
           "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.113054
+          "overlap": 0.118696
         }
       ],
       "primary": 39,
@@ -112,17 +47,7 @@
         {
           "nr": 38,
           "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.997034
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.002358
-        },
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 0.000608
+          "overlap": 1.0
         }
       ],
       "primary": 38,
@@ -132,18 +57,8 @@
       "wahlkreise": [
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.998518
-        },
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.000934
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.000548
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -154,12 +69,7 @@
         {
           "nr": 38,
           "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.99943
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.00057
+          "overlap": 1.0
         }
       ],
       "primary": 38,
@@ -170,12 +80,12 @@
         {
           "nr": 38,
           "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.997696
+          "overlap": 0.987914
         },
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.002304
+          "overlap": 0.012086
         }
       ],
       "primary": 38,
@@ -197,17 +107,7 @@
         {
           "nr": 38,
           "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.985305
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.014477
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.000218
+          "overlap": 1.0
         }
       ],
       "primary": 38,
@@ -217,13 +117,8 @@
       "wahlkreise": [
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.996877
-        },
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.003123
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -234,12 +129,7 @@
         {
           "nr": 38,
           "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.999424
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.000576
+          "overlap": 1.0
         }
       ],
       "primary": 38,
@@ -256,76 +146,12 @@
       "primary": 42,
       "period_id": 158
     },
-    "02959": {
-      "wahlkreise": [
-        {
-          "nr": 42,
-          "name": "Spree-Neiße II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 42,
-      "period_id": 158
-    },
-    "02979": {
-      "wahlkreise": [
-        {
-          "nr": 42,
-          "name": "Spree-Neiße II",
-          "overlap": 0.762984
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.237016
-        }
-      ],
-      "primary": 42,
-      "period_id": 158
-    },
-    "02991": {
-      "wahlkreise": [
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.847787
-        },
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.152213
-        }
-      ],
-      "primary": 39,
-      "period_id": 158
-    },
-    "02994": {
-      "wahlkreise": [
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 38,
-      "period_id": 158
-    },
     "03042": {
       "wahlkreise": [
         {
           "nr": 43,
           "name": "Cottbus I",
-          "overlap": 0.499997
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.499997
-        },
-        {
-          "nr": 42,
-          "name": "Spree-Neiße II",
-          "overlap": 6e-06
+          "overlap": 1.0
         }
       ],
       "primary": 43,
@@ -336,17 +162,12 @@
         {
           "nr": 43,
           "name": "Cottbus I",
-          "overlap": 0.499585
+          "overlap": 0.832406
         },
         {
           "nr": 44,
           "name": "Cottbus II",
-          "overlap": 0.499585
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.000829
+          "overlap": 0.167594
         }
       ],
       "primary": 43,
@@ -355,90 +176,60 @@
     "03046": {
       "wahlkreise": [
         {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.499335
-        },
-        {
           "nr": 44,
           "name": "Cottbus II",
-          "overlap": 0.499335
+          "overlap": 0.827708
         },
         {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.00133
+          "nr": 43,
+          "name": "Cottbus I",
+          "overlap": 0.172292
         }
       ],
-      "primary": 43,
+      "primary": 44,
       "period_id": 158
     },
     "03048": {
       "wahlkreise": [
         {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.491986
-        },
-        {
           "nr": 44,
           "name": "Cottbus II",
-          "overlap": 0.491986
+          "overlap": 0.98508
         },
         {
           "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.016028
+          "name": "Oberspreewald-Lausitz III / Spree-Neiße III",
+          "overlap": 0.01492
         }
       ],
-      "primary": 43,
+      "primary": 44,
       "period_id": 158
     },
     "03050": {
       "wahlkreise": [
         {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.5
-        },
-        {
           "nr": 44,
           "name": "Cottbus II",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
-      "primary": 43,
+      "primary": 44,
       "period_id": 158
     },
     "03051": {
       "wahlkreise": [
         {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.4976
-        },
-        {
           "nr": 44,
           "name": "Cottbus II",
-          "overlap": 0.4976
+          "overlap": 0.98745
         },
         {
           "nr": 42,
           "name": "Spree-Neiße II",
-          "overlap": 0.004367
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.000231
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.000203
+          "overlap": 0.01255
         }
       ],
-      "primary": 43,
+      "primary": 44,
       "period_id": 158
     },
     "03052": {
@@ -446,22 +237,7 @@
         {
           "nr": 43,
           "name": "Cottbus I",
-          "overlap": 0.494569
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.494569
-        },
-        {
-          "nr": 42,
-          "name": "Spree-Neiße II",
-          "overlap": 0.01027
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 0.000592
+          "overlap": 1.0
         }
       ],
       "primary": 43,
@@ -472,17 +248,12 @@
         {
           "nr": 43,
           "name": "Cottbus I",
-          "overlap": 0.497977
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.497977
+          "overlap": 0.980805
         },
         {
           "nr": 41,
           "name": "Spree-Neiße I",
-          "overlap": 0.004046
+          "overlap": 0.019195
         }
       ],
       "primary": 43,
@@ -493,17 +264,12 @@
         {
           "nr": 43,
           "name": "Cottbus I",
-          "overlap": 0.498363
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.498363
+          "overlap": 0.981743
         },
         {
           "nr": 41,
           "name": "Spree-Neiße I",
-          "overlap": 0.003273
+          "overlap": 0.018257
         }
       ],
       "primary": 43,
@@ -514,22 +280,12 @@
         {
           "nr": 43,
           "name": "Cottbus I",
-          "overlap": 0.499194
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.499194
+          "overlap": 0.983917
         },
         {
           "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.001377
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 0.000235
+          "name": "Oberspreewald-Lausitz III / Spree-Neiße III",
+          "overlap": 0.016083
         }
       ],
       "primary": 43,
@@ -540,22 +296,7 @@
         {
           "nr": 42,
           "name": "Spree-Neiße II",
-          "overlap": 0.994944
-        },
-        {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.002447
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.002447
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.000162
+          "overlap": 1.0
         }
       ],
       "primary": 42,
@@ -565,28 +306,8 @@
       "wahlkreise": [
         {
           "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.996148
-        },
-        {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.001407
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.001407
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.000814
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 0.000224
+          "name": "Oberspreewald-Lausitz III / Spree-Neiße III",
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -596,23 +317,8 @@
       "wahlkreise": [
         {
           "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.995745
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.002169
-        },
-        {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.001043
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.001043
+          "name": "Oberspreewald-Lausitz III / Spree-Neiße III",
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -622,13 +328,8 @@
       "wahlkreise": [
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.999487
-        },
-        {
-          "nr": 42,
-          "name": "Spree-Neiße II",
-          "overlap": 0.000513
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -638,28 +339,8 @@
       "wahlkreise": [
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.99797
-        },
-        {
-          "nr": 42,
-          "name": "Spree-Neiße II",
-          "overlap": 0.00146
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.000442
-        },
-        {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 6.4e-05
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 6.4e-05
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -670,12 +351,7 @@
         {
           "nr": 42,
           "name": "Spree-Neiße II",
-          "overlap": 0.998978
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.001022
+          "overlap": 1.0
         }
       ],
       "primary": 42,
@@ -686,12 +362,7 @@
         {
           "nr": 42,
           "name": "Spree-Neiße II",
-          "overlap": 0.998934
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.001066
+          "overlap": 1.0
         }
       ],
       "primary": 42,
@@ -702,22 +373,12 @@
         {
           "nr": 41,
           "name": "Spree-Neiße I",
-          "overlap": 0.594199
+          "overlap": 0.591462
         },
         {
           "nr": 42,
           "name": "Spree-Neiße II",
-          "overlap": 0.405735
-        },
-        {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 3.3e-05
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 3.3e-05
+          "overlap": 0.408538
         }
       ],
       "primary": 41,
@@ -728,12 +389,7 @@
         {
           "nr": 42,
           "name": "Spree-Neiße II",
-          "overlap": 0.999638
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 0.000362
+          "overlap": 1.0
         }
       ],
       "primary": 42,
@@ -744,17 +400,7 @@
         {
           "nr": 41,
           "name": "Spree-Neiße I",
-          "overlap": 0.998347
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.00103
-        },
-        {
-          "nr": 29,
-          "name": "Oder-Spree II",
-          "overlap": 0.000623
+          "overlap": 1.0
         }
       ],
       "primary": 41,
@@ -765,32 +411,7 @@
         {
           "nr": 41,
           "name": "Spree-Neiße I",
-          "overlap": 0.996235
-        },
-        {
-          "nr": 43,
-          "name": "Cottbus I",
-          "overlap": 0.001723
-        },
-        {
-          "nr": 44,
-          "name": "Cottbus II",
-          "overlap": 0.001723
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.000199
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.000119
-        },
-        {
-          "nr": 42,
-          "name": "Spree-Neiße II",
-          "overlap": 2e-06
+          "overlap": 1.0
         }
       ],
       "primary": 41,
@@ -811,23 +432,13 @@
       "wahlkreise": [
         {
           "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.806346
+          "name": "Oberspreewald-Lausitz III / Spree-Neiße III",
+          "overlap": 0.807383
         },
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.192394
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.000634
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.000626
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 0.192617
         }
       ],
       "primary": 40,
@@ -837,13 +448,8 @@
       "wahlkreise": [
         {
           "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.998873
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.001127
+          "name": "Oberspreewald-Lausitz III / Spree-Neiße III",
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -853,13 +459,8 @@
       "wahlkreise": [
         {
           "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.999683
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.000317
+          "name": "Oberspreewald-Lausitz III / Spree-Neiße III",
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -869,13 +470,8 @@
       "wahlkreise": [
         {
           "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.99934
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.00066
+          "name": "Oberspreewald-Lausitz II / Spree-Neiße IV",
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -886,22 +482,12 @@
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.715607
+          "overlap": 0.714799
         },
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.283492
-        },
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.000678
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 0.000223
+          "overlap": 0.285201
         }
       ],
       "primary": 36,
@@ -912,22 +498,7 @@
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.997797
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.001747
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.000421
-        },
-        {
-          "nr": 39,
-          "name": "Oberspreewald-Lausitz II/ Spree-Neiße IV",
-          "overlap": 3.5e-05
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -938,39 +509,13 @@
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.999011
-        },
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 0.000521
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.000468
+          "overlap": 1.0
         }
       ],
       "primary": 36,
       "period_id": 158
     },
     "03253": {
-      "wahlkreise": [
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 0.998317
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.001683
-        }
-      ],
-      "primary": 37,
-      "period_id": 158
-    },
-    "04758": {
       "wahlkreise": [
         {
           "nr": 37,
@@ -992,33 +537,17 @@
       "primary": 37,
       "period_id": 158
     },
-    "04886": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.773963
-        },
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 0.226037
-        }
-      ],
-      "primary": 36,
-      "period_id": 158
-    },
     "04895": {
       "wahlkreise": [
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.662359
+          "overlap": 0.663097
         },
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.337641
+          "overlap": 0.336903
         }
       ],
       "primary": 36,
@@ -1040,12 +569,7 @@
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.999544
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.000456
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1056,12 +580,12 @@
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.55822
+          "overlap": 0.5618
         },
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.44178
+          "overlap": 0.4382
         }
       ],
       "primary": 37,
@@ -1072,12 +596,7 @@
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.998677
-        },
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.001323
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1088,12 +607,7 @@
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.999923
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 7.7e-05
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1104,12 +618,7 @@
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.999604
-        },
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 0.000396
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1120,12 +629,7 @@
         {
           "nr": 37,
           "name": "Elbe-Elster II",
-          "overlap": 0.99994
-        },
-        {
-          "nr": 38,
-          "name": "Oberspreewald-Lausitz I",
-          "overlap": 6e-05
+          "overlap": 1.0
         }
       ],
       "primary": 37,
@@ -1136,22 +640,7 @@
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.998724
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.0007
-        },
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 0.000398
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.000178
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1162,219 +651,13 @@
         {
           "nr": 36,
           "name": "Elbe-Elster I",
-          "overlap": 0.999002
-        },
-        {
-          "nr": 37,
-          "name": "Elbe-Elster II",
-          "overlap": 0.000998
-        }
-      ],
-      "primary": 36,
-      "period_id": 158
-    },
-    "06868": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 158
-    },
-    "06869": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 158
-    },
-    "06889": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.871942
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.128058
-        }
-      ],
-      "primary": 18,
-      "period_id": 158
-    },
-    "06895": {
-      "wahlkreise": [
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 24,
-      "period_id": 158
-    },
-    "06917": {
-      "wahlkreise": [
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.617494
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.382506
-        }
-      ],
-      "primary": 24,
-      "period_id": 158
-    },
-    "06925": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
           "overlap": 1.0
         }
       ],
       "primary": 36,
-      "period_id": 158
-    },
-    "12207": {
-      "wahlkreise": [
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.644685
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.355315
-        }
-      ],
-      "primary": 20,
-      "period_id": 158
-    },
-    "12209": {
-      "wahlkreise": [
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 23,
-      "period_id": 158
-    },
-    "12277": {
-      "wahlkreise": [
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 23,
-      "period_id": 158
-    },
-    "12279": {
-      "wahlkreise": [
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 23,
-      "period_id": 158
-    },
-    "12307": {
-      "wahlkreise": [
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.741716
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.258284
-        }
-      ],
-      "primary": 23,
-      "period_id": 158
-    },
-    "12309": {
-      "wahlkreise": [
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.933928
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.066072
-        }
-      ],
-      "primary": 25,
-      "period_id": 158
-    },
-    "12349": {
-      "wahlkreise": [
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 26,
       "period_id": 158
     },
     "12353": {
-      "wahlkreise": [
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 26,
-      "period_id": 158
-    },
-    "12355": {
-      "wahlkreise": [
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 26,
-      "period_id": 158
-    },
-    "12524": {
-      "wahlkreise": [
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 26,
-      "period_id": 158
-    },
-    "12526": {
       "wahlkreise": [
         {
           "nr": 26,
@@ -1390,12 +673,12 @@
         {
           "nr": 26,
           "name": "Dahme-Spreewald I",
-          "overlap": 0.714371
+          "overlap": 0.509188
         },
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.285629
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 0.490812
         }
       ],
       "primary": 26,
@@ -1406,124 +689,21 @@
         {
           "nr": 26,
           "name": "Dahme-Spreewald I",
-          "overlap": 0.998412
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.001588
+          "overlap": 1.0
         }
       ],
       "primary": 26,
-      "period_id": 158
-    },
-    "12559": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.547327
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.452673
-        }
-      ],
-      "primary": 31,
-      "period_id": 158
-    },
-    "12587": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 31,
-      "period_id": 158
-    },
-    "12589": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 31,
       "period_id": 158
     },
     "12623": {
       "wahlkreise": [
         {
           "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
+          "name": "Märkisch-Oderland I / Oder-Spree IV",
           "overlap": 1.0
         }
       ],
       "primary": 31,
-      "period_id": 158
-    },
-    "12627": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.731559
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.268441
-        }
-      ],
-      "primary": 31,
-      "period_id": 158
-    },
-    "12629": {
-      "wahlkreise": [
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 15,
-      "period_id": 158
-    },
-    "12679": {
-      "wahlkreise": [
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 15,
-      "period_id": 158
-    },
-    "12681": {
-      "wahlkreise": [
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 15,
-      "period_id": 158
-    },
-    "12685": {
-      "wahlkreise": [
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 15,
       "period_id": 158
     },
     "12689": {
@@ -1548,94 +728,18 @@
       "primary": 15,
       "period_id": 158
     },
-    "13057": {
-      "wahlkreise": [
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 15,
-      "period_id": 158
-    },
-    "13059": {
-      "wahlkreise": [
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 15,
-      "period_id": 158
-    },
-    "13125": {
-      "wahlkreise": [
-        {
-          "nr": 14,
-          "name": "Barnim II",
-          "overlap": 0.724966
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.275034
-        }
-      ],
-      "primary": 14,
-      "period_id": 158
-    },
-    "13127": {
-      "wahlkreise": [
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 15,
-      "period_id": 158
-    },
     "13159": {
       "wahlkreise": [
         {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.592228
-        },
-        {
           "nr": 8,
           "name": "Oberhavel II",
-          "overlap": 0.407772
+          "overlap": 1.0
         }
       ],
-      "primary": 15,
+      "primary": 8,
       "period_id": 158
     },
     "13465": {
-      "wahlkreise": [
-        {
-          "nr": 8,
-          "name": "Oberhavel II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 8,
-      "period_id": 158
-    },
-    "13467": {
-      "wahlkreise": [
-        {
-          "nr": 8,
-          "name": "Oberhavel II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 8,
-      "period_id": 158
-    },
-    "13469": {
       "wahlkreise": [
         {
           "nr": 8,
@@ -1651,42 +755,10 @@
         {
           "nr": 7,
           "name": "Oberhavel I",
-          "overlap": 0.814365
-        },
-        {
-          "nr": 8,
-          "name": "Oberhavel II",
-          "overlap": 0.185635
-        }
-      ],
-      "primary": 7,
-      "period_id": 158
-    },
-    "13505": {
-      "wahlkreise": [
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
           "overlap": 1.0
         }
       ],
       "primary": 7,
-      "period_id": 158
-    },
-    "13587": {
-      "wahlkreise": [
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 0.613319
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.386681
-        }
-      ],
-      "primary": 6,
       "period_id": 158
     },
     "13589": {
@@ -1700,84 +772,15 @@
       "primary": 6,
       "period_id": 158
     },
-    "13591": {
-      "wahlkreise": [
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 6,
-      "period_id": 158
-    },
-    "13593": {
-      "wahlkreise": [
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 6,
-      "period_id": 158
-    },
-    "14089": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.333333
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
     "14109": {
       "wahlkreise": [
         {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.309637
-        },
-        {
           "nr": 21,
           "name": "Potsdam I",
-          "overlap": 0.309637
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.309637
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.07109
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14129": {
-      "wahlkreise": [
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
           "overlap": 1.0
         }
       ],
-      "primary": 20,
+      "primary": 21,
       "period_id": 158
     },
     "14165": {
@@ -1791,7 +794,120 @@
       "primary": 20,
       "period_id": 158
     },
-    "14167": {
+    "14467": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Potsdam I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 158
+    },
+    "14469": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Potsdam-Mittelmark III / Potsdam III",
+          "overlap": 0.830661
+        },
+        {
+          "nr": 21,
+          "name": "Potsdam I",
+          "overlap": 0.169339
+        }
+      ],
+      "primary": 19,
+      "period_id": 158
+    },
+    "14471": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Potsdam I",
+          "overlap": 0.981548
+        },
+        {
+          "nr": 18,
+          "name": "Potsdam-Mittelmark II",
+          "overlap": 0.018452
+        }
+      ],
+      "primary": 21,
+      "period_id": 158
+    },
+    "14473": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Potsdam II",
+          "overlap": 0.876101
+        },
+        {
+          "nr": 21,
+          "name": "Potsdam I",
+          "overlap": 0.123899
+        }
+      ],
+      "primary": 22,
+      "period_id": 158
+    },
+    "14476": {
+      "wahlkreise": [
+        {
+          "nr": 19,
+          "name": "Potsdam-Mittelmark III / Potsdam III",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 19,
+      "period_id": 158
+    },
+    "14478": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Potsdam II",
+          "overlap": 0.952316
+        },
+        {
+          "nr": 20,
+          "name": "Potsdam-Mittelmark IV",
+          "overlap": 0.047684
+        }
+      ],
+      "primary": 22,
+      "period_id": 158
+    },
+    "14480": {
+      "wahlkreise": [
+        {
+          "nr": 22,
+          "name": "Potsdam II",
+          "overlap": 0.989716
+        },
+        {
+          "nr": 20,
+          "name": "Potsdam-Mittelmark IV",
+          "overlap": 0.010284
+        }
+      ],
+      "primary": 22,
+      "period_id": 158
+    },
+    "14482": {
+      "wahlkreise": [
+        {
+          "nr": 21,
+          "name": "Potsdam I",
+          "overlap": 1.0
+        }
+      ],
+      "primary": 21,
+      "period_id": 158
+    },
+    "14513": {
       "wahlkreise": [
         {
           "nr": 20,
@@ -1802,256 +918,12 @@
       "primary": 20,
       "period_id": 158
     },
-    "14467": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.333333
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14469": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.333472
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.333264
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.333264
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14471": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.332494
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.332494
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.332494
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.002517
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14473": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.332599
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.332599
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.332599
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.002083
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.000118
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14476": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.332954
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.332716
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.332716
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.001099
-        },
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 0.000488
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 2.7e-05
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14478": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.326959
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.326959
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.326959
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.019122
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14480": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.324522
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.324522
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.324522
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.026434
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14482": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.333333
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.333333
-        }
-      ],
-      "primary": 19,
-      "period_id": 158
-    },
-    "14513": {
-      "wahlkreise": [
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.995832
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.004168
-        }
-      ],
-      "primary": 20,
-      "period_id": 158
-    },
     "14532": {
       "wahlkreise": [
         {
           "nr": 20,
           "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.997326
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.002544
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 4.3e-05
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 4.3e-05
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 4.3e-05
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -2061,33 +933,8 @@
       "wahlkreise": [
         {
           "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.993146
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.003697
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.00196
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.000492
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.000492
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.000214
+          "name": "Potsdam-Mittelmark III / Potsdam III",
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -2098,22 +945,7 @@
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.998777
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.000738
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.000482
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 3e-06
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -2124,22 +956,7 @@
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.98123
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.007994
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.005388
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.005388
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -2149,23 +966,8 @@
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.996891
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.001428
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.001289
-        },
-        {
-          "nr": 17,
-          "name": "Brandenburg an der Havel II",
-          "overlap": 0.000391
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -2176,32 +978,7 @@
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.993295
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.005714
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.000817
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 5.8e-05
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 5.8e-05
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 5.8e-05
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -2223,32 +1000,7 @@
         {
           "nr": 20,
           "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.983569
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.004303
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.003192
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.003192
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.003192
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.002551
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -2259,12 +1011,7 @@
         {
           "nr": 6,
           "name": "Havelland II",
-          "overlap": 0.988701
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.011299
+          "overlap": 1.0
         }
       ],
       "primary": 6,
@@ -2275,17 +1022,7 @@
         {
           "nr": 6,
           "name": "Havelland II",
-          "overlap": 0.996633
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.001757
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.00161
+          "overlap": 1.0
         }
       ],
       "primary": 6,
@@ -2296,27 +1033,7 @@
         {
           "nr": 6,
           "name": "Havelland II",
-          "overlap": 0.972863
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.008641
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.008641
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.008641
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.001214
+          "overlap": 1.0
         }
       ],
       "primary": 6,
@@ -2327,47 +1044,7 @@
         {
           "nr": 5,
           "name": "Havelland I",
-          "overlap": 0.997058
-        },
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 0.00127
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.000682
-        },
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.000498
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.000173
-        },
-        {
-          "nr": 17,
-          "name": "Brandenburg an der Havel II",
-          "overlap": 0.00011
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 7e-05
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 7e-05
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 7e-05
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2378,12 +1055,7 @@
         {
           "nr": 5,
           "name": "Havelland I",
-          "overlap": 0.99682
-        },
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 0.00318
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2394,17 +1066,7 @@
         {
           "nr": 5,
           "name": "Havelland I",
-          "overlap": 0.997351
-        },
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.002103
-        },
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.000546
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2415,27 +1077,7 @@
         {
           "nr": 5,
           "name": "Havelland I",
-          "overlap": 0.997611
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.00121
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.00054
-        },
-        {
-          "nr": 21,
-          "name": "Potsdam I",
-          "overlap": 0.00032
-        },
-        {
-          "nr": 22,
-          "name": "Potsdam II",
-          "overlap": 0.00032
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2445,13 +1087,8 @@
       "wahlkreise": [
         {
           "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.995497
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.004503
+          "name": "Ostprignitz-Ruppin III / Havelland III",
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -2461,23 +1098,13 @@
       "wahlkreise": [
         {
           "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.527339
+          "name": "Ostprignitz-Ruppin III / Havelland III",
+          "overlap": 0.527008
         },
         {
           "nr": 5,
           "name": "Havelland I",
-          "overlap": 0.471963
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.000607
-        },
-        {
-          "nr": 17,
-          "name": "Brandenburg an der Havel II",
-          "overlap": 9.1e-05
+          "overlap": 0.472992
         }
       ],
       "primary": 4,
@@ -2487,18 +1114,8 @@
       "wahlkreise": [
         {
           "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.998031
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.001619
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.00035
+          "name": "Ostprignitz-Ruppin III / Havelland III",
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -2508,13 +1125,8 @@
       "wahlkreise": [
         {
           "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.996358
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.003642
+          "name": "Ostprignitz-Ruppin III / Havelland III",
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -2523,30 +1135,30 @@
     "14770": {
       "wahlkreise": [
         {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.5
-        },
-        {
           "nr": 17,
           "name": "Brandenburg an der Havel II",
-          "overlap": 0.5
+          "overlap": 0.988899
+        },
+        {
+          "nr": 16,
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 0.011101
         }
       ],
-      "primary": 16,
+      "primary": 17,
       "period_id": 158
     },
     "14772": {
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.500491
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 0.549987
         },
         {
           "nr": 17,
           "name": "Brandenburg an der Havel II",
-          "overlap": 0.499509
+          "overlap": 0.450013
         }
       ],
       "primary": 16,
@@ -2555,61 +1167,41 @@
     "14774": {
       "wahlkreise": [
         {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.500945
-        },
-        {
           "nr": 17,
           "name": "Brandenburg an der Havel II",
-          "overlap": 0.498804
+          "overlap": 0.627362
         },
         {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.000251
+          "nr": 16,
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 0.372638
         }
       ],
-      "primary": 16,
+      "primary": 17,
       "period_id": 158
     },
     "14776": {
       "wahlkreise": [
         {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.50117
-        },
-        {
           "nr": 17,
           "name": "Brandenburg an der Havel II",
-          "overlap": 0.49883
+          "overlap": 1.0
         }
       ],
-      "primary": 16,
+      "primary": 17,
       "period_id": 158
     },
     "14778": {
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.957465
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 0.955967
         },
         {
           "nr": 17,
           "name": "Brandenburg an der Havel II",
-          "overlap": 0.041514
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.000683
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.000337
+          "overlap": 0.044033
         }
       ],
       "primary": 16,
@@ -2619,18 +1211,8 @@
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.998414
-        },
-        {
-          "nr": 17,
-          "name": "Brandenburg an der Havel II",
-          "overlap": 0.001349
-        },
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.000237
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -2640,13 +1222,8 @@
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.99968
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.00032
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -2656,23 +1233,8 @@
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.998675
-        },
-        {
-          "nr": 17,
-          "name": "Brandenburg an der Havel II",
-          "overlap": 0.000837
-        },
-        {
-          "nr": 19,
-          "name": "Potsdam-Mittelmark III/ Potsdam III",
-          "overlap": 0.000297
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.000191
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -2682,23 +1244,8 @@
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.996539
-        },
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.001537
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.000983
-        },
-        {
-          "nr": 17,
-          "name": "Brandenburg an der Havel II",
-          "overlap": 0.000941
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -2709,12 +1256,7 @@
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.998247
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.001753
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -2724,13 +1266,13 @@
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.83515
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 0.831231
         },
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.16485
+          "overlap": 0.168769
         }
       ],
       "primary": 16,
@@ -2741,12 +1283,7 @@
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.999995
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 5e-06
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -2757,12 +1294,7 @@
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.999504
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.000496
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -2772,13 +1304,8 @@
       "wahlkreise": [
         {
           "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.997948
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.002052
+          "name": "Brandenburg an der Havel I / Potsdam-Mittelmark I",
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -2789,27 +1316,7 @@
         {
           "nr": 24,
           "name": "Teltow-Fläming II",
-          "overlap": 0.998767
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.000601
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.000356
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.000274
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 1e-06
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -2820,22 +1327,7 @@
         {
           "nr": 18,
           "name": "Potsdam-Mittelmark II",
-          "overlap": 0.997891
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.001263
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.000769
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 7.6e-05
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -2846,12 +1338,12 @@
         {
           "nr": 24,
           "name": "Teltow-Fläming II",
-          "overlap": 0.993958
+          "overlap": 0.983182
         },
         {
           "nr": 23,
           "name": "Teltow-Fläming I",
-          "overlap": 0.006042
+          "overlap": 0.016818
         }
       ],
       "primary": 24,
@@ -2862,22 +1354,7 @@
         {
           "nr": 23,
           "name": "Teltow-Fläming I",
-          "overlap": 0.99722
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.001915
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.000695
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.00017
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -2888,22 +1365,7 @@
         {
           "nr": 23,
           "name": "Teltow-Fläming I",
-          "overlap": 0.998954
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.000407
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.000394
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.000245
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -2914,17 +1376,7 @@
         {
           "nr": 23,
           "name": "Teltow-Fläming I",
-          "overlap": 0.997825
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.001135
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.00104
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -2935,17 +1387,7 @@
         {
           "nr": 23,
           "name": "Teltow-Fläming I",
-          "overlap": 0.996435
-        },
-        {
-          "nr": 20,
-          "name": "Potsdam-Mittelmark IV",
-          "overlap": 0.001897
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.001668
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -2978,22 +1420,7 @@
         {
           "nr": 35,
           "name": "Frankfurt (Oder)",
-          "overlap": 0.99873
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.000573
-        },
-        {
-          "nr": 29,
-          "name": "Oder-Spree II",
-          "overlap": 0.000534
-        },
-        {
-          "nr": 34,
-          "name": "Märkisch-Oderland IV",
-          "overlap": 0.000163
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -3004,22 +1431,17 @@
         {
           "nr": 35,
           "name": "Frankfurt (Oder)",
-          "overlap": 0.478222
+          "overlap": 0.478845
         },
         {
           "nr": 30,
           "name": "Oder-Spree III",
-          "overlap": 0.424635
+          "overlap": 0.425146
         },
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.095315
-        },
-        {
-          "nr": 29,
-          "name": "Oder-Spree II",
-          "overlap": 0.001828
+          "overlap": 0.096009
         }
       ],
       "primary": 35,
@@ -3030,12 +1452,7 @@
         {
           "nr": 29,
           "name": "Oder-Spree II",
-          "overlap": 0.999352
-        },
-        {
-          "nr": 35,
-          "name": "Frankfurt (Oder)",
-          "overlap": 0.000648
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -3046,22 +1463,7 @@
         {
           "nr": 29,
           "name": "Oder-Spree II",
-          "overlap": 0.997685
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.001942
-        },
-        {
-          "nr": 35,
-          "name": "Frankfurt (Oder)",
-          "overlap": 0.000319
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 5.4e-05
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -3072,12 +1474,7 @@
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.999719
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.000281
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -3088,12 +1485,12 @@
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.680686
+          "overlap": 0.681252
         },
         {
           "nr": 33,
           "name": "Märkisch-Oderland III",
-          "overlap": 0.319314
+          "overlap": 0.318748
         }
       ],
       "primary": 34,
@@ -3104,12 +1501,7 @@
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.998672
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.001328
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -3120,17 +1512,7 @@
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.998563
-        },
-        {
-          "nr": 35,
-          "name": "Frankfurt (Oder)",
-          "overlap": 0.000764
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.000673
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -3152,17 +1534,7 @@
         {
           "nr": 32,
           "name": "Märkisch-Oderland II",
-          "overlap": 0.993293
-        },
-        {
-          "nr": 34,
-          "name": "Märkisch-Oderland IV",
-          "overlap": 0.003863
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.002844
+          "overlap": 1.0
         }
       ],
       "primary": 32,
@@ -3173,32 +1545,17 @@
         {
           "nr": 33,
           "name": "Märkisch-Oderland III",
-          "overlap": 0.710982
+          "overlap": 0.709849
         },
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.240033
+          "overlap": 0.2409
         },
         {
           "nr": 32,
           "name": "Märkisch-Oderland II",
-          "overlap": 0.047916
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.000546
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.000406
-        },
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.000117
+          "overlap": 0.049251
         }
       ],
       "primary": 33,
@@ -3208,18 +1565,8 @@
       "wahlkreise": [
         {
           "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.995888
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.002067
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.002045
+          "name": "Märkisch-Oderland I / Oder-Spree IV",
+          "overlap": 1.0
         }
       ],
       "primary": 31,
@@ -3230,17 +1577,12 @@
         {
           "nr": 33,
           "name": "Märkisch-Oderland III",
-          "overlap": 0.587977
+          "overlap": 0.589424
         },
         {
           "nr": 32,
           "name": "Märkisch-Oderland II",
-          "overlap": 0.411425
-        },
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.000598
+          "overlap": 0.410576
         }
       ],
       "primary": 33,
@@ -3251,12 +1593,7 @@
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.997345
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.002655
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -3267,17 +1604,7 @@
         {
           "nr": 34,
           "name": "Märkisch-Oderland IV",
-          "overlap": 0.996828
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.002651
-        },
-        {
-          "nr": 32,
-          "name": "Märkisch-Oderland II",
-          "overlap": 0.000521
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -3288,17 +1615,7 @@
         {
           "nr": 32,
           "name": "Märkisch-Oderland II",
-          "overlap": 0.997516
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.002274
-        },
-        {
-          "nr": 34,
-          "name": "Märkisch-Oderland IV",
-          "overlap": 0.00021
+          "overlap": 1.0
         }
       ],
       "primary": 32,
@@ -3309,12 +1626,7 @@
         {
           "nr": 30,
           "name": "Oder-Spree III",
-          "overlap": 0.996724
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.003276
+          "overlap": 1.0
         }
       ],
       "primary": 30,
@@ -3325,27 +1637,12 @@
         {
           "nr": 30,
           "name": "Oder-Spree III",
-          "overlap": 0.892072
+          "overlap": 0.893427
         },
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.107
-        },
-        {
-          "nr": 34,
-          "name": "Märkisch-Oderland IV",
-          "overlap": 0.000747
-        },
-        {
-          "nr": 29,
-          "name": "Oder-Spree II",
-          "overlap": 0.000163
-        },
-        {
-          "nr": 35,
-          "name": "Frankfurt (Oder)",
-          "overlap": 1.8e-05
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 0.106573
         }
       ],
       "primary": 30,
@@ -3355,13 +1652,8 @@
       "wahlkreise": [
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.999442
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.000558
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 1.0
         }
       ],
       "primary": 27,
@@ -3371,18 +1663,8 @@
       "wahlkreise": [
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.995344
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.002639
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.002017
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 1.0
         }
       ],
       "primary": 27,
@@ -3393,27 +1675,17 @@
         {
           "nr": 30,
           "name": "Oder-Spree III",
-          "overlap": 0.792434
+          "overlap": 0.796671
         },
         {
           "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.112398
+          "name": "Märkisch-Oderland I / Oder-Spree IV",
+          "overlap": 0.1047
         },
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.094908
-        },
-        {
-          "nr": 34,
-          "name": "Märkisch-Oderland IV",
-          "overlap": 0.000184
-        },
-        {
-          "nr": 32,
-          "name": "Märkisch-Oderland II",
-          "overlap": 7.6e-05
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 0.098629
         }
       ],
       "primary": 30,
@@ -3424,22 +1696,7 @@
         {
           "nr": 32,
           "name": "Märkisch-Oderland II",
-          "overlap": 0.98891
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.005667
-        },
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.004681
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.000742
+          "overlap": 1.0
         }
       ],
       "primary": 32,
@@ -3449,18 +1706,8 @@
       "wahlkreise": [
         {
           "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.998197
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.001013
-        },
-        {
-          "nr": 32,
-          "name": "Märkisch-Oderland II",
-          "overlap": 0.00079
+          "name": "Märkisch-Oderland I / Oder-Spree IV",
+          "overlap": 1.0
         }
       ],
       "primary": 31,
@@ -3470,13 +1717,13 @@
       "wahlkreise": [
         {
           "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.996506
+          "name": "Märkisch-Oderland I / Oder-Spree IV",
+          "overlap": 0.989356
         },
         {
           "nr": 32,
           "name": "Märkisch-Oderland II",
-          "overlap": 0.003494
+          "overlap": 0.010644
         }
       ],
       "primary": 31,
@@ -3486,18 +1733,13 @@
       "wahlkreise": [
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.98102
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 0.980011
         },
         {
           "nr": 26,
           "name": "Dahme-Spreewald I",
-          "overlap": 0.018706
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.000274
+          "overlap": 0.019989
         }
       ],
       "primary": 27,
@@ -3507,13 +1749,8 @@
       "wahlkreise": [
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.998308
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.001692
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 1.0
         }
       ],
       "primary": 27,
@@ -3523,13 +1760,8 @@
       "wahlkreise": [
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.999164
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.000836
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 1.0
         }
       ],
       "primary": 27,
@@ -3551,12 +1783,12 @@
         {
           "nr": 26,
           "name": "Dahme-Spreewald I",
-          "overlap": 0.999053
+          "overlap": 0.989589
         },
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.000947
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 0.010411
         }
       ],
       "primary": 26,
@@ -3567,17 +1799,7 @@
         {
           "nr": 26,
           "name": "Dahme-Spreewald I",
-          "overlap": 0.995404
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.003691
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.000905
+          "overlap": 1.0
         }
       ],
       "primary": 26,
@@ -3588,12 +1810,7 @@
         {
           "nr": 26,
           "name": "Dahme-Spreewald I",
-          "overlap": 0.991248
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.008752
+          "overlap": 1.0
         }
       ],
       "primary": 26,
@@ -3604,12 +1821,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.999183
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.000817
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3620,12 +1832,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.998972
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.001028
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3636,22 +1843,7 @@
         {
           "nr": 26,
           "name": "Dahme-Spreewald I",
-          "overlap": 0.988619
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.006114
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.004078
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.001189
+          "overlap": 1.0
         }
       ],
       "primary": 26,
@@ -3662,17 +1854,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.997458
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.002306
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.000236
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3683,17 +1865,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.998759
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.001009
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.000232
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3704,12 +1876,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.999852
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.000148
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3720,22 +1887,7 @@
         {
           "nr": 25,
           "name": "Teltow-Fläming III",
-          "overlap": 0.99553
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.002321
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.002017
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.000132
+          "overlap": 1.0
         }
       ],
       "primary": 25,
@@ -3746,12 +1898,7 @@
         {
           "nr": 25,
           "name": "Teltow-Fläming III",
-          "overlap": 0.999108
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.000892
+          "overlap": 1.0
         }
       ],
       "primary": 25,
@@ -3762,17 +1909,7 @@
         {
           "nr": 25,
           "name": "Teltow-Fläming III",
-          "overlap": 0.995506
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.002643
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.001851
+          "overlap": 1.0
         }
       ],
       "primary": 25,
@@ -3783,12 +1920,7 @@
         {
           "nr": 25,
           "name": "Teltow-Fläming III",
-          "overlap": 0.996959
-        },
-        {
-          "nr": 26,
-          "name": "Dahme-Spreewald I",
-          "overlap": 0.003041
+          "overlap": 1.0
         }
       ],
       "primary": 25,
@@ -3799,22 +1931,7 @@
         {
           "nr": 25,
           "name": "Teltow-Fläming III",
-          "overlap": 0.997713
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.001307
-        },
-        {
-          "nr": 23,
-          "name": "Teltow-Fläming I",
-          "overlap": 0.000568
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.000412
+          "overlap": 1.0
         }
       ],
       "primary": 25,
@@ -3825,12 +1942,7 @@
         {
           "nr": 23,
           "name": "Teltow-Fläming I",
-          "overlap": 0.997446
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.002554
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -3841,27 +1953,17 @@
         {
           "nr": 30,
           "name": "Oder-Spree III",
-          "overlap": 0.435035
+          "overlap": 0.435257
         },
         {
           "nr": 29,
           "name": "Oder-Spree II",
-          "overlap": 0.36152
+          "overlap": 0.361913
         },
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.20239
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.001039
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 1.6e-05
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 0.20283
         }
       ],
       "primary": 30,
@@ -3871,18 +1973,8 @@
       "wahlkreise": [
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.996835
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.00299
-        },
-        {
-          "nr": 30,
-          "name": "Oder-Spree III",
-          "overlap": 0.000175
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 1.0
         }
       ],
       "primary": 27,
@@ -3892,13 +1984,13 @@
       "wahlkreise": [
         {
           "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.991577
+          "name": "Dahme-Spreewald II / Oder-Spree I",
+          "overlap": 0.989774
         },
         {
           "nr": 30,
           "name": "Oder-Spree III",
-          "overlap": 0.008423
+          "overlap": 0.010226
         }
       ],
       "primary": 27,
@@ -3909,17 +2001,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.997417
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 0.002009
-        },
-        {
-          "nr": 29,
-          "name": "Oder-Spree II",
-          "overlap": 0.000574
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3941,12 +2023,7 @@
         {
           "nr": 29,
           "name": "Oder-Spree II",
-          "overlap": 0.999437
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 0.000563
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -3957,12 +2034,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.99931
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.00069
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3973,17 +2045,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.998314
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.001454
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.000232
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3994,27 +2056,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.99907
-        },
-        {
-          "nr": 27,
-          "name": "Dahme-Spreewald II/ Oder-Spree I",
-          "overlap": 0.000381
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.000291
-        },
-        {
-          "nr": 29,
-          "name": "Oder-Spree II",
-          "overlap": 0.000185
-        },
-        {
-          "nr": 41,
-          "name": "Spree-Neiße I",
-          "overlap": 7.3e-05
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -4025,22 +2067,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.998551
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.000528
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.000503
-        },
-        {
-          "nr": 40,
-          "name": "Oberspreewald-Lausitz III/ Spree-Neiße III",
-          "overlap": 0.000418
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -4051,22 +2078,7 @@
         {
           "nr": 24,
           "name": "Teltow-Fläming II",
-          "overlap": 0.99675
-        },
-        {
-          "nr": 28,
-          "name": "Dahme-Spreewald III",
-          "overlap": 0.002183
-        },
-        {
-          "nr": 36,
-          "name": "Elbe-Elster I",
-          "overlap": 0.00084
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.000227
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -4077,17 +2089,7 @@
         {
           "nr": 28,
           "name": "Dahme-Spreewald III",
-          "overlap": 0.998663
-        },
-        {
-          "nr": 24,
-          "name": "Teltow-Fläming II",
-          "overlap": 0.000678
-        },
-        {
-          "nr": 25,
-          "name": "Teltow-Fläming III",
-          "overlap": 0.000659
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -4098,12 +2100,12 @@
         {
           "nr": 13,
           "name": "Barnim I",
-          "overlap": 0.994496
+          "overlap": 0.985719
         },
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.005504
+          "overlap": 0.014281
         }
       ],
       "primary": 13,
@@ -4125,22 +2127,7 @@
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.993501
-        },
-        {
-          "nr": 13,
-          "name": "Barnim I",
-          "overlap": 0.004477
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.001062
-        },
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.00096
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -4151,22 +2138,7 @@
         {
           "nr": 13,
           "name": "Barnim I",
-          "overlap": 0.996099
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.001487
-        },
-        {
-          "nr": 9,
-          "name": "Oberhavel III",
-          "overlap": 0.001238
-        },
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.001176
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -4177,22 +2149,7 @@
         {
           "nr": 13,
           "name": "Barnim I",
-          "overlap": 0.995374
-        },
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.002972
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.001587
-        },
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 6.7e-05
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -4203,27 +2160,7 @@
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.993636
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.00294
-        },
-        {
-          "nr": 13,
-          "name": "Barnim I",
-          "overlap": 0.002139
-        },
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.001243
-        },
-        {
-          "nr": 12,
-          "name": "Uckermark II",
-          "overlap": 4.1e-05
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -4234,17 +2171,7 @@
         {
           "nr": 33,
           "name": "Märkisch-Oderland III",
-          "overlap": 0.997543
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.002315
-        },
-        {
-          "nr": 34,
-          "name": "Märkisch-Oderland IV",
-          "overlap": 0.000142
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -4255,12 +2182,7 @@
         {
           "nr": 33,
           "name": "Märkisch-Oderland III",
-          "overlap": 0.999753
-        },
-        {
-          "nr": 34,
-          "name": "Märkisch-Oderland IV",
-          "overlap": 0.000247
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -4271,22 +2193,12 @@
         {
           "nr": 11,
           "name": "Uckermark I",
-          "overlap": 0.958407
+          "overlap": 0.960501
         },
         {
           "nr": 12,
           "name": "Uckermark II",
-          "overlap": 0.038823
-        },
-        {
-          "nr": 13,
-          "name": "Barnim I",
-          "overlap": 0.002225
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.000545
+          "overlap": 0.039499
         }
       ],
       "primary": 11,
@@ -4297,17 +2209,7 @@
         {
           "nr": 12,
           "name": "Uckermark II",
-          "overlap": 0.997506
-        },
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.002494
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.0
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -4318,12 +2220,12 @@
         {
           "nr": 12,
           "name": "Uckermark II",
-          "overlap": 0.809017
+          "overlap": 0.808671
         },
         {
           "nr": 11,
           "name": "Uckermark I",
-          "overlap": 0.190983
+          "overlap": 0.191329
         }
       ],
       "primary": 12,
@@ -4345,12 +2247,12 @@
         {
           "nr": 14,
           "name": "Barnim II",
-          "overlap": 0.878946
+          "overlap": 0.875376
         },
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.121054
+          "overlap": 0.124624
         }
       ],
       "primary": 14,
@@ -4361,12 +2263,7 @@
         {
           "nr": 14,
           "name": "Barnim II",
-          "overlap": 0.998698
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.001302
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -4377,27 +2274,7 @@
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.995626
-        },
-        {
-          "nr": 13,
-          "name": "Barnim I",
-          "overlap": 0.00142
-        },
-        {
-          "nr": 8,
-          "name": "Oberhavel II",
-          "overlap": 0.001026
-        },
-        {
-          "nr": 14,
-          "name": "Barnim II",
-          "overlap": 0.000996
-        },
-        {
-          "nr": 9,
-          "name": "Oberhavel III",
-          "overlap": 0.000933
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -4408,22 +2285,7 @@
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.994883
-        },
-        {
-          "nr": 33,
-          "name": "Märkisch-Oderland III",
-          "overlap": 0.002859
-        },
-        {
-          "nr": 14,
-          "name": "Barnim II",
-          "overlap": 0.001441
-        },
-        {
-          "nr": 31,
-          "name": "Märkisch-Oderland I/ Oder-Spree IV",
-          "overlap": 0.000817
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -4434,17 +2296,7 @@
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.995955
-        },
-        {
-          "nr": 13,
-          "name": "Barnim I",
-          "overlap": 0.003101
-        },
-        {
-          "nr": 14,
-          "name": "Barnim II",
-          "overlap": 0.000944
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -4455,22 +2307,12 @@
         {
           "nr": 9,
           "name": "Oberhavel III",
-          "overlap": 0.905318
+          "overlap": 0.907532
         },
         {
           "nr": 8,
           "name": "Oberhavel II",
-          "overlap": 0.092088
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.001578
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.001016
+          "overlap": 0.092468
         }
       ],
       "primary": 9,
@@ -4481,12 +2323,7 @@
         {
           "nr": 8,
           "name": "Oberhavel II",
-          "overlap": 0.997215
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.002785
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -4497,12 +2334,7 @@
         {
           "nr": 8,
           "name": "Oberhavel II",
-          "overlap": 0.987594
-        },
-        {
-          "nr": 9,
-          "name": "Oberhavel III",
-          "overlap": 0.012406
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -4535,17 +2367,12 @@
         {
           "nr": 8,
           "name": "Oberhavel II",
-          "overlap": 0.953549
+          "overlap": 0.989694
         },
         {
           "nr": 9,
           "name": "Oberhavel III",
-          "overlap": 0.032284
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.014167
+          "overlap": 0.010306
         }
       ],
       "primary": 8,
@@ -4556,27 +2383,12 @@
         {
           "nr": 9,
           "name": "Oberhavel III",
-          "overlap": 0.977424
+          "overlap": 0.981851
         },
         {
           "nr": 13,
           "name": "Barnim I",
-          "overlap": 0.016257
-        },
-        {
-          "nr": 15,
-          "name": "Barnim III",
-          "overlap": 0.005771
-        },
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.000335
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.000213
+          "overlap": 0.018149
         }
       ],
       "primary": 9,
@@ -4598,12 +2410,12 @@
         {
           "nr": 8,
           "name": "Oberhavel II",
-          "overlap": 0.992278
+          "overlap": 0.986704
         },
         {
           "nr": 15,
           "name": "Barnim III",
-          "overlap": 0.007722
+          "overlap": 0.013296
         }
       ],
       "primary": 8,
@@ -4614,27 +2426,7 @@
         {
           "nr": 7,
           "name": "Oberhavel I",
-          "overlap": 0.993007
-        },
-        {
-          "nr": 8,
-          "name": "Oberhavel II",
-          "overlap": 0.002867
-        },
-        {
-          "nr": 9,
-          "name": "Oberhavel III",
-          "overlap": 0.002504
-        },
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 0.001617
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 5e-06
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -4645,17 +2437,7 @@
         {
           "nr": 7,
           "name": "Oberhavel I",
-          "overlap": 0.975336
-        },
-        {
-          "nr": 8,
-          "name": "Oberhavel II",
-          "overlap": 0.024415
-        },
-        {
-          "nr": 6,
-          "name": "Havelland II",
-          "overlap": 0.000249
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -4666,22 +2448,7 @@
         {
           "nr": 7,
           "name": "Oberhavel I",
-          "overlap": 0.997543
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.001066
-        },
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.000957
-        },
-        {
-          "nr": 9,
-          "name": "Oberhavel III",
-          "overlap": 0.000434
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -4692,12 +2459,12 @@
         {
           "nr": 9,
           "name": "Oberhavel III",
-          "overlap": 0.966166
+          "overlap": 0.979102
         },
         {
           "nr": 7,
           "name": "Oberhavel I",
-          "overlap": 0.033834
+          "overlap": 0.020898
         }
       ],
       "primary": 9,
@@ -4707,23 +2474,13 @@
       "wahlkreise": [
         {
           "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.566885
+          "name": "Uckermark III / Oberhavel IV",
+          "overlap": 0.567792
         },
         {
           "nr": 7,
           "name": "Oberhavel I",
-          "overlap": 0.431647
-        },
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.000755
-        },
-        {
-          "nr": 9,
-          "name": "Oberhavel III",
-          "overlap": 0.000713
+          "overlap": 0.432208
         }
       ],
       "primary": 10,
@@ -4733,23 +2490,8 @@
       "wahlkreise": [
         {
           "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.998754
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.000819
-        },
-        {
-          "nr": 13,
-          "name": "Barnim I",
-          "overlap": 0.000268
-        },
-        {
-          "nr": 9,
-          "name": "Oberhavel III",
-          "overlap": 0.000159
+          "name": "Uckermark III / Oberhavel IV",
+          "overlap": 1.0
         }
       ],
       "primary": 10,
@@ -4759,7 +2501,7 @@
       "wahlkreise": [
         {
           "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
+          "name": "Uckermark III / Oberhavel IV",
           "overlap": 1.0
         }
       ],
@@ -4782,27 +2524,7 @@
         {
           "nr": 3,
           "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.990513
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.004854
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.003536
-        },
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.000559
-        },
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.000538
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -4824,12 +2546,7 @@
         {
           "nr": 3,
           "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.998543
-        },
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.001457
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -4840,22 +2557,7 @@
         {
           "nr": 3,
           "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.998802
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.000634
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.000552
-        },
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 1.2e-05
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -4866,17 +2568,7 @@
         {
           "nr": 3,
           "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.998477
-        },
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.000768
-        },
-        {
-          "nr": 7,
-          "name": "Oberhavel I",
-          "overlap": 0.000755
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -4887,12 +2579,7 @@
         {
           "nr": 3,
           "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.998617
-        },
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.001383
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -4902,28 +2589,13 @@
       "wahlkreise": [
         {
           "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.854346
+          "name": "Ostprignitz-Ruppin III / Havelland III",
+          "overlap": 0.8545
         },
         {
           "nr": 3,
           "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.144995
-        },
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.000364
-        },
-        {
-          "nr": 5,
-          "name": "Havelland I",
-          "overlap": 0.000284
-        },
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.1e-05
+          "overlap": 0.1455
         }
       ],
       "primary": 4,
@@ -4934,22 +2606,17 @@
         {
           "nr": 1,
           "name": "Prignitz I",
-          "overlap": 0.518554
+          "overlap": 0.518183
         },
         {
           "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.383827
+          "name": "Prignitz II / Ostprignitz-Ruppin II",
+          "overlap": 0.384448
         },
         {
           "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.097577
-        },
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 4.2e-05
+          "name": "Ostprignitz-Ruppin III / Havelland III",
+          "overlap": 0.097369
         }
       ],
       "primary": 1,
@@ -4959,13 +2626,8 @@
       "wahlkreise": [
         {
           "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.998323
-        },
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.001677
+          "name": "Ostprignitz-Ruppin III / Havelland III",
+          "overlap": 1.0
         }
       ],
       "primary": 4,
@@ -4975,18 +2637,8 @@
       "wahlkreise": [
         {
           "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.999014
-        },
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.0008
-        },
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 0.000185
+          "name": "Prignitz II / Ostprignitz-Ruppin II",
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -4996,13 +2648,8 @@
       "wahlkreise": [
         {
           "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.999446
-        },
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 0.000554
+          "name": "Prignitz II / Ostprignitz-Ruppin II",
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -5012,7 +2659,7 @@
       "wahlkreise": [
         {
           "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
+          "name": "Prignitz II / Ostprignitz-Ruppin II",
           "overlap": 1.0
         }
       ],
@@ -5023,110 +2670,24 @@
       "wahlkreise": [
         {
           "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
+          "name": "Prignitz II / Ostprignitz-Ruppin II",
           "overlap": 1.0
         }
       ],
       "primary": 2,
-      "period_id": 158
-    },
-    "17209": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 158
-    },
-    "17237": {
-      "wahlkreise": [
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 10,
-      "period_id": 158
-    },
-    "17248": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 158
-    },
-    "17252": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.903827
-        },
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.096173
-        }
-      ],
-      "primary": 3,
-      "period_id": 158
-    },
-    "17255": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Ostprignitz-Ruppin I",
-          "overlap": 0.523565
-        },
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.476435
-        }
-      ],
-      "primary": 3,
-      "period_id": 158
-    },
-    "17258": {
-      "wahlkreise": [
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.900209
-        },
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.099791
-        }
-      ],
-      "primary": 10,
       "period_id": 158
     },
     "17268": {
       "wahlkreise": [
         {
           "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.669505
+          "name": "Uckermark III / Oberhavel IV",
+          "overlap": 0.669068
         },
         {
           "nr": 11,
           "name": "Uckermark I",
-          "overlap": 0.32998
-        },
-        {
-          "nr": 13,
-          "name": "Barnim I",
-          "overlap": 0.000515
+          "overlap": 0.330932
         }
       ],
       "primary": 10,
@@ -5136,7 +2697,7 @@
       "wahlkreise": [
         {
           "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
+          "name": "Uckermark III / Oberhavel IV",
           "overlap": 1.0
         }
       ],
@@ -5144,49 +2705,6 @@
       "period_id": 158
     },
     "17291": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.999425
-        },
-        {
-          "nr": 10,
-          "name": "Uckermark III/ Oberhavel IV",
-          "overlap": 0.000564
-        },
-        {
-          "nr": 12,
-          "name": "Uckermark II",
-          "overlap": 1.1e-05
-        }
-      ],
-      "primary": 11,
-      "period_id": 158
-    },
-    "17309": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 11,
-      "period_id": 158
-    },
-    "17321": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 11,
-      "period_id": 158
-    },
-    "17322": {
       "wahlkreise": [
         {
           "nr": 11,
@@ -5208,49 +2726,6 @@
       "primary": 11,
       "period_id": 158
     },
-    "17328": {
-      "wahlkreise": [
-        {
-          "nr": 12,
-          "name": "Uckermark II",
-          "overlap": 0.992021
-        },
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.007979
-        }
-      ],
-      "primary": 12,
-      "period_id": 158
-    },
-    "17329": {
-      "wahlkreise": [
-        {
-          "nr": 12,
-          "name": "Uckermark II",
-          "overlap": 0.993925
-        },
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 0.006075
-        }
-      ],
-      "primary": 12,
-      "period_id": 158
-    },
-    "17335": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 11,
-      "period_id": 158
-    },
     "17337": {
       "wahlkreise": [
         {
@@ -5260,50 +2735,6 @@
         }
       ],
       "primary": 11,
-      "period_id": 158
-    },
-    "17348": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Uckermark I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 11,
-      "period_id": 158
-    },
-    "19294": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "19300": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "19303": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
       "period_id": 158
     },
     "19309": {
@@ -5344,17 +2775,7 @@
         {
           "nr": 1,
           "name": "Prignitz I",
-          "overlap": 0.9989
-        },
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.00096
-        },
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.00014
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -5365,236 +2786,18 @@
         {
           "nr": 1,
           "name": "Prignitz I",
-          "overlap": 0.610637
+          "overlap": 0.610334
         },
         {
           "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.389363
+          "name": "Prignitz II / Ostprignitz-Ruppin II",
+          "overlap": 0.389666
         }
       ],
       "primary": 1,
       "period_id": 158
     },
     "19357": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 0.99925
-        },
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 0.00075
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "19372": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 158
-    },
-    "19376": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 158
-    },
-    "19386": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 158
-    },
-    "19395": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Prignitz II/ Ostprignitz-Ruppin II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 158
-    },
-    "29471": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "29475": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "29478": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "29484": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "29493": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "29494": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 158
-    },
-    "39264": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 158
-    },
-    "39279": {
-      "wahlkreise": [
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.995434
-        },
-        {
-          "nr": 18,
-          "name": "Potsdam-Mittelmark II",
-          "overlap": 0.004566
-        }
-      ],
-      "primary": 16,
-      "period_id": 158
-    },
-    "39291": {
-      "wahlkreise": [
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 16,
-      "period_id": 158
-    },
-    "39307": {
-      "wahlkreise": [
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 16,
-      "period_id": 158
-    },
-    "39319": {
-      "wahlkreise": [
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.746667
-        },
-        {
-          "nr": 16,
-          "name": "Brandenburg an der Havel I/ Potsdam-Mittelmark I",
-          "overlap": 0.253333
-        }
-      ],
-      "primary": 4,
-      "period_id": 158
-    },
-    "39524": {
-      "wahlkreise": [
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 4,
-      "period_id": 158
-    },
-    "39539": {
-      "wahlkreise": [
-        {
-          "nr": 4,
-          "name": "Ostprignitz-Ruppin III/ Havelland III",
-          "overlap": 0.695141
-        },
-        {
-          "nr": 1,
-          "name": "Prignitz I",
-          "overlap": 0.304859
-        }
-      ],
-      "primary": 4,
-      "period_id": 158
-    },
-    "39615": {
       "wahlkreise": [
         {
           "nr": 1,

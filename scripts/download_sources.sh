@@ -7,8 +7,10 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 RAW_DIR="$SCRIPT_DIR/../raw"
-REPO_BASE="https://github.com/maximilionai/OpenWahlkreisMap/releases/download"
+REPO_BASE="https://github.com/maximilion-ai/OpenWahlkreisMap/releases/download"
 DATA_TAG="v0.1.0-data"
+
+PLZ_TAG="2026.02"
 
 # Expected SHA256 checksums
 CHECKSUM_PLZ="99bdd1d5b648b3cf24c73a11fac0fabe47ceb5d45f24457fe4384a82b09d56d2"
@@ -55,16 +57,16 @@ download_file() {
 
 mkdir -p "$RAW_DIR/bundestag" "$RAW_DIR/plz"
 
-echo "=== 1/3: PLZ boundary polygons (yetzt/postleitzahlen) ==="
+echo "=== 1/2: PLZ boundary polygons (yetzt/postleitzahlen) ==="
 PLZ_BR="$RAW_DIR/plz/postleitzahlen.geojson.br"
 PLZ_JSON="$RAW_DIR/plz/plz-5stellig.geojson"
 
 if [ -f "$PLZ_JSON" ]; then
   echo "  → plz-5stellig.geojson already exists, skipping"
 else
-  # Download brotli-compressed GeoJSON from latest GitHub release
+  # Pinned release: the checksum below belongs to this tag, not to "latest".
   download_file \
-    "https://github.com/yetzt/postleitzahlen/releases/latest/download/postleitzahlen.geojson.br" \
+    "https://github.com/yetzt/postleitzahlen/releases/download/$PLZ_TAG/postleitzahlen.geojson.br" \
     "$PLZ_BR"
   echo "  → Decompressing (brotli)..."
   if command -v brotli &>/dev/null; then
@@ -78,7 +80,7 @@ fi
 verify_checksum "$PLZ_JSON" "$CHECKSUM_PLZ"
 
 echo ""
-echo "=== 2/3: Wahlkreis boundary shapefiles (Bundeswahlleiterin, mirrored) ==="
+echo "=== 2/2: Wahlkreis boundary shapefiles (Bundeswahlleiterin, mirrored) ==="
 WK_ZIP="$RAW_DIR/bundestag/btw25_geometrie_wahlkreise_vg250_shp.zip"
 WK_SHP="$RAW_DIR/bundestag"
 
@@ -94,12 +96,6 @@ else
   rm -f "$WK_ZIP"
   echo "  ✓ Decompressed shapefiles to raw/bundestag/"
 fi
-
-echo ""
-echo "=== 3/3: PLZ centroid coordinates (WZB, supplementary) ==="
-download_file \
-  "https://raw.githubusercontent.com/WZBSocialScienceCenter/plz_geocoord/master/plz_geocoord.csv" \
-  "$RAW_DIR/plz/plz_geocoord.csv"
 
 echo ""
 echo "=== Download complete ==="
