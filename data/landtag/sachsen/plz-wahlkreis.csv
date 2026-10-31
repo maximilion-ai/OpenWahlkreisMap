@@ -1,242 +1,58 @@
 plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
-01067,40,Dresden 1,0.125,True
-01067,41,Dresden 2,0.125,False
-01067,42,Dresden 3,0.125,False
-01067,43,Dresden 4,0.125,False
-01067,44,Dresden 5,0.125,False
-01067,45,Dresden 6,0.125,False
-01067,46,Dresden 7,0.125,False
-01067,47,Dresden 8,0.125,False
-01069,40,Dresden 1,0.125,True
-01069,41,Dresden 2,0.125,False
-01069,42,Dresden 3,0.125,False
-01069,43,Dresden 4,0.125,False
-01069,44,Dresden 5,0.125,False
-01069,45,Dresden 6,0.125,False
-01069,46,Dresden 7,0.125,False
-01069,47,Dresden 8,0.125,False
-01097,40,Dresden 1,0.125,True
-01097,41,Dresden 2,0.125,False
-01097,42,Dresden 3,0.125,False
-01097,43,Dresden 4,0.125,False
-01097,44,Dresden 5,0.125,False
-01097,45,Dresden 6,0.125,False
-01097,46,Dresden 7,0.125,False
-01097,47,Dresden 8,0.125,False
-01099,40,Dresden 1,0.125,True
-01099,41,Dresden 2,0.125,False
-01099,42,Dresden 3,0.125,False
-01099,43,Dresden 4,0.125,False
-01099,44,Dresden 5,0.125,False
-01099,45,Dresden 6,0.125,False
-01099,46,Dresden 7,0.125,False
-01099,47,Dresden 8,0.125,False
-01108,37,Meißen 2,0.014362,False
-01108,40,Dresden 1,0.123205,True
-01108,41,Dresden 2,0.123205,False
-01108,42,Dresden 3,0.123205,False
-01108,43,Dresden 4,0.123205,False
-01108,44,Dresden 5,0.123205,False
-01108,45,Dresden 6,0.123205,False
-01108,46,Dresden 7,0.123205,False
-01108,47,Dresden 8,0.123205,False
-01109,40,Dresden 1,0.125,True
-01109,41,Dresden 2,0.125,False
-01109,42,Dresden 3,0.125,False
-01109,43,Dresden 4,0.125,False
-01109,44,Dresden 5,0.125,False
-01109,45,Dresden 6,0.125,False
-01109,46,Dresden 7,0.125,False
-01109,47,Dresden 8,0.125,False
-01127,40,Dresden 1,0.125,True
-01127,41,Dresden 2,0.125,False
-01127,42,Dresden 3,0.125,False
-01127,43,Dresden 4,0.125,False
-01127,44,Dresden 5,0.125,False
-01127,45,Dresden 6,0.125,False
-01127,46,Dresden 7,0.125,False
-01127,47,Dresden 8,0.125,False
-01129,40,Dresden 1,0.125,True
-01129,41,Dresden 2,0.125,False
-01129,42,Dresden 3,0.125,False
-01129,43,Dresden 4,0.125,False
-01129,44,Dresden 5,0.125,False
-01129,45,Dresden 6,0.125,False
-01129,46,Dresden 7,0.125,False
-01129,47,Dresden 8,0.125,False
-01139,40,Dresden 1,0.125,True
-01139,41,Dresden 2,0.125,False
-01139,42,Dresden 3,0.125,False
-01139,43,Dresden 4,0.125,False
-01139,44,Dresden 5,0.125,False
-01139,45,Dresden 6,0.125,False
-01139,46,Dresden 7,0.125,False
-01139,47,Dresden 8,0.125,False
-01156,40,Dresden 1,0.125,True
-01156,41,Dresden 2,0.125,False
-01156,42,Dresden 3,0.125,False
-01156,43,Dresden 4,0.125,False
-01156,44,Dresden 5,0.125,False
-01156,45,Dresden 6,0.125,False
-01156,46,Dresden 7,0.125,False
-01156,47,Dresden 8,0.125,False
-01157,40,Dresden 1,0.125,True
-01157,41,Dresden 2,0.125,False
-01157,42,Dresden 3,0.125,False
-01157,43,Dresden 4,0.125,False
-01157,44,Dresden 5,0.125,False
-01157,45,Dresden 6,0.125,False
-01157,46,Dresden 7,0.125,False
-01157,47,Dresden 8,0.125,False
-01159,40,Dresden 1,0.125,True
-01159,41,Dresden 2,0.125,False
-01159,42,Dresden 3,0.125,False
-01159,43,Dresden 4,0.125,False
-01159,44,Dresden 5,0.125,False
-01159,45,Dresden 6,0.125,False
-01159,46,Dresden 7,0.125,False
-01159,47,Dresden 8,0.125,False
-01169,40,Dresden 1,0.125,True
-01169,41,Dresden 2,0.125,False
-01169,42,Dresden 3,0.125,False
-01169,43,Dresden 4,0.125,False
-01169,44,Dresden 5,0.125,False
-01169,45,Dresden 6,0.125,False
-01169,46,Dresden 7,0.125,False
-01169,47,Dresden 8,0.125,False
-01187,40,Dresden 1,0.125,True
-01187,41,Dresden 2,0.125,False
-01187,42,Dresden 3,0.125,False
-01187,43,Dresden 4,0.125,False
-01187,44,Dresden 5,0.125,False
-01187,45,Dresden 6,0.125,False
-01187,46,Dresden 7,0.125,False
-01187,47,Dresden 8,0.125,False
-01189,40,Dresden 1,0.125,True
-01189,41,Dresden 2,0.125,False
-01189,42,Dresden 3,0.125,False
-01189,43,Dresden 4,0.125,False
-01189,44,Dresden 5,0.125,False
-01189,45,Dresden 6,0.125,False
-01189,46,Dresden 7,0.125,False
-01189,47,Dresden 8,0.125,False
-01217,40,Dresden 1,0.12124,True
-01217,41,Dresden 2,0.12124,False
-01217,42,Dresden 3,0.12124,False
-01217,43,Dresden 4,0.12124,False
-01217,44,Dresden 5,0.12124,False
-01217,45,Dresden 6,0.12124,False
-01217,46,Dresden 7,0.12124,False
-01217,47,Dresden 8,0.12124,False
-01217,49,Sächsische Schweiz-Osterzgebirge 2,0.030083,False
-01219,40,Dresden 1,0.125,True
-01219,41,Dresden 2,0.125,False
-01219,42,Dresden 3,0.125,False
-01219,43,Dresden 4,0.125,False
-01219,44,Dresden 5,0.125,False
-01219,45,Dresden 6,0.125,False
-01219,46,Dresden 7,0.125,False
-01219,47,Dresden 8,0.125,False
-01237,40,Dresden 1,0.125,True
-01237,41,Dresden 2,0.125,False
-01237,42,Dresden 3,0.125,False
-01237,43,Dresden 4,0.125,False
-01237,44,Dresden 5,0.125,False
-01237,45,Dresden 6,0.125,False
-01237,46,Dresden 7,0.125,False
-01237,47,Dresden 8,0.125,False
-01239,40,Dresden 1,0.122291,True
-01239,41,Dresden 2,0.122291,False
-01239,42,Dresden 3,0.122291,False
-01239,43,Dresden 4,0.122291,False
-01239,44,Dresden 5,0.122291,False
-01239,45,Dresden 6,0.122291,False
-01239,46,Dresden 7,0.122291,False
-01239,47,Dresden 8,0.122291,False
-01239,49,Sächsische Schweiz-Osterzgebirge 2,0.021671,False
-01257,40,Dresden 1,0.125,True
-01257,41,Dresden 2,0.125,False
-01257,42,Dresden 3,0.125,False
-01257,43,Dresden 4,0.125,False
-01257,44,Dresden 5,0.125,False
-01257,45,Dresden 6,0.125,False
-01257,46,Dresden 7,0.125,False
-01257,47,Dresden 8,0.125,False
-01259,40,Dresden 1,0.125,True
-01259,41,Dresden 2,0.125,False
-01259,42,Dresden 3,0.125,False
-01259,43,Dresden 4,0.125,False
-01259,44,Dresden 5,0.125,False
-01259,45,Dresden 6,0.125,False
-01259,46,Dresden 7,0.125,False
-01259,47,Dresden 8,0.125,False
-01277,40,Dresden 1,0.125,True
-01277,41,Dresden 2,0.125,False
-01277,42,Dresden 3,0.125,False
-01277,43,Dresden 4,0.125,False
-01277,44,Dresden 5,0.125,False
-01277,45,Dresden 6,0.125,False
-01277,46,Dresden 7,0.125,False
-01277,47,Dresden 8,0.125,False
-01279,40,Dresden 1,0.125,True
-01279,41,Dresden 2,0.125,False
-01279,42,Dresden 3,0.125,False
-01279,43,Dresden 4,0.125,False
-01279,44,Dresden 5,0.125,False
-01279,45,Dresden 6,0.125,False
-01279,46,Dresden 7,0.125,False
-01279,47,Dresden 8,0.125,False
-01307,40,Dresden 1,0.125,True
-01307,41,Dresden 2,0.125,False
-01307,42,Dresden 3,0.125,False
-01307,43,Dresden 4,0.125,False
-01307,44,Dresden 5,0.125,False
-01307,45,Dresden 6,0.125,False
-01307,46,Dresden 7,0.125,False
-01307,47,Dresden 8,0.125,False
-01309,40,Dresden 1,0.125,True
-01309,41,Dresden 2,0.125,False
-01309,42,Dresden 3,0.125,False
-01309,43,Dresden 4,0.125,False
-01309,44,Dresden 5,0.125,False
-01309,45,Dresden 6,0.125,False
-01309,46,Dresden 7,0.125,False
-01309,47,Dresden 8,0.125,False
-01324,40,Dresden 1,0.125,True
-01324,41,Dresden 2,0.125,False
-01324,42,Dresden 3,0.125,False
-01324,43,Dresden 4,0.125,False
-01324,44,Dresden 5,0.125,False
-01324,45,Dresden 6,0.125,False
-01324,46,Dresden 7,0.125,False
-01324,47,Dresden 8,0.125,False
-01326,40,Dresden 1,0.125,True
-01326,41,Dresden 2,0.125,False
-01326,42,Dresden 3,0.125,False
-01326,43,Dresden 4,0.125,False
-01326,44,Dresden 5,0.125,False
-01326,45,Dresden 6,0.125,False
-01326,46,Dresden 7,0.125,False
-01326,47,Dresden 8,0.125,False
-01328,40,Dresden 1,0.125,True
-01328,41,Dresden 2,0.125,False
-01328,42,Dresden 3,0.125,False
-01328,43,Dresden 4,0.125,False
-01328,44,Dresden 5,0.125,False
-01328,45,Dresden 6,0.125,False
-01328,46,Dresden 7,0.125,False
-01328,47,Dresden 8,0.125,False
+01067,45,Dresden 6,1.0,True
+01069,45,Dresden 6,0.500662,True
+01069,47,Dresden 8,0.499338,False
+01097,41,Dresden 2,0.944088,True
+01097,45,Dresden 6,0.055912,False
+01099,40,Dresden 1,0.802599,True
+01099,41,Dresden 2,0.197401,False
+01108,40,Dresden 1,1.0,True
+01109,40,Dresden 1,1.0,True
+01127,40,Dresden 1,0.089099,False
+01127,41,Dresden 2,0.206907,False
+01127,45,Dresden 6,0.703994,True
+01129,40,Dresden 1,0.739505,True
+01129,45,Dresden 6,0.260495,False
+01139,40,Dresden 1,1.0,True
+01156,46,Dresden 7,1.0,True
+01157,45,Dresden 6,0.013414,False
+01157,46,Dresden 7,0.986586,True
+01159,45,Dresden 6,0.283384,False
+01159,46,Dresden 7,0.343261,False
+01159,47,Dresden 8,0.373355,True
+01169,46,Dresden 7,1.0,True
+01187,46,Dresden 7,0.428813,False
+01187,47,Dresden 8,0.571187,True
+01189,47,Dresden 8,1.0,True
+01217,43,Dresden 4,0.103418,False
+01217,45,Dresden 6,0.029524,False
+01217,47,Dresden 8,0.867058,True
+01219,43,Dresden 4,0.360878,False
+01219,44,Dresden 5,0.024052,False
+01219,45,Dresden 6,0.615071,True
+01237,42,Dresden 3,0.043737,False
+01237,43,Dresden 4,0.956263,True
+01239,43,Dresden 4,1.0,True
+01257,42,Dresden 3,0.368425,False
+01257,43,Dresden 4,0.631575,True
+01259,42,Dresden 3,0.691383,True
+01259,43,Dresden 4,0.308617,False
+01277,43,Dresden 4,0.257336,False
+01277,44,Dresden 5,0.716389,True
+01277,45,Dresden 6,0.026275,False
+01279,42,Dresden 3,0.5424,True
+01279,43,Dresden 4,0.4576,False
+01307,41,Dresden 2,0.934976,True
+01307,44,Dresden 5,0.043199,False
+01307,45,Dresden 6,0.021825,False
+01309,44,Dresden 5,1.0,True
+01324,42,Dresden 3,1.0,True
+01326,42,Dresden 3,1.0,True
+01328,42,Dresden 3,1.0,True
 01445,39,Meißen 4,1.0,True
 01454,54,Bautzen 3/Budyšin 3,1.0,True
 01458,54,Bautzen 3/Budyšin 3,1.0,True
-01465,40,Dresden 1,0.125,True
-01465,41,Dresden 2,0.125,False
-01465,42,Dresden 3,0.125,False
-01465,43,Dresden 4,0.125,False
-01465,44,Dresden 5,0.125,False
-01465,45,Dresden 6,0.125,False
-01465,46,Dresden 7,0.125,False
-01465,47,Dresden 8,0.125,False
+01465,40,Dresden 1,1.0,True
 01468,39,Meißen 4,1.0,True
 01471,37,Meißen 2,1.0,True
 01477,53,Bautzen 2/Budyšin 2,1.0,True
@@ -249,24 +65,21 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 01609,37,Meißen 2,1.0,True
 01612,37,Meißen 2,1.0,True
 01616,36,Meißen 1,1.0,True
-01619,36,Meißen 1,0.985505,True
-01619,37,Meißen 2,0.014495,False
+01619,36,Meißen 1,1.0,True
 01623,36,Meißen 1,1.0,True
 01640,39,Meißen 4,1.0,True
 01662,38,Meißen 3,1.0,True
-01665,36,Meißen 1,0.45389,False
-01665,38,Meißen 3,0.54611,True
+01665,36,Meißen 1,0.456062,False
+01665,38,Meißen 3,0.543938,True
 01683,38,Meißen 3,1.0,True
 01689,38,Meißen 3,1.0,True
 01705,48,Sächsische Schweiz-Osterzgebirge 1,1.0,True
 01723,48,Sächsische Schweiz-Osterzgebirge 1,1.0,True
 01728,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
-01731,49,Sächsische Schweiz-Osterzgebirge 2,0.98813,True
-01731,50,Sächsische Schweiz-Osterzgebirge 3,0.01187,False
+01731,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
 01734,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
 01737,48,Sächsische Schweiz-Osterzgebirge 1,1.0,True
-01738,48,Sächsische Schweiz-Osterzgebirge 1,0.977812,True
-01738,49,Sächsische Schweiz-Osterzgebirge 2,0.022188,False
+01738,48,Sächsische Schweiz-Osterzgebirge 1,1.0,True
 01744,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
 01762,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
 01768,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
@@ -274,8 +87,8 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 01774,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
 01776,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
 01778,49,Sächsische Schweiz-Osterzgebirge 2,1.0,True
-01796,50,Sächsische Schweiz-Osterzgebirge 3,0.777622,True
-01796,51,Sächsische Schweiz-Osterzgebirge 4,0.222378,False
+01796,50,Sächsische Schweiz-Osterzgebirge 3,0.775676,True
+01796,51,Sächsische Schweiz-Osterzgebirge 4,0.224324,False
 01809,50,Sächsische Schweiz-Osterzgebirge 3,1.0,True
 01814,51,Sächsische Schweiz-Osterzgebirge 4,1.0,True
 01816,50,Sächsische Schweiz-Osterzgebirge 3,1.0,True
@@ -288,27 +101,27 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 01847,51,Sächsische Schweiz-Osterzgebirge 4,1.0,True
 01848,51,Sächsische Schweiz-Osterzgebirge 4,1.0,True
 01855,51,Sächsische Schweiz-Osterzgebirge 4,1.0,True
-01877,52,Bautzen 1/Budyšin 1,0.951048,True
-01877,56,Bautzen 5/Budyšin 5,0.048952,False
+01877,52,Bautzen 1/Budyšin 1,0.951509,True
+01877,56,Bautzen 5/Budyšin 5,0.048491,False
 01896,53,Bautzen 2/Budyšin 2,1.0,True
 01900,53,Bautzen 2/Budyšin 2,1.0,True
 01904,52,Bautzen 1/Budyšin 1,1.0,True
 01906,52,Bautzen 1/Budyšin 1,1.0,True
 01909,52,Bautzen 1/Budyšin 1,1.0,True
 01917,53,Bautzen 2/Budyšin 2,1.0,True
-01920,53,Bautzen 2/Budyšin 2,0.805455,True
-01920,54,Bautzen 3/Budyšin 3,0.194545,False
-01936,53,Bautzen 2/Budyšin 2,0.059827,False
-01936,54,Bautzen 3/Budyšin 3,0.940173,True
+01920,53,Bautzen 2/Budyšin 2,0.806198,True
+01920,54,Bautzen 3/Budyšin 3,0.193802,False
+01936,53,Bautzen 2/Budyšin 2,0.05985,False
+01936,54,Bautzen 3/Budyšin 3,0.94015,True
 02625,56,Bautzen 5/Budyšin 5,1.0,True
-02627,55,Bautzen 4/Budyšin 4,0.311969,False
-02627,56,Bautzen 5/Budyšin 5,0.688031,True
-02633,52,Bautzen 1/Budyšin 1,0.661293,True
-02633,56,Bautzen 5/Budyšin 5,0.338707,False
+02627,55,Bautzen 4/Budyšin 4,0.311881,False
+02627,56,Bautzen 5/Budyšin 5,0.688119,True
+02633,52,Bautzen 1/Budyšin 1,0.659702,True
+02633,56,Bautzen 5/Budyšin 5,0.340298,False
 02681,52,Bautzen 1/Budyšin 1,1.0,True
 02689,52,Bautzen 1/Budyšin 1,1.0,True
-02692,52,Bautzen 1/Budyšin 1,0.670409,True
-02692,56,Bautzen 5/Budyšin 5,0.329591,False
+02692,52,Bautzen 1/Budyšin 1,0.671624,True
+02692,56,Bautzen 5/Budyšin 5,0.328376,False
 02694,56,Bautzen 5/Budyšin 5,1.0,True
 02699,55,Bautzen 4/Budyšin 4,1.0,True
 02708,59,Görlitz 3,1.0,True
@@ -332,13 +145,12 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 02799,60,Görlitz 4,1.0,True
 02826,58,Görlitz 2,1.0,True
 02827,58,Görlitz 2,1.0,True
-02828,57,Görlitz 1/Zhorjelc 1,0.034048,False
-02828,58,Görlitz 2,0.965952,True
-02829,57,Görlitz 1/Zhorjelc 1,0.484544,False
-02829,58,Görlitz 2,0.515456,True
+02828,58,Görlitz 2,1.0,True
+02829,57,Görlitz 1/Zhorjelc 1,0.484783,False
+02829,58,Görlitz 2,0.515217,True
 02894,58,Görlitz 2,1.0,True
-02899,58,Görlitz 2,0.011259,False
-02899,59,Görlitz 3,0.988741,True
+02899,58,Görlitz 2,0.011396,False
+02899,59,Görlitz 3,0.988604,True
 02906,57,Görlitz 1/Zhorjelc 1,1.0,True
 02923,57,Görlitz 1/Zhorjelc 1,1.0,True
 02929,57,Görlitz 1/Zhorjelc 1,1.0,True
@@ -353,280 +165,56 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 02994,54,Bautzen 3/Budyšin 3,1.0,True
 02997,54,Bautzen 3/Budyšin 3,1.0,True
 02999,55,Bautzen 4/Budyšin 4,1.0,True
-04103,25,Leipzig 1,0.125,True
-04103,26,Leipzig 2,0.125,False
-04103,27,Leipzig 3,0.125,False
-04103,28,Leipzig 4,0.125,False
-04103,29,Leipzig 5,0.125,False
-04103,30,Leipzig 6,0.125,False
-04103,31,Leipzig 7,0.125,False
-04103,32,Leipzig 8,0.125,False
-04105,25,Leipzig 1,0.125,True
-04105,26,Leipzig 2,0.125,False
-04105,27,Leipzig 3,0.125,False
-04105,28,Leipzig 4,0.125,False
-04105,29,Leipzig 5,0.125,False
-04105,30,Leipzig 6,0.125,False
-04105,31,Leipzig 7,0.125,False
-04105,32,Leipzig 8,0.125,False
-04107,25,Leipzig 1,0.125,True
-04107,26,Leipzig 2,0.125,False
-04107,27,Leipzig 3,0.125,False
-04107,28,Leipzig 4,0.125,False
-04107,29,Leipzig 5,0.125,False
-04107,30,Leipzig 6,0.125,False
-04107,31,Leipzig 7,0.125,False
-04107,32,Leipzig 8,0.125,False
-04109,25,Leipzig 1,0.125,True
-04109,26,Leipzig 2,0.125,False
-04109,27,Leipzig 3,0.125,False
-04109,28,Leipzig 4,0.125,False
-04109,29,Leipzig 5,0.125,False
-04109,30,Leipzig 6,0.125,False
-04109,31,Leipzig 7,0.125,False
-04109,32,Leipzig 8,0.125,False
-04129,25,Leipzig 1,0.125,True
-04129,26,Leipzig 2,0.125,False
-04129,27,Leipzig 3,0.125,False
-04129,28,Leipzig 4,0.125,False
-04129,29,Leipzig 5,0.125,False
-04129,30,Leipzig 6,0.125,False
-04129,31,Leipzig 7,0.125,False
-04129,32,Leipzig 8,0.125,False
-04155,25,Leipzig 1,0.125,True
-04155,26,Leipzig 2,0.125,False
-04155,27,Leipzig 3,0.125,False
-04155,28,Leipzig 4,0.125,False
-04155,29,Leipzig 5,0.125,False
-04155,30,Leipzig 6,0.125,False
-04155,31,Leipzig 7,0.125,False
-04155,32,Leipzig 8,0.125,False
-04157,25,Leipzig 1,0.125,True
-04157,26,Leipzig 2,0.125,False
-04157,27,Leipzig 3,0.125,False
-04157,28,Leipzig 4,0.125,False
-04157,29,Leipzig 5,0.125,False
-04157,30,Leipzig 6,0.125,False
-04157,31,Leipzig 7,0.125,False
-04157,32,Leipzig 8,0.125,False
-04158,25,Leipzig 1,0.125,True
-04158,26,Leipzig 2,0.125,False
-04158,27,Leipzig 3,0.125,False
-04158,28,Leipzig 4,0.125,False
-04158,29,Leipzig 5,0.125,False
-04158,30,Leipzig 6,0.125,False
-04158,31,Leipzig 7,0.125,False
-04158,32,Leipzig 8,0.125,False
-04159,25,Leipzig 1,0.125,True
-04159,26,Leipzig 2,0.125,False
-04159,27,Leipzig 3,0.125,False
-04159,28,Leipzig 4,0.125,False
-04159,29,Leipzig 5,0.125,False
-04159,30,Leipzig 6,0.125,False
-04159,31,Leipzig 7,0.125,False
-04159,32,Leipzig 8,0.125,False
-04177,25,Leipzig 1,0.125,True
-04177,26,Leipzig 2,0.125,False
-04177,27,Leipzig 3,0.125,False
-04177,28,Leipzig 4,0.125,False
-04177,29,Leipzig 5,0.125,False
-04177,30,Leipzig 6,0.125,False
-04177,31,Leipzig 7,0.125,False
-04177,32,Leipzig 8,0.125,False
-04178,25,Leipzig 1,0.125,True
-04178,26,Leipzig 2,0.125,False
-04178,27,Leipzig 3,0.125,False
-04178,28,Leipzig 4,0.125,False
-04178,29,Leipzig 5,0.125,False
-04178,30,Leipzig 6,0.125,False
-04178,31,Leipzig 7,0.125,False
-04178,32,Leipzig 8,0.125,False
-04179,25,Leipzig 1,0.125,True
-04179,26,Leipzig 2,0.125,False
-04179,27,Leipzig 3,0.125,False
-04179,28,Leipzig 4,0.125,False
-04179,29,Leipzig 5,0.125,False
-04179,30,Leipzig 6,0.125,False
-04179,31,Leipzig 7,0.125,False
-04179,32,Leipzig 8,0.125,False
-04205,25,Leipzig 1,0.125,True
-04205,26,Leipzig 2,0.125,False
-04205,27,Leipzig 3,0.125,False
-04205,28,Leipzig 4,0.125,False
-04205,29,Leipzig 5,0.125,False
-04205,30,Leipzig 6,0.125,False
-04205,31,Leipzig 7,0.125,False
-04205,32,Leipzig 8,0.125,False
-04207,25,Leipzig 1,0.125,True
-04207,26,Leipzig 2,0.125,False
-04207,27,Leipzig 3,0.125,False
-04207,28,Leipzig 4,0.125,False
-04207,29,Leipzig 5,0.125,False
-04207,30,Leipzig 6,0.125,False
-04207,31,Leipzig 7,0.125,False
-04207,32,Leipzig 8,0.125,False
-04209,25,Leipzig 1,0.125,True
-04209,26,Leipzig 2,0.125,False
-04209,27,Leipzig 3,0.125,False
-04209,28,Leipzig 4,0.125,False
-04209,29,Leipzig 5,0.125,False
-04209,30,Leipzig 6,0.125,False
-04209,31,Leipzig 7,0.125,False
-04209,32,Leipzig 8,0.125,False
-04229,25,Leipzig 1,0.125,True
-04229,26,Leipzig 2,0.125,False
-04229,27,Leipzig 3,0.125,False
-04229,28,Leipzig 4,0.125,False
-04229,29,Leipzig 5,0.125,False
-04229,30,Leipzig 6,0.125,False
-04229,31,Leipzig 7,0.125,False
-04229,32,Leipzig 8,0.125,False
-04249,25,Leipzig 1,0.125,True
-04249,26,Leipzig 2,0.125,False
-04249,27,Leipzig 3,0.125,False
-04249,28,Leipzig 4,0.125,False
-04249,29,Leipzig 5,0.125,False
-04249,30,Leipzig 6,0.125,False
-04249,31,Leipzig 7,0.125,False
-04249,32,Leipzig 8,0.125,False
-04275,25,Leipzig 1,0.125,True
-04275,26,Leipzig 2,0.125,False
-04275,27,Leipzig 3,0.125,False
-04275,28,Leipzig 4,0.125,False
-04275,29,Leipzig 5,0.125,False
-04275,30,Leipzig 6,0.125,False
-04275,31,Leipzig 7,0.125,False
-04275,32,Leipzig 8,0.125,False
-04277,25,Leipzig 1,0.125,True
-04277,26,Leipzig 2,0.125,False
-04277,27,Leipzig 3,0.125,False
-04277,28,Leipzig 4,0.125,False
-04277,29,Leipzig 5,0.125,False
-04277,30,Leipzig 6,0.125,False
-04277,31,Leipzig 7,0.125,False
-04277,32,Leipzig 8,0.125,False
-04279,22,Leipzig Land 2,0.010298,False
-04279,25,Leipzig 1,0.123713,True
-04279,26,Leipzig 2,0.123713,False
-04279,27,Leipzig 3,0.123713,False
-04279,28,Leipzig 4,0.123713,False
-04279,29,Leipzig 5,0.123713,False
-04279,30,Leipzig 6,0.123713,False
-04279,31,Leipzig 7,0.123713,False
-04279,32,Leipzig 8,0.123713,False
-04288,25,Leipzig 1,0.125,True
-04288,26,Leipzig 2,0.125,False
-04288,27,Leipzig 3,0.125,False
-04288,28,Leipzig 4,0.125,False
-04288,29,Leipzig 5,0.125,False
-04288,30,Leipzig 6,0.125,False
-04288,31,Leipzig 7,0.125,False
-04288,32,Leipzig 8,0.125,False
-04289,25,Leipzig 1,0.125,True
-04289,26,Leipzig 2,0.125,False
-04289,27,Leipzig 3,0.125,False
-04289,28,Leipzig 4,0.125,False
-04289,29,Leipzig 5,0.125,False
-04289,30,Leipzig 6,0.125,False
-04289,31,Leipzig 7,0.125,False
-04289,32,Leipzig 8,0.125,False
-04299,25,Leipzig 1,0.125,True
-04299,26,Leipzig 2,0.125,False
-04299,27,Leipzig 3,0.125,False
-04299,28,Leipzig 4,0.125,False
-04299,29,Leipzig 5,0.125,False
-04299,30,Leipzig 6,0.125,False
-04299,31,Leipzig 7,0.125,False
-04299,32,Leipzig 8,0.125,False
-04315,25,Leipzig 1,0.125,True
-04315,26,Leipzig 2,0.125,False
-04315,27,Leipzig 3,0.125,False
-04315,28,Leipzig 4,0.125,False
-04315,29,Leipzig 5,0.125,False
-04315,30,Leipzig 6,0.125,False
-04315,31,Leipzig 7,0.125,False
-04315,32,Leipzig 8,0.125,False
-04316,25,Leipzig 1,0.125,True
-04316,26,Leipzig 2,0.125,False
-04316,27,Leipzig 3,0.125,False
-04316,28,Leipzig 4,0.125,False
-04316,29,Leipzig 5,0.125,False
-04316,30,Leipzig 6,0.125,False
-04316,31,Leipzig 7,0.125,False
-04316,32,Leipzig 8,0.125,False
-04317,25,Leipzig 1,0.125,True
-04317,26,Leipzig 2,0.125,False
-04317,27,Leipzig 3,0.125,False
-04317,28,Leipzig 4,0.125,False
-04317,29,Leipzig 5,0.125,False
-04317,30,Leipzig 6,0.125,False
-04317,31,Leipzig 7,0.125,False
-04317,32,Leipzig 8,0.125,False
-04318,25,Leipzig 1,0.125,True
-04318,26,Leipzig 2,0.125,False
-04318,27,Leipzig 3,0.125,False
-04318,28,Leipzig 4,0.125,False
-04318,29,Leipzig 5,0.125,False
-04318,30,Leipzig 6,0.125,False
-04318,31,Leipzig 7,0.125,False
-04318,32,Leipzig 8,0.125,False
-04319,25,Leipzig 1,0.125,True
-04319,26,Leipzig 2,0.125,False
-04319,27,Leipzig 3,0.125,False
-04319,28,Leipzig 4,0.125,False
-04319,29,Leipzig 5,0.125,False
-04319,30,Leipzig 6,0.125,False
-04319,31,Leipzig 7,0.125,False
-04319,32,Leipzig 8,0.125,False
-04328,25,Leipzig 1,0.125,True
-04328,26,Leipzig 2,0.125,False
-04328,27,Leipzig 3,0.125,False
-04328,28,Leipzig 4,0.125,False
-04328,29,Leipzig 5,0.125,False
-04328,30,Leipzig 6,0.125,False
-04328,31,Leipzig 7,0.125,False
-04328,32,Leipzig 8,0.125,False
-04329,25,Leipzig 1,0.119235,True
-04329,26,Leipzig 2,0.119235,False
-04329,27,Leipzig 3,0.119235,False
-04329,28,Leipzig 4,0.119235,False
-04329,29,Leipzig 5,0.119235,False
-04329,30,Leipzig 6,0.119235,False
-04329,31,Leipzig 7,0.119235,False
-04329,32,Leipzig 8,0.119235,False
-04329,34,Nordsachsen 2,0.046117,False
-04347,25,Leipzig 1,0.125,True
-04347,26,Leipzig 2,0.125,False
-04347,27,Leipzig 3,0.125,False
-04347,28,Leipzig 4,0.125,False
-04347,29,Leipzig 5,0.125,False
-04347,30,Leipzig 6,0.125,False
-04347,31,Leipzig 7,0.125,False
-04347,32,Leipzig 8,0.125,False
-04349,25,Leipzig 1,0.125,True
-04349,26,Leipzig 2,0.125,False
-04349,27,Leipzig 3,0.125,False
-04349,28,Leipzig 4,0.125,False
-04349,29,Leipzig 5,0.125,False
-04349,30,Leipzig 6,0.125,False
-04349,31,Leipzig 7,0.125,False
-04349,32,Leipzig 8,0.125,False
-04356,25,Leipzig 1,0.125,True
-04356,26,Leipzig 2,0.125,False
-04356,27,Leipzig 3,0.125,False
-04356,28,Leipzig 4,0.125,False
-04356,29,Leipzig 5,0.125,False
-04356,30,Leipzig 6,0.125,False
-04356,31,Leipzig 7,0.125,False
-04356,32,Leipzig 8,0.125,False
-04357,25,Leipzig 1,0.125,True
-04357,26,Leipzig 2,0.125,False
-04357,27,Leipzig 3,0.125,False
-04357,28,Leipzig 4,0.125,False
-04357,29,Leipzig 5,0.125,False
-04357,30,Leipzig 6,0.125,False
-04357,31,Leipzig 7,0.125,False
-04357,32,Leipzig 8,0.125,False
+04103,25,Leipzig 1,1.0,True
+04105,27,Leipzig 3,0.273907,False
+04105,31,Leipzig 7,0.726093,True
+04107,25,Leipzig 1,0.969916,True
+04107,28,Leipzig 4,0.030084,False
+04109,25,Leipzig 1,0.988995,True
+04109,31,Leipzig 7,0.011005,False
+04129,27,Leipzig 3,1.0,True
+04155,27,Leipzig 3,0.926118,True
+04155,31,Leipzig 7,0.073882,False
+04157,27,Leipzig 3,0.838432,True
+04157,31,Leipzig 7,0.161568,False
+04158,31,Leipzig 7,0.705666,True
+04158,32,Leipzig 8,0.294334,False
+04159,31,Leipzig 7,1.0,True
+04177,30,Leipzig 6,1.0,True
+04178,31,Leipzig 7,1.0,True
+04179,29,Leipzig 5,0.096394,False
+04179,30,Leipzig 6,0.893226,True
+04179,31,Leipzig 7,0.010379,False
+04205,29,Leipzig 5,1.0,True
+04207,29,Leipzig 5,1.0,True
+04209,29,Leipzig 5,0.92328,True
+04209,30,Leipzig 6,0.07672,False
+04229,29,Leipzig 5,0.268973,False
+04229,30,Leipzig 6,0.731027,True
+04249,29,Leipzig 5,1.0,True
+04275,28,Leipzig 4,1.0,True
+04277,28,Leipzig 4,1.0,True
+04279,28,Leipzig 4,1.0,True
+04288,26,Leipzig 2,1.0,True
+04289,28,Leipzig 4,1.0,True
+04299,26,Leipzig 2,0.795767,True
+04299,28,Leipzig 4,0.159107,False
+04299,32,Leipzig 8,0.045126,False
+04315,25,Leipzig 1,0.450395,False
+04315,32,Leipzig 8,0.549605,True
+04316,26,Leipzig 2,1.0,True
+04317,25,Leipzig 1,1.0,True
+04318,26,Leipzig 2,0.494679,False
+04318,32,Leipzig 8,0.505321,True
+04319,26,Leipzig 2,1.0,True
+04328,26,Leipzig 2,1.0,True
+04329,26,Leipzig 2,0.97503,True
+04329,32,Leipzig 8,0.02497,False
+04347,26,Leipzig 2,0.11935,False
+04347,32,Leipzig 8,0.88065,True
+04349,32,Leipzig 8,1.0,True
+04356,32,Leipzig 8,1.0,True
+04357,32,Leipzig 8,1.0,True
 04416,22,Leipzig Land 2,1.0,True
 04420,22,Leipzig Land 2,1.0,True
 04425,34,Nordsachsen 2,1.0,True
@@ -639,20 +227,18 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 04523,22,Leipzig Land 2,1.0,True
 04539,22,Leipzig Land 2,1.0,True
 04552,21,Leipzig Land 1,1.0,True
-04564,21,Leipzig Land 1,0.107759,False
-04564,22,Leipzig Land 2,0.892241,True
+04564,21,Leipzig Land 1,0.102021,False
+04564,22,Leipzig Land 2,0.897979,True
 04565,21,Leipzig Land 1,1.0,True
 04567,21,Leipzig Land 1,1.0,True
 04571,21,Leipzig Land 1,1.0,True
 04575,21,Leipzig Land 1,1.0,True
-04639,7,Zwickau 4,1.0,True
 04643,21,Leipzig Land 1,1.0,True
 04651,23,Leipzig Land 3,1.0,True
 04654,21,Leipzig Land 1,1.0,True
 04668,23,Leipzig Land 3,1.0,True
 04680,23,Leipzig Land 3,1.0,True
-04683,23,Leipzig Land 3,0.987608,True
-04683,24,Leipzig Land 4,0.012392,False
+04683,23,Leipzig Land 3,1.0,True
 04687,24,Leipzig Land 4,1.0,True
 04703,20,Mittelsachsen 4,1.0,True
 04720,20,Mittelsachsen 4,1.0,True
@@ -671,8 +257,8 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 04828,24,Leipzig Land 4,1.0,True
 04838,34,Nordsachsen 2,1.0,True
 04849,34,Nordsachsen 2,1.0,True
-04860,34,Nordsachsen 2,0.023619,False
-04860,35,Nordsachsen 3,0.976381,True
+04860,34,Nordsachsen 2,0.021202,False
+04860,35,Nordsachsen 3,0.978798,True
 04861,35,Nordsachsen 3,1.0,True
 04862,34,Nordsachsen 2,1.0,True
 04874,35,Nordsachsen 3,1.0,True
@@ -682,39 +268,34 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 07919,1,Vogtland 1,1.0,True
 07952,1,Vogtland 1,1.0,True
 07985,3,Vogtland 3,1.0,True
-08056,5,Zwickau 2,0.5,True
-08056,6,Zwickau 3,0.5,False
-08058,5,Zwickau 2,0.502114,True
-08058,6,Zwickau 3,0.497886,False
-08060,5,Zwickau 2,0.502273,True
-08060,6,Zwickau 3,0.497727,False
-08062,5,Zwickau 2,0.5,True
-08062,6,Zwickau 3,0.5,False
-08064,4,Zwickau 1,0.022651,False
-08064,5,Zwickau 2,0.488675,True
-08064,6,Zwickau 3,0.488675,False
-08066,5,Zwickau 2,0.5,True
-08066,6,Zwickau 3,0.5,False
+08056,5,Zwickau 2,0.374867,False
+08056,6,Zwickau 3,0.625133,True
+08058,5,Zwickau 2,0.011705,False
+08058,6,Zwickau 3,0.988295,True
+08060,5,Zwickau 2,0.946424,True
+08060,6,Zwickau 3,0.053576,False
+08062,6,Zwickau 3,1.0,True
+08064,6,Zwickau 3,1.0,True
+08066,6,Zwickau 3,1.0,True
 08107,4,Zwickau 1,1.0,True
 08112,4,Zwickau 1,1.0,True
 08115,4,Zwickau 1,1.0,True
 08118,4,Zwickau 1,1.0,True
-08132,4,Zwickau 1,0.9607,True
-08132,5,Zwickau 2,0.01965,False
-08132,6,Zwickau 3,0.01965,False
+08132,4,Zwickau 1,0.972263,True
+08132,6,Zwickau 3,0.027737,False
 08134,4,Zwickau 1,1.0,True
 08141,4,Zwickau 1,1.0,True
 08144,4,Zwickau 1,1.0,True
 08147,4,Zwickau 1,1.0,True
 08209,2,Vogtland 2,1.0,True
-08223,2,Vogtland 2,0.810434,True
-08223,3,Vogtland 3,0.189566,False
+08223,2,Vogtland 2,0.811569,True
+08223,3,Vogtland 3,0.188431,False
 08228,2,Vogtland 2,1.0,True
 08233,3,Vogtland 3,1.0,True
 08236,2,Vogtland 2,1.0,True
 08237,2,Vogtland 2,1.0,True
-08239,2,Vogtland 2,0.622463,True
-08239,3,Vogtland 3,0.377537,False
+08239,2,Vogtland 2,0.624391,True
+08239,3,Vogtland 3,0.375609,False
 08248,2,Vogtland 2,1.0,True
 08258,2,Vogtland 2,1.0,True
 08261,2,Vogtland 2,1.0,True
@@ -728,23 +309,22 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 08309,13,Erzgebirge 2,1.0,True
 08315,14,Erzgebirge 3,1.0,True
 08321,13,Erzgebirge 2,1.0,True
-08324,13,Erzgebirge 2,0.976,True
-08324,14,Erzgebirge 3,0.024,False
+08324,13,Erzgebirge 2,0.984398,True
+08324,14,Erzgebirge 3,0.015602,False
 08328,13,Erzgebirge 2,1.0,True
 08340,14,Erzgebirge 3,1.0,True
 08344,14,Erzgebirge 3,1.0,True
 08349,14,Erzgebirge 3,1.0,True
-08352,14,Erzgebirge 3,0.976548,True
-08352,15,Erzgebirge 4,0.023452,False
+08352,14,Erzgebirge 3,0.9781,True
+08352,15,Erzgebirge 4,0.0219,False
 08359,14,Erzgebirge 3,1.0,True
 08371,7,Zwickau 4,1.0,True
 08373,7,Zwickau 4,1.0,True
-08393,5,Zwickau 2,0.271876,False
-08393,7,Zwickau 4,0.728124,True
+08393,5,Zwickau 2,0.273324,False
+08393,7,Zwickau 4,0.726676,True
 08396,7,Zwickau 4,1.0,True
 08412,5,Zwickau 2,1.0,True
-08427,3,Vogtland 3,0.013059,False
-08427,5,Zwickau 2,0.986941,True
+08427,5,Zwickau 2,1.0,True
 08428,5,Zwickau 2,1.0,True
 08451,5,Zwickau 2,1.0,True
 08459,5,Zwickau 2,1.0,True
@@ -756,111 +336,83 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 08523,1,Vogtland 1,1.0,True
 08525,1,Vogtland 1,1.0,True
 08527,1,Vogtland 1,1.0,True
-08529,1,Vogtland 1,0.972366,True
-08529,3,Vogtland 3,0.027634,False
+08529,1,Vogtland 1,0.987601,True
+08529,3,Vogtland 3,0.012399,False
 08538,1,Vogtland 1,1.0,True
 08539,1,Vogtland 1,1.0,True
-08541,1,Vogtland 1,0.12927,False
-08541,3,Vogtland 3,0.87073,True
+08541,1,Vogtland 1,0.127804,False
+08541,3,Vogtland 3,0.872196,True
 08543,3,Vogtland 3,1.0,True
 08547,1,Vogtland 1,1.0,True
 08548,1,Vogtland 1,1.0,True
-08606,2,Vogtland 2,0.064401,False
-08606,3,Vogtland 3,0.935599,True
-08626,2,Vogtland 2,0.689918,True
-08626,3,Vogtland 3,0.310082,False
+08606,2,Vogtland 2,0.064513,False
+08606,3,Vogtland 3,0.935487,True
+08626,2,Vogtland 2,0.690214,True
+08626,3,Vogtland 3,0.309786,False
 08645,2,Vogtland 2,1.0,True
 08648,2,Vogtland 2,1.0,True
-09111,9,Chemnitz 1,0.333333,True
-09111,10,Chemnitz 2,0.333333,False
-09111,11,Chemnitz 3,0.333333,False
-09112,9,Chemnitz 1,0.333333,True
-09112,10,Chemnitz 2,0.333333,False
-09112,11,Chemnitz 3,0.333333,False
-09113,9,Chemnitz 1,0.333333,True
-09113,10,Chemnitz 2,0.333333,False
-09113,11,Chemnitz 3,0.333333,False
-09114,9,Chemnitz 1,0.333333,True
-09114,10,Chemnitz 2,0.333333,False
-09114,11,Chemnitz 3,0.333333,False
-09116,9,Chemnitz 1,0.333333,True
-09116,10,Chemnitz 2,0.333333,False
-09116,11,Chemnitz 3,0.333333,False
-09117,9,Chemnitz 1,0.333333,True
-09117,10,Chemnitz 2,0.333333,False
-09117,11,Chemnitz 3,0.333333,False
-09119,9,Chemnitz 1,0.333333,True
-09119,10,Chemnitz 2,0.333333,False
-09119,11,Chemnitz 3,0.333333,False
-09120,9,Chemnitz 1,0.333333,True
-09120,10,Chemnitz 2,0.333333,False
-09120,11,Chemnitz 3,0.333333,False
-09122,9,Chemnitz 1,0.333333,True
-09122,10,Chemnitz 2,0.333333,False
-09122,11,Chemnitz 3,0.333333,False
-09123,9,Chemnitz 1,0.333333,True
-09123,10,Chemnitz 2,0.333333,False
-09123,11,Chemnitz 3,0.333333,False
-09125,9,Chemnitz 1,0.333333,True
-09125,10,Chemnitz 2,0.333333,False
-09125,11,Chemnitz 3,0.333333,False
-09126,9,Chemnitz 1,0.333333,True
-09126,10,Chemnitz 2,0.333333,False
-09126,11,Chemnitz 3,0.333333,False
-09127,9,Chemnitz 1,0.333333,True
-09127,10,Chemnitz 2,0.333333,False
-09127,11,Chemnitz 3,0.333333,False
-09128,9,Chemnitz 1,0.333333,True
-09128,10,Chemnitz 2,0.333333,False
-09128,11,Chemnitz 3,0.333333,False
-09130,9,Chemnitz 1,0.333333,True
-09130,10,Chemnitz 2,0.333333,False
-09130,11,Chemnitz 3,0.333333,False
-09131,9,Chemnitz 1,0.333333,True
-09131,10,Chemnitz 2,0.333333,False
-09131,11,Chemnitz 3,0.333333,False
+09111,10,Chemnitz 2,0.982166,True
+09111,11,Chemnitz 3,0.017834,False
+09112,9,Chemnitz 1,0.847392,True
+09112,10,Chemnitz 2,0.114675,False
+09112,11,Chemnitz 3,0.037933,False
+09113,9,Chemnitz 1,0.90607,True
+09113,10,Chemnitz 2,0.09393,False
+09114,9,Chemnitz 1,0.016609,False
+09114,10,Chemnitz 2,0.983391,True
+09116,9,Chemnitz 1,0.73941,True
+09116,11,Chemnitz 3,0.26059,False
+09117,9,Chemnitz 1,1.0,True
+09119,11,Chemnitz 3,1.0,True
+09120,11,Chemnitz 3,1.0,True
+09122,9,Chemnitz 1,0.809367,True
+09122,11,Chemnitz 3,0.190633,False
+09123,9,Chemnitz 1,0.061755,False
+09123,11,Chemnitz 3,0.938245,True
+09125,11,Chemnitz 3,1.0,True
+09126,10,Chemnitz 2,0.308488,False
+09126,11,Chemnitz 3,0.691512,True
+09127,10,Chemnitz 2,0.197012,False
+09127,11,Chemnitz 3,0.802988,True
+09128,11,Chemnitz 3,1.0,True
+09130,10,Chemnitz 2,1.0,True
+09131,10,Chemnitz 2,1.0,True
 09212,8,Zwickau 5,1.0,True
-09217,19,Mittelsachsen 3,1.0,True
+09217,10,Chemnitz 2,0.010557,False
+09217,19,Mittelsachsen 3,0.989443,True
 09221,12,Erzgebirge 1,1.0,True
-09224,8,Zwickau 5,0.018988,False
-09224,9,Chemnitz 1,0.327004,True
-09224,10,Chemnitz 2,0.327004,False
-09224,11,Chemnitz 3,0.327004,False
-09228,9,Chemnitz 1,0.333333,True
-09228,10,Chemnitz 2,0.333333,False
-09228,11,Chemnitz 3,0.333333,False
+09224,9,Chemnitz 1,1.0,True
+09228,10,Chemnitz 2,0.987711,True
+09228,19,Mittelsachsen 3,0.012289,False
 09232,19,Mittelsachsen 3,1.0,True
 09235,12,Erzgebirge 1,1.0,True
 09236,19,Mittelsachsen 3,1.0,True
 09241,19,Mittelsachsen 3,1.0,True
-09243,8,Zwickau 5,0.983324,True
-09243,19,Mittelsachsen 3,0.016676,False
+09243,8,Zwickau 5,0.989276,True
+09243,19,Mittelsachsen 3,0.010724,False
 09244,19,Mittelsachsen 3,1.0,True
-09247,9,Chemnitz 1,0.333333,True
-09247,10,Chemnitz 2,0.333333,False
-09247,11,Chemnitz 3,0.333333,False
+09247,9,Chemnitz 1,1.0,True
 09249,19,Mittelsachsen 3,1.0,True
 09306,19,Mittelsachsen 3,1.0,True
 09322,19,Mittelsachsen 3,1.0,True
 09326,20,Mittelsachsen 4,1.0,True
 09328,19,Mittelsachsen 3,1.0,True
-09337,7,Zwickau 4,0.206015,False
-09337,8,Zwickau 5,0.793985,True
+09337,7,Zwickau 4,0.207005,False
+09337,8,Zwickau 5,0.792995,True
 09350,7,Zwickau 4,1.0,True
 09353,8,Zwickau 5,1.0,True
 09355,8,Zwickau 5,1.0,True
-09356,7,Zwickau 4,0.973504,True
-09356,8,Zwickau 5,0.026496,False
+09356,7,Zwickau 4,1.0,True
 09366,12,Erzgebirge 1,1.0,True
 09376,12,Erzgebirge 1,1.0,True
 09380,12,Erzgebirge 1,1.0,True
-09385,8,Zwickau 5,0.017397,False
-09385,12,Erzgebirge 1,0.982603,True
+09385,12,Erzgebirge 1,1.0,True
 09387,12,Erzgebirge 1,1.0,True
 09390,12,Erzgebirge 1,1.0,True
-09392,12,Erzgebirge 1,1.0,True
-09394,7,Zwickau 4,0.016933,False
-09394,12,Erzgebirge 1,0.983067,True
+09392,12,Erzgebirge 1,0.989206,True
+09392,15,Erzgebirge 4,0.010794,False
+09394,7,Zwickau 4,0.010791,False
+09394,12,Erzgebirge 1,0.989209,True
 09399,12,Erzgebirge 1,1.0,True
 09405,16,Erzgebirge 5,1.0,True
 09419,15,Erzgebirge 4,1.0,True
@@ -871,16 +423,16 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 09432,16,Erzgebirge 5,1.0,True
 09434,16,Erzgebirge 5,1.0,True
 09437,16,Erzgebirge 5,1.0,True
-09439,12,Erzgebirge 1,0.98475,True
-09439,16,Erzgebirge 5,0.01525,False
+09439,12,Erzgebirge 1,0.987631,True
+09439,16,Erzgebirge 5,0.012369,False
 09456,15,Erzgebirge 4,1.0,True
 09465,15,Erzgebirge 4,1.0,True
 09468,15,Erzgebirge 4,1.0,True
 09471,15,Erzgebirge 4,1.0,True
 09474,15,Erzgebirge 4,1.0,True
 09477,15,Erzgebirge 4,1.0,True
-09481,14,Erzgebirge 3,0.823621,True
-09481,15,Erzgebirge 4,0.176379,False
+09481,14,Erzgebirge 3,0.827172,True
+09481,15,Erzgebirge 4,0.172828,False
 09484,15,Erzgebirge 4,1.0,True
 09487,15,Erzgebirge 4,1.0,True
 09488,15,Erzgebirge 4,1.0,True
@@ -893,27 +445,25 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 09548,16,Erzgebirge 5,1.0,True
 09557,18,Mittelsachsen 2,1.0,True
 09569,18,Mittelsachsen 2,1.0,True
-09573,16,Erzgebirge 5,0.131525,False
-09573,18,Mittelsachsen 2,0.868475,True
+09573,16,Erzgebirge 5,0.131493,False
+09573,18,Mittelsachsen 2,0.868507,True
 09575,18,Mittelsachsen 2,1.0,True
 09577,18,Mittelsachsen 2,1.0,True
 09579,16,Erzgebirge 5,1.0,True
 09599,17,Mittelsachsen 1,1.0,True
-09600,17,Mittelsachsen 1,0.337123,False
-09600,18,Mittelsachsen 2,0.662877,True
-09603,17,Mittelsachsen 1,0.984578,True
-09603,38,Meißen 3,0.015422,False
+09600,17,Mittelsachsen 1,0.338178,False
+09600,18,Mittelsachsen 2,0.661822,True
+09603,17,Mittelsachsen 1,1.0,True
 09618,18,Mittelsachsen 2,1.0,True
 09619,17,Mittelsachsen 1,1.0,True
 09623,17,Mittelsachsen 1,1.0,True
 09627,17,Mittelsachsen 1,1.0,True
 09629,17,Mittelsachsen 1,1.0,True
 09633,17,Mittelsachsen 1,1.0,True
-09634,17,Mittelsachsen 1,0.900131,True
-09634,38,Meißen 3,0.099869,False
+09634,17,Mittelsachsen 1,1.0,True
 09638,17,Mittelsachsen 1,1.0,True
-09648,19,Mittelsachsen 3,0.638156,True
-09648,20,Mittelsachsen 4,0.361844,False
-09661,18,Mittelsachsen 2,0.28449,False
-09661,20,Mittelsachsen 4,0.71551,True
+09648,19,Mittelsachsen 3,0.6386,True
+09648,20,Mittelsachsen 4,0.3614,False
+09661,18,Mittelsachsen 2,0.284333,False
+09661,20,Mittelsachsen 4,0.715667,True
 09669,18,Mittelsachsen 2,1.0,True

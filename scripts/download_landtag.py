@@ -186,17 +186,13 @@ def download_state(config: dict, force: bool = False) -> bool:
 
     print(f"\n=== {config['state_name']} ({state}) ===")
 
-    if mode != "auto":
+    if mode not in ("auto", "manual"):
         print(f"  - Skipped ({mode}): {describe_skip(config, mode)}")
         return True
 
     if has_expected_files(dest_dir, patterns, require_all) and not force:
         print(f"  ✓ Raw source already present in {dest_dir}")
         return True
-
-    url = download.get("url")
-    if not url:
-        raise RuntimeError(f"{state}: download.mode=auto but no URL is configured")
 
     filename = infer_filename(config)
     archive = download.get("archive")
@@ -206,14 +202,23 @@ def download_state(config: dict, force: bool = False) -> bool:
     dest_dir.mkdir(parents=True, exist_ok=True)
     file_path = dest_dir / filename
 
-    print(f"  → Downloading {filename}")
-    download_file(str(url), file_path)
+    if mode == "manual":
+        # Sources sent on request: no download URL, and the file is not mirrored.
+        if not file_path.exists():
+            raise RuntimeError(f"place {filename} in {dest_dir}. {describe_skip(config, mode)}")
+    else:
+        url = download.get("url")
+        if not url:
+            raise RuntimeError(f"{state}: download.mode=auto but no URL is configured")
+        print(f"  → Downloading {filename}")
+        download_file(str(url), file_path)
     verify_checksum(file_path, download.get("checksum_sha256"))
 
     if archive == "zip":
         print(f"  → Extracting {filename}")
         extract_zip(file_path, dest_dir)
-        file_path.unlink(missing_ok=True)
+        if mode != "manual":
+            file_path.unlink(missing_ok=True)
 
     if not has_expected_files(dest_dir, patterns, require_all):
         raise RuntimeError(
@@ -231,7 +236,7 @@ def check_state(config: dict) -> tuple[bool, str]:
     dest_dir = LANDTAG_RAW_DIR / download.get("raw_subdir", state)
     patterns, require_all = expected_patterns(config)
 
-    if mode != "auto":
+    if mode not in ("auto", "manual"):
         return True, f"{state}: skipped ({mode})"
     if has_expected_files(dest_dir, patterns, require_all):
         return True, f"{state}: ok"

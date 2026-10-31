@@ -1,18 +1,25 @@
 state: brandenburg
 state_name: Brandenburg
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 158
 expected_wk_count: 44
 election: Brandenburg 2024
-parser: brandenburg
 
 sources:
-  - "Amt für Statistik Berlin-Brandenburg (public domain)"
+  - "Landeswahlleiter Brandenburg — Wahlkreise Landtagswahl 2024 (© GeoBasis-DE/LGB 2024)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://download.statistik-berlin-brandenburg.de/797f02a07ccf0c80/60948eac20a4/SB_B07-02-04_2024j05_BB.xlsx"
-  checksum_sha256: "df65a8e7f528ed48da7da1e4a1015288104ded6e3c3d0890442e2465cff6527d"
-  format: excel
+  mode: manual
+  filename: ltw_2024_gesamt_shp.zip
+  checksum_sha256: "82aa8a5c566ee2a78a15164e3c10736f5a81a346af23d5715addbbad417ca48b"
+  archive: zip
+  format: shapefile
   raw_subdir: brandenburg
+  source_file: wahlkreise_ltw2024.shp
+  notes: "Sent on request by landeswahlleiter@mik.brandenburg.de. Not mirrored: the request promised to publish only the derived PLZ mapping."
+
+columns:
+  WKR_NR: wk_nr
+  WKR_NAME: wk_name
