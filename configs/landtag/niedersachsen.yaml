@@ -1,23 +1,28 @@
 state: niedersachsen
 state_name: Niedersachsen
 parliament: Landtag
-method: municipality_join
+method: spatial
 period_id: 143
 expected_wk_count: 87
 election: Niedersachsen 2022
-parser: niedersachsen
 
 sources:
-  - "Landeswahlleiter Niedersachsen (public domain)"
+  - "Landesamt für Statistik Niedersachsen — Wahlkreiskarte für die Wahl zum 19. Niedersächsischen Landtag (© Landesamt für Statistik Niedersachsen, Hannover 2022; Quelle: Auszug aus den Geodaten des LGLN, © 2022)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://www.statistik.niedersachsen.de/download/187537"
-  mode: auto
-  checksum_sha256: "74da5e708cac4e776d94c8ed4d4d8df5f15832671b1d45885455b0ab34b3756c"
-  filename: "landtagswahlkreise.zip"
-  archive: zip
-  expected_glob: "*.xlsx"
-  format: excel
+  url: "https://www.statistik.niedersachsen.de/download/182342"
+  filename: "landtagswahlkreise_2022.zip"
+  checksum_sha256: "77b10034ca4936aff663a6499273df6aa90a91b78587028ea2c670270a7d7a13"
+  format: shapefile
   raw_subdir: niedersachsen
-  notes: "Downloaded as a ZIP bundle containing both CSV and XLSX municipality mappings."
+
+columns:
+  WKNum: wk_nr
+  WKName: wk_name
+
+# The shapefile cuts these names at the first space.
+names:
+  21: "Sarstedt/Bad Salzdetfurth"
+  35: "Bad Pyrmont"
+  79: "Grafschaft Bentheim"

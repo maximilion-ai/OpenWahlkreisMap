@@ -1,18 +1,25 @@
 state: rheinland-pfalz
 state_name: Rheinland-Pfalz
 parliament: Landtag
-method: municipality_join
-period_id: 164
+method: spatial
+period_id: 166
 expected_wk_count: 52
-election: Rheinland-Pfalz 2021
-parser: rheinland_pfalz
+election: Rheinland-Pfalz 2026
 
 sources:
-  - "Landeswahlleiter Rheinland-Pfalz (public domain)"
+  - "Statistisches Landesamt Rheinland-Pfalz — Geodaten Landtagswahl 2026 (Quelle: Statistisches Landesamt Rheinland-Pfalz)"
   - "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
 
 download:
-  url: "https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/btw/csv/2021/LW_2021_GESAMT.xlsx"
-  checksum_sha256: "a68761a54a8c3ee4ceee06b78da3547a2d545bb6a0db20caf15375ef799f2353"
-  format: excel
+  url: "https://www.wahlen.rlp.de/fileadmin/wahlen.rlp.de/dokumente-wahlen/ltw/Shapefiles/Geodaten_LW2026_RP.zip"
+  checksum_sha256: "ba28a47424fac743d730542e22d764b1357ecf457898ee35b041c43f1293a17c"
+  format: shapefile
   raw_subdir: rheinland-pfalz
+  source_file: "LW2026_RP_WK_2_WK.shp"
+
+columns:
+  "26_IDEN": wk_nr
+  "26_NAM": wk_name
+
+# The layer has no number column; the Wahlkreis number is digits 2–3 of the 13-digit ID.
+wk_nr_pattern: '^\d(\d{2})'

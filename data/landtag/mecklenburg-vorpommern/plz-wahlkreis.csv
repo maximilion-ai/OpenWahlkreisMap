@@ -1,12 +1,4 @@
 plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
-16306,36,Vorpommern-Greifswald V,1.0,True
-16307,36,Vorpommern-Greifswald V,1.0,True
-16798,21,Mecklenburgische Seenplatte IV,1.0,True
-16831,21,Mecklenburgische Seenplatte IV,1.0,True
-16837,20,Mecklenburgische Seenplatte III,1.0,True
-16909,20,Mecklenburgische Seenplatte III,1.0,True
-16945,31,Ludwigslust-Parchim IV,1.0,True
-16949,31,Ludwigslust-Parchim IV,1.0,True
 17033,2,Neubrandenburg I,0.617837,True
 17033,3,Neubrandenburg II,0.367069,False
 17033,22,Mecklenburgische Seenplatte V,0.015094,False
@@ -46,13 +38,9 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 17252,21,Mecklenburgische Seenplatte IV,0.856388,True
 17255,21,Mecklenburgische Seenplatte IV,1.0,True
 17258,21,Mecklenburgische Seenplatte IV,1.0,True
-17268,21,Mecklenburgische Seenplatte IV,1.0,True
-17279,21,Mecklenburgische Seenplatte IV,1.0,True
-17291,22,Mecklenburgische Seenplatte V,1.0,True
 17309,36,Vorpommern-Greifswald V,1.0,True
 17321,36,Vorpommern-Greifswald V,1.0,True
 17322,36,Vorpommern-Greifswald V,1.0,True
-17326,36,Vorpommern-Greifswald V,1.0,True
 17328,36,Vorpommern-Greifswald V,1.0,True
 17329,36,Vorpommern-Greifswald V,1.0,True
 17335,36,Vorpommern-Greifswald V,1.0,True
@@ -216,8 +204,6 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 19300,19,Ludwigslust-Parchim III,1.0,True
 19303,17,Ludwigslust-Parchim I,1.0,True
 19306,19,Ludwigslust-Parchim III,1.0,True
-19309,17,Ludwigslust-Parchim I,1.0,True
-19348,19,Ludwigslust-Parchim III,1.0,True
 19357,19,Ludwigslust-Parchim III,1.0,True
 19370,31,Ludwigslust-Parchim IV,1.0,True
 19372,19,Ludwigslust-Parchim III,0.072392,False
@@ -231,21 +217,7 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 19406,32,Ludwigslust-Parchim V,1.0,True
 19412,32,Ludwigslust-Parchim V,1.0,True
 19417,28,Nordwestmecklenburg II,1.0,True
-21354,17,Ludwigslust-Parchim I,1.0,True
-21483,17,Ludwigslust-Parchim I,1.0,True
-21514,17,Ludwigslust-Parchim I,1.0,True
-21522,17,Ludwigslust-Parchim I,1.0,True
-23562,27,Nordwestmecklenburg I,1.0,True
-23564,27,Nordwestmecklenburg I,1.0,True
-23566,27,Nordwestmecklenburg I,1.0,True
-23568,27,Nordwestmecklenburg I,1.0,True
-23569,27,Nordwestmecklenburg I,1.0,True
 23570,27,Nordwestmecklenburg I,1.0,True
-23627,27,Nordwestmecklenburg I,1.0,True
-23883,17,Ludwigslust-Parchim I,1.0,True
-23899,17,Ludwigslust-Parchim I,1.0,True
-23909,27,Nordwestmecklenburg I,1.0,True
-23911,27,Nordwestmecklenburg I,1.0,True
 23923,27,Nordwestmecklenburg I,1.0,True
 23936,27,Nordwestmecklenburg I,1.0,True
 23942,27,Nordwestmecklenburg I,1.0,True
@@ -263,6 +235,3 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 23992,28,Nordwestmecklenburg II,1.0,True
 23996,28,Nordwestmecklenburg II,1.0,True
 23999,28,Nordwestmecklenburg II,1.0,True
-29472,17,Ludwigslust-Parchim I,1.0,True
-29476,17,Ludwigslust-Parchim I,1.0,True
-29484,17,Ludwigslust-Parchim I,1.0,True

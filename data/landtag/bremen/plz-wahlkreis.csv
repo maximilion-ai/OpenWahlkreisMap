@@ -1,11 +1,13 @@
 plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
-27568,2,Bremerhaven,1.0,True
+27568,1,Bremen,0.437523,False
+27568,2,Bremerhaven,0.562477,True
 27570,2,Bremerhaven,1.0,True
 27572,2,Bremerhaven,1.0,True
 27574,2,Bremerhaven,1.0,True
 27576,2,Bremerhaven,1.0,True
 27578,2,Bremerhaven,1.0,True
-27580,2,Bremerhaven,1.0,True
+27580,1,Bremen,0.030431,False
+27580,2,Bremerhaven,0.969569,True
 28195,1,Bremen,1.0,True
 28197,1,Bremen,1.0,True
 28199,1,Bremen,1.0,True

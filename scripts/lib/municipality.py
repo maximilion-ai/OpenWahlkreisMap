@@ -8,7 +8,7 @@ from pathlib import Path
 import geopandas as gpd
 import pandas as pd
 
-from .geo import TARGET_CRS, OVERLAP_THRESHOLD
+from .geo import TARGET_CRS, determine_primary, drop_slivers
 
 log = logging.getLogger(__name__)
 
@@ -120,37 +120,12 @@ def join_plz_to_wahlkreis(
         log.warning("No matches found in PLZ-AGS to WK join — check AGS format compatibility")
         return {}
 
-    # Aggregate overlaps per PLZ-Wahlkreis pair
-    # (multiple municipalities in the same WK → sum their overlaps)
-    grouped = merged.groupby(["plz", "wk_nr", "wk_name"])["overlap"].sum().reset_index()
-
-    # Renormalize per PLZ so overlaps sum to 1.0
-    totals = grouped.groupby("plz")["overlap"].transform("sum")
-    grouped["overlap"] = grouped.apply(
-        lambda row: round(row["overlap"] / totals[row.name], 6)
-        if totals[row.name] > 0
-        else round(1.0 / (grouped["plz"] == row["plz"]).sum(), 6),
-        axis=1,
-    )
-
-    # Build mapping dict (same format as geo.determine_primary)
-    grouped_sorted = grouped.sort_values(
-        ["plz", "overlap", "wk_nr"], ascending=[True, False, True]
-    )
-
-    mapping = {}
-    for plz, grp in grouped_sorted.groupby("plz", sort=False):
-        wahlkreise = [
-            {"nr": int(r.wk_nr), "name": r.wk_name, "overlap": float(r.overlap)}
-            for r in grp.itertuples(index=False)
-        ]
-        primary = wahlkreise[0]["nr"]
-
-        mapping[plz] = {
-            "wahlkreise": wahlkreise,
-            "primary": primary,
-            "period_id": period_id,
-        }
+    # A municipality split across several WK has no sub-municipal geometry here,
+    # so its share is divided evenly between them. Then sum the shares of all
+    # municipalities a PLZ has in the same WK.
+    merged["overlap"] = merged["overlap"] / merged.groupby(["plz", "ags"])["wk_nr"].transform("count")
+    grouped = merged.groupby(["plz", "wk_nr", "wk_name"], as_index=False)["overlap"].sum()
+    mapping = determine_primary(drop_slivers(grouped, rescue_slivers=False), period_id)
 
     log.info("Municipality join: %d PLZ → %d Wahlkreise", len(mapping),
              len({wk["nr"] for e in mapping.values() for wk in e["wahlkreise"]}))

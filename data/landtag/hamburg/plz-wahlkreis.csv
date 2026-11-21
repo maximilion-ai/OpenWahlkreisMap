@@ -53,14 +53,6 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 21129,17,Süderelbe,0.525944,True
 21147,17,Süderelbe,1.0,True
 21149,17,Süderelbe,1.0,True
-21217,15,Bergedorf,1.0,True
-21218,16,Harburg,1.0,True
-21224,17,Süderelbe,1.0,True
-21423,15,Bergedorf,1.0,True
-21435,15,Bergedorf,1.0,True
-21465,15,Bergedorf,1.0,True
-21629,17,Süderelbe,1.0,True
-21635,17,Süderelbe,1.0,True
 22041,11,Wandsbek,1.0,True
 22043,11,Wandsbek,1.0,True
 22045,11,Wandsbek,1.0,True
@@ -149,18 +141,3 @@ plz,wahlkreis_nr,wahlkreis_name,overlap,is_primary
 22769,3,Altona,0.884174,True
 22769,5,Rotherbaum – Harvestehude – Eimsbüttel-Ost,0.051309,False
 22769,6,Eidelstedt – Stellingen – Eimsbüttel-West,0.064517,False
-22848,7,Lokstedt – Niendorf – Schnelsen,1.0,True
-22850,10,Fuhlsbüttel – Alsterdorf – Langenhorn,1.0,True
-22851,13,Alstertal – Walddörfer,1.0,True
-22869,4,Altona-West,1.0,True
-22880,4,Altona-West,1.0,True
-22885,14,Rahlstedt,1.0,True
-22889,13,Alstertal – Walddörfer,1.0,True
-22926,13,Alstertal – Walddörfer,1.0,True
-22941,13,Alstertal – Walddörfer,1.0,True
-22949,13,Alstertal – Walddörfer,1.0,True
-25421,4,Altona-West,1.0,True
-25462,7,Lokstedt – Niendorf – Schnelsen,1.0,True
-25469,6,Eidelstedt – Stellingen – Eimsbüttel-West,1.0,True
-25474,7,Lokstedt – Niendorf – Schnelsen,1.0,True
-25482,4,Altona-West,1.0,True

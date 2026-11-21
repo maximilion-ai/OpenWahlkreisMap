@@ -4,22 +4,17 @@ parliament: Bürgerschaft
 method: spatial
 period_id: 162
 expected_wk_count: 17
+# WFS responses are not byte-stable, so the resulting mapping is pinned instead.
+mapping_checksum_sha256: "4eab9a3c68f73b648e2690ad9eba16720b53eeb117e85227a48f1fddcd983f26"
 election: Hamburg 2025
-mapping_checksum_sha256: "852c1dac7ade67292e253e63c7e4262b4e0cb4f866c37febd799e5f76755c637"
 sources:
 - LGV Hamburg — Geodienste WFS (dl-de/by-2-0)
 - yetzt/postleitzahlen — PLZ boundary polygons (ODbL)
 download:
-  mode: auto
-  strategy: hamburg_wfs
-  url: "https://geodienste.hamburg.de/HH_WFS_Wahlen?SERVICE=WFS&VERSION=1.1.0&REQUEST=GetFeature&TYPENAME=de.hh.up:buergerschaftswahlkreise&OUTPUTFORMAT=text/xml;%20subtype=gml/3.1.1&SRSNAME=EPSG:25832"
-  checksum_sha256: ""
+  url: "https://geodienste.hamburg.de/HH_WFS_Wahlen?SERVICE=WFS&VERSION=1.1.0&REQUEST=GetFeature&TYPENAME=de.hh.up:buergerschaftswahlkreise&OUTPUTFORMAT=text/xml%3B%20subtype%3Dgml/3.1.1&SRSNAME=EPSG:25832"
   format: gml
   raw_subdir: hamburg
-  source_file: "buergerschaftswahlkreise.gml"
-  expected_files:
-    - "buergerschaftswahlkreise.gml"
-  notes: "Downloads the official Bürgerschaftswahlkreise layer from the LGV Hamburg WFS."
+  filename: "buergerschaftswahlkreise.gml"
 columns:
   wahlkreisnummer: wk_nr
   wahlkreisname: wk_name

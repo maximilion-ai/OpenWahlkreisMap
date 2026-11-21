@@ -3,62 +3,19 @@
     "election": "Thüringen 2024",
     "constituencies": 44,
     "sources": [
-      "Landeswahlleiter Thüringen (public domain)",
+      "Thüringer Landesamt für Statistik — Wahlkreiseinteilung Landtagswahl 2024 (© GDI-Th / Thüringer Landesamt für Statistik)",
       "yetzt/postleitzahlen — PLZ boundary polygons (ODbL)"
     ],
-    "plz_count": 312,
-    "generated": "2026-04-02"
+    "plz_count": 216,
+    "generated": "2026-10-23"
   },
   "data": {
-    "04539": {
-      "wahlkreise": [
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 43,
-      "period_id": 156
-    },
-    "04552": {
-      "wahlkreise": [
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 44,
-      "period_id": 156
-    },
-    "04565": {
-      "wahlkreise": [
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 0.638371
-        },
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 0.361629
-        }
-      ],
-      "primary": 43,
-      "period_id": 156
-    },
     "04600": {
       "wahlkreise": [
         {
           "nr": 44,
           "name": "Altenburger Land II",
-          "overlap": 0.998415
-        },
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 0.001585
+          "overlap": 1.0
         }
       ],
       "primary": 44,
@@ -69,12 +26,12 @@
         {
           "nr": 44,
           "name": "Altenburger Land II",
-          "overlap": 0.932199
+          "overlap": 0.933403
         },
         {
           "nr": 43,
           "name": "Altenburger Land I",
-          "overlap": 0.067801
+          "overlap": 0.066597
         }
       ],
       "primary": 44,
@@ -85,12 +42,7 @@
         {
           "nr": 43,
           "name": "Altenburger Land I",
-          "overlap": 0.998441
-        },
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 0.001559
+          "overlap": 1.0
         }
       ],
       "primary": 43,
@@ -112,12 +64,12 @@
         {
           "nr": 43,
           "name": "Altenburger Land I",
-          "overlap": 0.716256
+          "overlap": 0.716339
         },
         {
           "nr": 44,
           "name": "Altenburger Land II",
-          "overlap": 0.283744
+          "overlap": 0.283661
         }
       ],
       "primary": 43,
@@ -139,17 +91,7 @@
         {
           "nr": 43,
           "name": "Altenburger Land I",
-          "overlap": 0.998237
-        },
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 0.000984
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.000779
+          "overlap": 1.0
         }
       ],
       "primary": 43,
@@ -160,94 +102,13 @@
         {
           "nr": 43,
           "name": "Altenburger Land I",
-          "overlap": 0.996722
-        },
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 0.003278
+          "overlap": 1.0
         }
       ],
       "primary": 43,
       "period_id": 156
     },
-    "04654": {
-      "wahlkreise": [
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 44,
-      "period_id": 156
-    },
-    "06268": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 11,
-      "period_id": 156
-    },
-    "06493": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
-    "06528": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 11,
-      "period_id": 156
-    },
-    "06536": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.601493
-        },
-        {
-          "nr": 4,
-          "name": "Nordhausen II",
-          "overlap": 0.398507
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
     "06537": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 0.999935
-        },
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 6.5e-05
-        }
-      ],
-      "primary": 11,
-      "period_id": 156
-    },
-    "06542": {
       "wahlkreise": [
         {
           "nr": 11,
@@ -274,12 +135,7 @@
         {
           "nr": 11,
           "name": "Kyffhäuserkreis II",
-          "overlap": 0.999419
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.000581
+          "overlap": 1.0
         }
       ],
       "primary": 11,
@@ -290,12 +146,7 @@
         {
           "nr": 11,
           "name": "Kyffhäuserkreis II",
-          "overlap": 0.998027
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.001973
+          "overlap": 1.0
         }
       ],
       "primary": 11,
@@ -306,154 +157,10 @@
         {
           "nr": 11,
           "name": "Kyffhäuserkreis II",
-          "overlap": 0.995097
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.004903
-        }
-      ],
-      "primary": 11,
-      "period_id": 156
-    },
-    "06618": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 36,
-      "period_id": 156
-    },
-    "06628": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.86608
-        },
-        {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.13392
-        }
-      ],
-      "primary": 31,
-      "period_id": 156
-    },
-    "06642": {
-      "wahlkreise": [
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
           "overlap": 1.0
         }
       ],
       "primary": 11,
-      "period_id": 156
-    },
-    "06647": {
-      "wahlkreise": [
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.748078
-        },
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 0.251922
-        }
-      ],
-      "primary": 17,
-      "period_id": 156
-    },
-    "06648": {
-      "wahlkreise": [
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.834888
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.165112
-        }
-      ],
-      "primary": 31,
-      "period_id": 156
-    },
-    "06712": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.326517
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.231461
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.231461
-        },
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 0.210562
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "06721": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 36,
-      "period_id": 156
-    },
-    "06722": {
-      "wahlkreise": [
-        {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.439257
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.280372
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.280372
-        }
-      ],
-      "primary": 36,
-      "period_id": 156
-    },
-    "06729": {
-      "wahlkreise": [
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 43,
       "period_id": 156
     },
     "07318": {
@@ -461,17 +168,7 @@
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.988709
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.008501
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.00279
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -482,12 +179,7 @@
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.999635
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.000365
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -498,22 +190,7 @@
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.995733
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.002331
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.001697
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.000239
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -524,17 +201,7 @@
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.997196
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.001892
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.000912
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -545,12 +212,7 @@
         {
           "nr": 33,
           "name": "Saale-Orla-Kreis I",
-          "overlap": 0.99177
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.00823
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -561,12 +223,7 @@
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.99683
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.00317
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -599,17 +256,7 @@
         {
           "nr": 33,
           "name": "Saale-Orla-Kreis I",
-          "overlap": 0.996635
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.002403
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.000962
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -620,27 +267,7 @@
         {
           "nr": 34,
           "name": "Saale-Orla-Kreis II",
-          "overlap": 0.996925
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.00159
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.001166
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.000306
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 1.2e-05
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -651,17 +278,7 @@
         {
           "nr": 34,
           "name": "Saale-Orla-Kreis II",
-          "overlap": 0.993408
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.003754
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.002838
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -672,12 +289,7 @@
         {
           "nr": 34,
           "name": "Saale-Orla-Kreis II",
-          "overlap": 0.994818
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.005182
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -688,32 +300,12 @@
         {
           "nr": 28,
           "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.524585
+          "overlap": 0.526296
         },
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.472056
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.00165
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.000685
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.000652
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.000372
+          "overlap": 0.473704
         }
       ],
       "primary": 28,
@@ -724,12 +316,12 @@
         {
           "nr": 28,
           "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.987123
+          "overlap": 0.986778
         },
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.012877
+          "overlap": 0.013222
         }
       ],
       "primary": 28,
@@ -740,17 +332,7 @@
         {
           "nr": 28,
           "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.994532
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.002939
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.002529
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -761,12 +343,12 @@
         {
           "nr": 28,
           "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.982253
+          "overlap": 0.982037
         },
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.017747
+          "overlap": 0.017963
         }
       ],
       "primary": 28,
@@ -777,12 +359,7 @@
         {
           "nr": 28,
           "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.996071
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.003929
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -793,12 +370,12 @@
         {
           "nr": 41,
           "name": "Gera I",
-          "overlap": 0.5
+          "overlap": 0.927582
         },
         {
           "nr": 42,
           "name": "Gera II",
-          "overlap": 0.5
+          "overlap": 0.072418
         }
       ],
       "primary": 41,
@@ -809,12 +386,12 @@
         {
           "nr": 41,
           "name": "Gera I",
-          "overlap": 0.5
+          "overlap": 0.898307
         },
         {
           "nr": 42,
           "name": "Gera II",
-          "overlap": 0.5
+          "overlap": 0.101693
         }
       ],
       "primary": 41,
@@ -825,17 +402,12 @@
         {
           "nr": 41,
           "name": "Gera I",
-          "overlap": 0.499186
+          "overlap": 0.709475
         },
         {
           "nr": 42,
           "name": "Gera II",
-          "overlap": 0.499186
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.001627
+          "overlap": 0.290525
         }
       ],
       "primary": 41,
@@ -844,48 +416,23 @@
     "07549": {
       "wahlkreise": [
         {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.499078
-        },
-        {
           "nr": 42,
           "name": "Gera II",
-          "overlap": 0.499078
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.000929
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.000915
+          "overlap": 1.0
         }
       ],
-      "primary": 41,
+      "primary": 42,
       "period_id": 156
     },
     "07551": {
       "wahlkreise": [
         {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.496052
-        },
-        {
           "nr": 42,
           "name": "Gera II",
-          "overlap": 0.496052
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.007895
+          "overlap": 1.0
         }
       ],
-      "primary": 41,
+      "primary": 42,
       "period_id": 156
     },
     "07552": {
@@ -893,17 +440,7 @@
         {
           "nr": 41,
           "name": "Gera I",
-          "overlap": 0.499229
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.499229
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.001543
+          "overlap": 1.0
         }
       ],
       "primary": 41,
@@ -914,27 +451,17 @@
         {
           "nr": 41,
           "name": "Gera I",
-          "overlap": 0.39244
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.39244
+          "overlap": 0.545931
         },
         {
           "nr": 40,
           "name": "Greiz II",
-          "overlap": 0.214698
+          "overlap": 0.40033
         },
         {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.000256
-        },
-        {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.000166
+          "nr": 42,
+          "name": "Gera II",
+          "overlap": 0.053738
         }
       ],
       "primary": 41,
@@ -945,22 +472,12 @@
         {
           "nr": 39,
           "name": "Greiz I",
-          "overlap": 0.700133
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.148946
+          "overlap": 0.823373
         },
         {
           "nr": 42,
           "name": "Gera II",
-          "overlap": 0.148946
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.001974
+          "overlap": 0.176627
         }
       ],
       "primary": 39,
@@ -971,17 +488,12 @@
         {
           "nr": 39,
           "name": "Greiz I",
-          "overlap": 0.912222
+          "overlap": 0.914402
         },
         {
           "nr": 40,
           "name": "Greiz II",
-          "overlap": 0.086056
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.001722
+          "overlap": 0.085598
         }
       ],
       "primary": 39,
@@ -992,22 +504,7 @@
         {
           "nr": 40,
           "name": "Greiz II",
-          "overlap": 0.995939
-        },
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 0.003206
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.000428
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.000428
+          "overlap": 1.0
         }
       ],
       "primary": 40,
@@ -1018,27 +515,7 @@
         {
           "nr": 39,
           "name": "Greiz I",
-          "overlap": 0.984195
-        },
-        {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.00571
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.00362
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.00362
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.002855
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -1049,27 +526,7 @@
         {
           "nr": 39,
           "name": "Greiz I",
-          "overlap": 0.992849
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.003972
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.001247
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.001247
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.000684
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -1091,22 +548,7 @@
         {
           "nr": 36,
           "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.998861
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.000732
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.000203
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.000203
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1139,17 +581,12 @@
         {
           "nr": 35,
           "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.982133
+          "overlap": 0.988702
         },
         {
           "nr": 36,
           "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.015537
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.00233
+          "overlap": 0.011298
         }
       ],
       "primary": 35,
@@ -1160,17 +597,7 @@
         {
           "nr": 36,
           "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.993569
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.005216
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.001215
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1181,32 +608,12 @@
         {
           "nr": 35,
           "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.802193
+          "overlap": 0.810048
         },
         {
           "nr": 36,
           "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.195289
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.001236
-        },
-        {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.000458
-        },
-        {
-          "nr": 38,
-          "name": "Jena II",
-          "overlap": 0.000458
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.000366
+          "overlap": 0.189952
         }
       ],
       "primary": 35,
@@ -1215,22 +622,17 @@
     "07743": {
       "wahlkreise": [
         {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.499317
-        },
-        {
           "nr": 38,
           "name": "Jena II",
-          "overlap": 0.499317
+          "overlap": 0.506985
         },
         {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.001365
+          "nr": 37,
+          "name": "Jena I",
+          "overlap": 0.493015
         }
       ],
-      "primary": 37,
+      "primary": 38,
       "period_id": 156
     },
     "07745": {
@@ -1238,22 +640,12 @@
         {
           "nr": 37,
           "name": "Jena I",
-          "overlap": 0.499245
+          "overlap": 0.955512
         },
         {
           "nr": 38,
           "name": "Jena II",
-          "overlap": 0.499245
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.001476
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 3.3e-05
+          "overlap": 0.044488
         }
       ],
       "primary": 37,
@@ -1262,38 +654,28 @@
     "07747": {
       "wahlkreise": [
         {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.496613
-        },
-        {
           "nr": 38,
           "name": "Jena II",
-          "overlap": 0.496613
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.006773
+          "overlap": 1.0
         }
       ],
-      "primary": 37,
+      "primary": 38,
       "period_id": 156
     },
     "07749": {
       "wahlkreise": [
         {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.5
-        },
-        {
           "nr": 38,
           "name": "Jena II",
-          "overlap": 0.5
+          "overlap": 0.939502
+        },
+        {
+          "nr": 37,
+          "name": "Jena I",
+          "overlap": 0.060498
         }
       ],
-      "primary": 37,
+      "primary": 38,
       "period_id": 156
     },
     "07751": {
@@ -1301,32 +683,22 @@
         {
           "nr": 35,
           "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.333692
+          "overlap": 0.464058
         },
         {
           "nr": 37,
           "name": "Jena I",
-          "overlap": 0.279317
+          "overlap": 0.238731
         },
         {
           "nr": 38,
           "name": "Jena II",
-          "overlap": 0.279317
+          "overlap": 0.149467
         },
         {
           "nr": 36,
           "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.106474
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.001129
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 7.1e-05
+          "overlap": 0.147744
         }
       ],
       "primary": 35,
@@ -1337,27 +709,7 @@
         {
           "nr": 35,
           "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.995786
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.002465
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.001749
-        },
-        {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.0
-        },
-        {
-          "nr": 38,
-          "name": "Jena II",
-          "overlap": 0.0
+          "overlap": 1.0
         }
       ],
       "primary": 35,
@@ -1368,12 +720,7 @@
         {
           "nr": 36,
           "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.99633
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.00367
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1384,22 +731,7 @@
         {
           "nr": 36,
           "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.997028
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.001246
-        },
-        {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.000863
-        },
-        {
-          "nr": 38,
-          "name": "Jena II",
-          "overlap": 0.000863
+          "overlap": 1.0
         }
       ],
       "primary": 36,
@@ -1410,17 +742,7 @@
         {
           "nr": 34,
           "name": "Saale-Orla-Kreis II",
-          "overlap": 0.996849
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.00211
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.00104
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -1431,22 +753,7 @@
         {
           "nr": 34,
           "name": "Saale-Orla-Kreis II",
-          "overlap": 0.995912
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.003123
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.000714
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.000251
+          "overlap": 1.0
         }
       ],
       "primary": 34,
@@ -1457,17 +764,7 @@
         {
           "nr": 33,
           "name": "Saale-Orla-Kreis I",
-          "overlap": 0.998198
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.001202
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.0006
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -1478,12 +775,7 @@
         {
           "nr": 33,
           "name": "Saale-Orla-Kreis I",
-          "overlap": 0.986372
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.013628
+          "overlap": 1.0
         }
       ],
       "primary": 33,
@@ -1505,12 +797,12 @@
         {
           "nr": 34,
           "name": "Saale-Orla-Kreis II",
-          "overlap": 0.575051
+          "overlap": 0.574985
         },
         {
           "nr": 33,
           "name": "Saale-Orla-Kreis I",
-          "overlap": 0.424949
+          "overlap": 0.425015
         }
       ],
       "primary": 34,
@@ -1554,17 +846,7 @@
         {
           "nr": 39,
           "name": "Greiz I",
-          "overlap": 0.997462
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.001723
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.000815
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -1581,38 +863,12 @@
       "primary": 39,
       "period_id": 156
     },
-    "07952": {
-      "wahlkreise": [
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.868763
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.131237
-        }
-      ],
-      "primary": 39,
-      "period_id": 156
-    },
     "07955": {
       "wahlkreise": [
         {
           "nr": 39,
           "name": "Greiz I",
-          "overlap": 0.99615
-        },
-        {
-          "nr": 34,
-          "name": "Saale-Orla-Kreis II",
-          "overlap": 0.001938
-        },
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.001912
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -1623,12 +879,7 @@
         {
           "nr": 39,
           "name": "Greiz I",
-          "overlap": 0.994476
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.005524
+          "overlap": 1.0
         }
       ],
       "primary": 39,
@@ -1650,44 +901,13 @@
         {
           "nr": 40,
           "name": "Greiz II",
-          "overlap": 0.995749
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.004251
+          "overlap": 1.0
         }
       ],
       "primary": 40,
       "period_id": 156
     },
     "07980": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.995024
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.003168
-        },
-        {
-          "nr": 41,
-          "name": "Gera I",
-          "overlap": 0.000904
-        },
-        {
-          "nr": 42,
-          "name": "Gera II",
-          "overlap": 0.000904
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "07985": {
       "wahlkreise": [
         {
           "nr": 40,
@@ -1709,355 +929,12 @@
       "primary": 40,
       "period_id": 156
     },
-    "08393": {
-      "wahlkreise": [
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 0.868263
-        },
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 0.131737
-        }
-      ],
-      "primary": 43,
-      "period_id": 156
-    },
-    "08396": {
-      "wahlkreise": [
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 44,
-      "period_id": 156
-    },
-    "08412": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08427": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08428": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08451": {
-      "wahlkreise": [
-        {
-          "nr": 43,
-          "name": "Altenburger Land I",
-          "overlap": 0.845609
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.154391
-        }
-      ],
-      "primary": 43,
-      "period_id": 156
-    },
-    "08468": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08491": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08496": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08499": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08538": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "08539": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.627899
-        },
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.372101
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "08543": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08547": {
-      "wahlkreise": [
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 40,
-      "period_id": 156
-    },
-    "08548": {
-      "wahlkreise": [
-        {
-          "nr": 39,
-          "name": "Greiz I",
-          "overlap": 0.874304
-        },
-        {
-          "nr": 40,
-          "name": "Greiz II",
-          "overlap": 0.125696
-        }
-      ],
-      "primary": 39,
-      "period_id": 156
-    },
-    "09212": {
-      "wahlkreise": [
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 44,
-      "period_id": 156
-    },
-    "09322": {
-      "wahlkreise": [
-        {
-          "nr": 44,
-          "name": "Altenburger Land II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 44,
-      "period_id": 156
-    },
-    "36115": {
-      "wahlkreise": [
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 12,
-      "period_id": 156
-    },
-    "36132": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
-      "period_id": 156
-    },
-    "36142": {
-      "wahlkreise": [
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.6085
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.3915
-        }
-      ],
-      "primary": 12,
-      "period_id": 156
-    },
-    "36145": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
-      "period_id": 156
-    },
-    "36167": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
-      "period_id": 156
-    },
-    "36169": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
-      "period_id": 156
-    },
-    "36205": {
-      "wahlkreise": [
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 6,
-      "period_id": 156
-    },
-    "36208": {
-      "wahlkreise": [
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 6,
-      "period_id": 156
-    },
-    "36266": {
-      "wahlkreise": [
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.988186
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.011814
-        }
-      ],
-      "primary": 6,
-      "period_id": 156
-    },
-    "36269": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
-      "period_id": 156
-    },
-    "36284": {
-      "wahlkreise": [
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 5,
-      "period_id": 156
-    },
     "36404": {
       "wahlkreise": [
         {
           "nr": 5,
           "name": "Wartburgkreis I",
-          "overlap": 0.999956
-        },
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 4.4e-05
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2079,12 +956,7 @@
         {
           "nr": 5,
           "name": "Wartburgkreis I",
-          "overlap": 0.999943
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 5.7e-05
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2095,22 +967,7 @@
         {
           "nr": 5,
           "name": "Wartburgkreis I",
-          "overlap": 0.98571
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.009038
-        },
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.004034
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.001218
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2121,22 +978,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.996222
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.002414
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.000917
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.000447
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -2147,12 +989,12 @@
         {
           "nr": 12,
           "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.946378
+          "overlap": 0.946589
         },
         {
           "nr": 5,
           "name": "Wartburgkreis I",
-          "overlap": 0.053622
+          "overlap": 0.053411
         }
       ],
       "primary": 12,
@@ -2163,17 +1005,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.991202
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.006984
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.001814
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -2206,17 +1038,7 @@
         {
           "nr": 5,
           "name": "Wartburgkreis I",
-          "overlap": 0.996986
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.001989
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.001025
+          "overlap": 1.0
         }
       ],
       "primary": 5,
@@ -2227,167 +1049,15 @@
         {
           "nr": 5,
           "name": "Wartburgkreis I",
-          "overlap": 0.986847
+          "overlap": 0.985943
         },
         {
           "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.013153
+          "name": "Wartburgkreis II/Eisenach",
+          "overlap": 0.014057
         }
       ],
       "primary": 5,
-      "period_id": 156
-    },
-    "37115": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 0.600616
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.399384
-        }
-      ],
-      "primary": 1,
-      "period_id": 156
-    },
-    "37130": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 156
-    },
-    "37133": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 156
-    },
-    "37214": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 156
-    },
-    "37242": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 156
-    },
-    "37249": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 156
-    },
-    "37269": {
-      "wahlkreise": [
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 7,
-      "period_id": 156
-    },
-    "37276": {
-      "wahlkreise": [
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 1,
-      "period_id": 156
-    },
-    "37281": {
-      "wahlkreise": [
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.567362
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.368298
-        },
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 0.06434
-        }
-      ],
-      "primary": 7,
-      "period_id": 156
-    },
-    "37293": {
-      "wahlkreise": [
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.791776
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.208224
-        }
-      ],
-      "primary": 6,
-      "period_id": 156
-    },
-    "37296": {
-      "wahlkreise": [
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 7,
-      "period_id": 156
-    },
-    "37299": {
-      "wahlkreise": [
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 7,
       "period_id": 156
     },
     "37308": {
@@ -2395,17 +1065,7 @@
         {
           "nr": 1,
           "name": "Eichsfeld I",
-          "overlap": 0.998222
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.001067
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.000712
+          "overlap": 1.0
         }
       ],
       "primary": 1,
@@ -2427,17 +1087,12 @@
         {
           "nr": 2,
           "name": "Eichsfeld II",
-          "overlap": 0.832848
+          "overlap": 0.839832
         },
         {
           "nr": 1,
           "name": "Eichsfeld I",
-          "overlap": 0.158457
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.008695
+          "overlap": 0.160168
         }
       ],
       "primary": 2,
@@ -2448,17 +1103,12 @@
         {
           "nr": 2,
           "name": "Eichsfeld II",
-          "overlap": 0.646465
+          "overlap": 0.647278
         },
         {
           "nr": 1,
           "name": "Eichsfeld I",
-          "overlap": 0.352367
-        },
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.001168
+          "overlap": 0.352722
         }
       ],
       "primary": 2,
@@ -2469,17 +1119,7 @@
         {
           "nr": 2,
           "name": "Eichsfeld II",
-          "overlap": 0.996241
-        },
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.002498
-        },
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 0.001261
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -2490,17 +1130,12 @@
         {
           "nr": 2,
           "name": "Eichsfeld II",
-          "overlap": 0.500408
+          "overlap": 0.906231
         },
         {
           "nr": 8,
           "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.498533
-        },
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 0.001059
+          "overlap": 0.093769
         }
       ],
       "primary": 2,
@@ -2511,22 +1146,7 @@
         {
           "nr": 2,
           "name": "Eichsfeld II",
-          "overlap": 0.988657
-        },
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.007425
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.003722
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.000196
+          "overlap": 1.0
         }
       ],
       "primary": 2,
@@ -2537,375 +1157,15 @@
         {
           "nr": 2,
           "name": "Eichsfeld II",
-          "overlap": 0.985756
+          "overlap": 0.98876
         },
         {
           "nr": 1,
           "name": "Eichsfeld I",
-          "overlap": 0.00916
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.005083
+          "overlap": 0.01124
         }
       ],
       "primary": 2,
-      "period_id": 156
-    },
-    "37412": {
-      "wahlkreise": [
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 2,
-      "period_id": 156
-    },
-    "37431": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.712766
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.287234
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
-    "37441": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
-    "37445": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
-    "38700": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
-    "38877": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
-    "38899": {
-      "wahlkreise": [
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 3,
-      "period_id": 156
-    },
-    "95138": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "95180": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "95183": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "95188": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "95189": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "95192": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "96126": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "96145": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "96242": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 19,
-      "period_id": 156
-    },
-    "96268": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 19,
-      "period_id": 156
-    },
-    "96332": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 19,
-      "period_id": 156
-    },
-    "96337": {
-      "wahlkreise": [
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 29,
-      "period_id": 156
-    },
-    "96342": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 19,
-      "period_id": 156
-    },
-    "96355": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 0.657328
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.342672
-        }
-      ],
-      "primary": 19,
-      "period_id": 156
-    },
-    "96358": {
-      "wahlkreise": [
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 29,
-      "period_id": 156
-    },
-    "96365": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "96367": {
-      "wahlkreise": [
-        {
-          "nr": 33,
-          "name": "Saale-Orla-Kreis I",
-          "overlap": 0.69237
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.30763
-        }
-      ],
-      "primary": 33,
-      "period_id": 156
-    },
-    "96465": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 19,
-      "period_id": 156
-    },
-    "96472": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 19,
-      "period_id": 156
-    },
-    "96476": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.962385
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.037615
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "96479": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "96484": {
-      "wahlkreise": [
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 20,
-      "period_id": 156
-    },
-    "96486": {
-      "wahlkreise": [
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 0.696254
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.303746
-        }
-      ],
-      "primary": 19,
       "period_id": 156
     },
     "96515": {
@@ -2913,17 +1173,7 @@
         {
           "nr": 19,
           "name": "Sonneberg I",
-          "overlap": 0.996101
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.002367
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.001532
+          "overlap": 1.0
         }
       ],
       "primary": 19,
@@ -2934,12 +1184,12 @@
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.982295
+          "overlap": 0.985353
         },
         {
           "nr": 19,
           "name": "Sonneberg I",
-          "overlap": 0.017705
+          "overlap": 0.014647
         }
       ],
       "primary": 20,
@@ -2961,86 +1211,10 @@
         {
           "nr": 19,
           "name": "Sonneberg I",
-          "overlap": 0.995991
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.004009
+          "overlap": 1.0
         }
       ],
       "primary": 19,
-      "period_id": 156
-    },
-    "97528": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "97633": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "97638": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.527378
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.472622
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "97640": {
-      "wahlkreise": [
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 18,
-      "period_id": 156
-    },
-    "97647": {
-      "wahlkreise": [
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 12,
-      "period_id": 156
-    },
-    "97650": {
-      "wahlkreise": [
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 1.0
-        }
-      ],
-      "primary": 12,
       "period_id": 156
     },
     "98527": {
@@ -3048,12 +1222,12 @@
         {
           "nr": 21,
           "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.94006
+          "overlap": 0.942736
         },
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.05994
+          "overlap": 0.057264
         }
       ],
       "primary": 21,
@@ -3064,22 +1238,7 @@
         {
           "nr": 21,
           "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.99582
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.002362
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.000953
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.000865
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -3090,22 +1249,7 @@
         {
           "nr": 21,
           "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.997469
-        },
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.001395
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.001068
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 6.8e-05
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -3116,17 +1260,12 @@
         {
           "nr": 18,
           "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.553421
+          "overlap": 0.55426
         },
         {
           "nr": 12,
           "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.44472
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.001859
+          "overlap": 0.44574
         }
       ],
       "primary": 18,
@@ -3137,17 +1276,7 @@
         {
           "nr": 21,
           "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.997551
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.002034
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.000415
+          "overlap": 1.0
         }
       ],
       "primary": 21,
@@ -3158,17 +1287,7 @@
         {
           "nr": 12,
           "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.99524
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.003371
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.001389
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -3179,22 +1298,12 @@
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.895298
+          "overlap": 0.90068
         },
         {
           "nr": 18,
           "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.09936
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.003768
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.001574
+          "overlap": 0.09932
         }
       ],
       "primary": 20,
@@ -3205,22 +1314,12 @@
         {
           "nr": 21,
           "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.991937
+          "overlap": 0.989801
         },
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.004932
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.001876
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.001255
+          "overlap": 0.010199
         }
       ],
       "primary": 21,
@@ -3231,12 +1330,7 @@
         {
           "nr": 13,
           "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.998389
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.001611
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -3247,22 +1341,7 @@
         {
           "nr": 13,
           "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.995863
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.002034
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.001801
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.000302
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -3273,17 +1352,12 @@
         {
           "nr": 12,
           "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.597814
+          "overlap": 0.59757
         },
         {
           "nr": 13,
           "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.401097
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.001089
+          "overlap": 0.40243
         }
       ],
       "primary": 12,
@@ -3294,12 +1368,7 @@
         {
           "nr": 13,
           "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.995066
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.004934
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -3310,17 +1379,12 @@
         {
           "nr": 13,
           "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.985714
+          "overlap": 0.987834
         },
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.012727
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.001559
+          "overlap": 0.012166
         }
       ],
       "primary": 13,
@@ -3331,17 +1395,7 @@
         {
           "nr": 13,
           "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.997301
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.001699
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.001
+          "overlap": 1.0
         }
       ],
       "primary": 13,
@@ -3352,12 +1406,7 @@
         {
           "nr": 12,
           "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.998774
-        },
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.001226
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -3379,12 +1428,7 @@
         {
           "nr": 18,
           "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.998364
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.001636
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -3395,12 +1439,7 @@
         {
           "nr": 12,
           "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.999952
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 4.8e-05
+          "overlap": 1.0
         }
       ],
       "primary": 12,
@@ -3422,12 +1461,7 @@
         {
           "nr": 18,
           "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.999677
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.000323
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -3438,17 +1472,7 @@
         {
           "nr": 18,
           "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.996846
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.002827
-        },
-        {
-          "nr": 12,
-          "name": "Schmalkalden-Meiningen I",
-          "overlap": 0.000327
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -3470,17 +1494,7 @@
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.999161
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.000657
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.000182
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -3491,12 +1505,7 @@
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.987661
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.012339
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -3507,12 +1516,7 @@
         {
           "nr": 18,
           "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.996187
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.003813
+          "overlap": 1.0
         }
       ],
       "primary": 18,
@@ -3523,17 +1527,7 @@
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.992645
-        },
-        {
-          "nr": 18,
-          "name": "Hildburghausen I/Schmalkalden-Meiningen III",
-          "overlap": 0.005648
-        },
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 0.001707
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -3544,22 +1538,7 @@
         {
           "nr": 22,
           "name": "Ilm-Kreis I",
-          "overlap": 0.997153
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.002021
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.000734
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 9.2e-05
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -3570,22 +1549,7 @@
         {
           "nr": 22,
           "name": "Ilm-Kreis I",
-          "overlap": 0.991055
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.004867
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.003149
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.000929
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -3596,17 +1560,7 @@
         {
           "nr": 22,
           "name": "Ilm-Kreis I",
-          "overlap": 0.985841
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.008369
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.00579
+          "overlap": 1.0
         }
       ],
       "primary": 22,
@@ -3617,17 +1571,12 @@
         {
           "nr": 22,
           "name": "Ilm-Kreis I",
-          "overlap": 0.960732
+          "overlap": 0.958847
         },
         {
           "nr": 23,
           "name": "Ilm-Kreis II",
-          "overlap": 0.037775
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.001493
+          "overlap": 0.041153
         }
       ],
       "primary": 22,
@@ -3638,22 +1587,7 @@
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.995157
-        },
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 0.002947
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.001429
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.000467
+          "overlap": 1.0
         }
       ],
       "primary": 20,
@@ -3664,17 +1598,7 @@
         {
           "nr": 29,
           "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.990423
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.00747
-        },
-        {
-          "nr": 19,
-          "name": "Sonneberg I",
-          "overlap": 0.002107
+          "overlap": 1.0
         }
       ],
       "primary": 29,
@@ -3685,22 +1609,7 @@
         {
           "nr": 28,
           "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.996191
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.001928
-        },
-        {
-          "nr": 20,
-          "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.001101
-        },
-        {
-          "nr": 29,
-          "name": "Saalfeld-Rudolstadt II",
-          "overlap": 0.00078
+          "overlap": 1.0
         }
       ],
       "primary": 28,
@@ -3711,17 +1620,12 @@
         {
           "nr": 28,
           "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.601204
+          "overlap": 0.604326
         },
         {
           "nr": 20,
           "name": "Hildburghausen II/Sonneberg II",
-          "overlap": 0.394986
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.00381
+          "overlap": 0.395674
         }
       ],
       "primary": 28,
@@ -3730,79 +1634,54 @@
     "99084": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.25
+          "nr": 26,
+          "name": "Erfurt III",
+          "overlap": 0.809871
         },
         {
           "nr": 25,
           "name": "Erfurt II",
-          "overlap": 0.25
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.25
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.25
+          "overlap": 0.190129
         }
       ],
-      "primary": 24,
+      "primary": 26,
       "period_id": 156
     },
     "99085": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.25
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.25
-        },
-        {
           "nr": 26,
           "name": "Erfurt III",
-          "overlap": 0.25
+          "overlap": 0.651155
         },
         {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.25
+          "nr": 24,
+          "name": "Erfurt I",
+          "overlap": 0.348845
         }
       ],
-      "primary": 24,
+      "primary": 26,
       "period_id": 156
     },
     "99086": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.25
-        },
-        {
           "nr": 25,
           "name": "Erfurt II",
-          "overlap": 0.25
+          "overlap": 0.619241
         },
         {
           "nr": 26,
           "name": "Erfurt III",
-          "overlap": 0.25
+          "overlap": 0.242492
         },
         {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.25
+          "nr": 24,
+          "name": "Erfurt I",
+          "overlap": 0.138267
         }
       ],
-      "primary": 24,
+      "primary": 25,
       "period_id": 156
     },
     "99087": {
@@ -3810,22 +1689,7 @@
         {
           "nr": 24,
           "name": "Erfurt I",
-          "overlap": 0.25
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.25
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.25
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.25
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -3834,27 +1698,17 @@
     "99089": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.25
-        },
-        {
           "nr": 25,
           "name": "Erfurt II",
-          "overlap": 0.25
+          "overlap": 0.805832
         },
         {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.25
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.25
+          "nr": 24,
+          "name": "Erfurt I",
+          "overlap": 0.194168
         }
       ],
-      "primary": 24,
+      "primary": 25,
       "period_id": 156
     },
     "99090": {
@@ -3862,27 +1716,7 @@
         {
           "nr": 24,
           "name": "Erfurt I",
-          "overlap": 0.249753
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.249753
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.249753
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.249753
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000989
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -3893,22 +1727,12 @@
         {
           "nr": 24,
           "name": "Erfurt I",
-          "overlap": 0.25
+          "overlap": 0.947479
         },
         {
           "nr": 25,
           "name": "Erfurt II",
-          "overlap": 0.25
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.25
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.25
+          "overlap": 0.052521
         }
       ],
       "primary": 24,
@@ -3917,68 +1741,38 @@
     "99092": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.249868
-        },
-        {
           "nr": 25,
           "name": "Erfurt II",
-          "overlap": 0.249868
+          "overlap": 0.911375
         },
         {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.249868
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.249868
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.00053
+          "nr": 24,
+          "name": "Erfurt I",
+          "overlap": 0.088625
         }
       ],
-      "primary": 24,
+      "primary": 25,
       "period_id": 156
     },
     "99094": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.24963
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.24963
-        },
-        {
           "nr": 26,
           "name": "Erfurt III",
-          "overlap": 0.24963
+          "overlap": 0.717493
         },
         {
           "nr": 27,
           "name": "Erfurt IV",
-          "overlap": 0.24963
+          "overlap": 0.202173
         },
         {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.000891
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000589
+          "nr": 25,
+          "name": "Erfurt II",
+          "overlap": 0.080334
         }
       ],
-      "primary": 24,
+      "primary": 26,
       "period_id": 156
     },
     "99095": {
@@ -3986,32 +1780,7 @@
         {
           "nr": 24,
           "name": "Erfurt I",
-          "overlap": 0.249681
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.249681
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.249681
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.249681
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.00103
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000247
+          "overlap": 1.0
         }
       ],
       "primary": 24,
@@ -4020,63 +1789,28 @@
     "99096": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.25
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.25
-        },
-        {
           "nr": 26,
           "name": "Erfurt III",
-          "overlap": 0.25
+          "overlap": 0.916291
         },
         {
           "nr": 27,
           "name": "Erfurt IV",
-          "overlap": 0.25
+          "overlap": 0.083709
         }
       ],
-      "primary": 24,
+      "primary": 26,
       "period_id": 156
     },
     "99097": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.249263
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.249263
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.249263
-        },
-        {
           "nr": 27,
           "name": "Erfurt IV",
-          "overlap": 0.249263
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.002303
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.000645
+          "overlap": 1.0
         }
       ],
-      "primary": 24,
+      "primary": 27,
       "period_id": 156
     },
     "99098": {
@@ -4084,32 +1818,12 @@
         {
           "nr": 24,
           "name": "Erfurt I",
-          "overlap": 0.249776
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.249776
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.249776
+          "overlap": 0.794141
         },
         {
           "nr": 27,
           "name": "Erfurt IV",
-          "overlap": 0.249776
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.000625
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.000273
+          "overlap": 0.205859
         }
       ],
       "primary": 24,
@@ -4118,32 +1832,12 @@
     "99099": {
       "wahlkreise": [
         {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.24948
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.24948
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.24948
-        },
-        {
           "nr": 27,
           "name": "Erfurt IV",
-          "overlap": 0.24948
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.00208
+          "overlap": 1.0
         }
       ],
-      "primary": 24,
+      "primary": 27,
       "period_id": 156
     },
     "99100": {
@@ -4151,32 +1845,7 @@
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.992371
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.001795
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.001795
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.001795
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.001795
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.000448
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -4187,32 +1856,7 @@
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.991928
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.001748
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.001748
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.001748
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.001748
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.001081
+          "overlap": 1.0
         }
       ],
       "primary": 30,
@@ -4223,37 +1867,7 @@
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.989672
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.002323
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.002323
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.002323
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.002323
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.000684
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.000353
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -4264,32 +1878,7 @@
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.982242
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.003609
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.003537
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.003537
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.003537
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.003537
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -4300,37 +1889,12 @@
         {
           "nr": 17,
           "name": "Sömmerda II",
-          "overlap": 0.849441
+          "overlap": 0.859296
         },
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.139778
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.00251
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.00251
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.00251
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.00251
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.00074
+          "overlap": 0.140704
         }
       ],
       "primary": 17,
@@ -4341,32 +1905,7 @@
         {
           "nr": 17,
           "name": "Sömmerda II",
-          "overlap": 0.977435
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.005169
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.005169
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.005169
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.005169
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.00189
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -4377,17 +1916,7 @@
         {
           "nr": 23,
           "name": "Ilm-Kreis II",
-          "overlap": 0.999252
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.00038
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.000368
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -4398,22 +1927,7 @@
         {
           "nr": 23,
           "name": "Ilm-Kreis II",
-          "overlap": 0.994671
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.003469
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.001766
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 9.4e-05
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -4424,22 +1938,7 @@
         {
           "nr": 23,
           "name": "Ilm-Kreis II",
-          "overlap": 0.990071
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.007475
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.002335
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.000119
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -4450,17 +1949,7 @@
         {
           "nr": 23,
           "name": "Ilm-Kreis II",
-          "overlap": 0.991505
-        },
-        {
-          "nr": 22,
-          "name": "Ilm-Kreis I",
-          "overlap": 0.008019
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.000476
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -4471,42 +1960,7 @@
         {
           "nr": 23,
           "name": "Ilm-Kreis II",
-          "overlap": 0.962996
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.008814
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.008814
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.008814
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.008814
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.001091
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.000542
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.000116
+          "overlap": 1.0
         }
       ],
       "primary": 23,
@@ -4517,12 +1971,12 @@
         {
           "nr": 23,
           "name": "Ilm-Kreis II",
-          "overlap": 0.818704
+          "overlap": 0.819973
         },
         {
           "nr": 22,
           "name": "Ilm-Kreis I",
-          "overlap": 0.181296
+          "overlap": 0.180027
         }
       ],
       "primary": 23,
@@ -4531,59 +1985,44 @@
     "99423": {
       "wahlkreise": [
         {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.5
-        },
-        {
           "nr": 32,
           "name": "Weimar II",
-          "overlap": 0.5
+          "overlap": 1.0
         }
       ],
-      "primary": 31,
+      "primary": 32,
       "period_id": 156
     },
     "99425": {
       "wahlkreise": [
         {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.499756
-        },
-        {
           "nr": 32,
           "name": "Weimar II",
-          "overlap": 0.499116
+          "overlap": 0.875856
         },
         {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.001128
+          "nr": 31,
+          "name": "Weimar I/Weimarer Land II",
+          "overlap": 0.124144
         }
       ],
-      "primary": 31,
+      "primary": 32,
       "period_id": 156
     },
     "99427": {
       "wahlkreise": [
         {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.496484
-        },
-        {
           "nr": 32,
           "name": "Weimar II",
-          "overlap": 0.495756
+          "overlap": 0.872506
         },
         {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.00776
+          "nr": 31,
+          "name": "Weimar I/Weimarer Land II",
+          "overlap": 0.127494
         }
       ],
-      "primary": 31,
+      "primary": 32,
       "period_id": 156
     },
     "99428": {
@@ -4591,42 +2030,12 @@
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.642127
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.177961
+          "overlap": 0.783352
         },
         {
           "nr": 32,
           "name": "Weimar II",
-          "overlap": 0.177961
-        },
-        {
-          "nr": 24,
-          "name": "Erfurt I",
-          "overlap": 0.000446
-        },
-        {
-          "nr": 25,
-          "name": "Erfurt II",
-          "overlap": 0.000446
-        },
-        {
-          "nr": 26,
-          "name": "Erfurt III",
-          "overlap": 0.000446
-        },
-        {
-          "nr": 27,
-          "name": "Erfurt IV",
-          "overlap": 0.000446
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.000166
+          "overlap": 0.216648
         }
       ],
       "primary": 30,
@@ -4637,17 +2046,7 @@
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.997036
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.001482
-        },
-        {
-          "nr": 32,
-          "name": "Weimar II",
-          "overlap": 0.001482
+          "overlap": 1.0
         }
       ],
       "primary": 30,
@@ -4658,22 +2057,7 @@
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.995608
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.001938
-        },
-        {
-          "nr": 32,
-          "name": "Weimar II",
-          "overlap": 0.001334
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.00112
+          "overlap": 1.0
         }
       ],
       "primary": 30,
@@ -4684,32 +2068,7 @@
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.987189
-        },
-        {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.005146
-        },
-        {
-          "nr": 38,
-          "name": "Jena II",
-          "overlap": 0.005146
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.000999
-        },
-        {
-          "nr": 32,
-          "name": "Weimar II",
-          "overlap": 0.000802
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.000718
+          "overlap": 1.0
         }
       ],
       "primary": 30,
@@ -4720,17 +2079,7 @@
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.997782
-        },
-        {
-          "nr": 35,
-          "name": "Saale-Holzland-Kreis I",
-          "overlap": 0.001515
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.000703
+          "overlap": 1.0
         }
       ],
       "primary": 30,
@@ -4741,17 +2090,7 @@
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.993931
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.004896
-        },
-        {
-          "nr": 28,
-          "name": "Saalfeld-Rudolstadt I",
-          "overlap": 0.001173
+          "overlap": 1.0
         }
       ],
       "primary": 30,
@@ -4762,22 +2101,12 @@
         {
           "nr": 31,
           "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.932581
+          "overlap": 0.933592
         },
         {
           "nr": 30,
           "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.065884
-        },
-        {
-          "nr": 32,
-          "name": "Weimar II",
-          "overlap": 0.001321
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.000214
+          "overlap": 0.066408
         }
       ],
       "primary": 31,
@@ -4788,32 +2117,7 @@
         {
           "nr": 31,
           "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.997138
-        },
-        {
-          "nr": 36,
-          "name": "Saale-Holzland-Kreis II",
-          "overlap": 0.001088
-        },
-        {
-          "nr": 37,
-          "name": "Jena I",
-          "overlap": 0.000863
-        },
-        {
-          "nr": 38,
-          "name": "Jena II",
-          "overlap": 0.000863
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 3.9e-05
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 7e-06
+          "overlap": 1.0
         }
       ],
       "primary": 31,
@@ -4824,17 +2128,12 @@
         {
           "nr": 17,
           "name": "Sömmerda II",
-          "overlap": 0.934754
+          "overlap": 0.935661
         },
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.064479
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.000767
+          "overlap": 0.064339
         }
       ],
       "primary": 17,
@@ -4845,12 +2144,7 @@
         {
           "nr": 17,
           "name": "Sömmerda II",
-          "overlap": 0.994949
-        },
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 0.005051
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -4861,17 +2155,7 @@
         {
           "nr": 17,
           "name": "Sömmerda II",
-          "overlap": 0.997025
-        },
-        {
-          "nr": 30,
-          "name": "Weimarer Land I/Saalfeld-Rudolstadt III",
-          "overlap": 0.002405
-        },
-        {
-          "nr": 31,
-          "name": "Weimar I/Weimarer Land II",
-          "overlap": 0.000571
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -4882,17 +2166,7 @@
         {
           "nr": 17,
           "name": "Sömmerda II",
-          "overlap": 0.997049
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.002014
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000937
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -4903,22 +2177,7 @@
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.998851
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.000531
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.000421
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.000197
+          "overlap": 1.0
         }
       ],
       "primary": 16,
@@ -4940,17 +2199,7 @@
         {
           "nr": 17,
           "name": "Sömmerda II",
-          "overlap": 0.994457
-        },
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 0.003797
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.001746
+          "overlap": 1.0
         }
       ],
       "primary": 17,
@@ -4961,17 +2210,7 @@
         {
           "nr": 10,
           "name": "Kyffhäuserkreis I",
-          "overlap": 0.996153
-        },
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 0.002136
-        },
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.001711
+          "overlap": 1.0
         }
       ],
       "primary": 10,
@@ -4982,22 +2221,7 @@
         {
           "nr": 11,
           "name": "Kyffhäuserkreis II",
-          "overlap": 0.994744
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.003687
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.001217
-        },
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.000351
+          "overlap": 1.0
         }
       ],
       "primary": 11,
@@ -5008,27 +2232,7 @@
         {
           "nr": 10,
           "name": "Kyffhäuserkreis I",
-          "overlap": 0.993364
-        },
-        {
-          "nr": 3,
-          "name": "Nordhausen I",
-          "overlap": 0.002126
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.001852
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.001847
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.000811
+          "overlap": 1.0
         }
       ],
       "primary": 10,
@@ -5039,27 +2243,7 @@
         {
           "nr": 10,
           "name": "Kyffhäuserkreis I",
-          "overlap": 0.996782
-        },
-        {
-          "nr": 17,
-          "name": "Sömmerda II",
-          "overlap": 0.001243
-        },
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 0.001155
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.000615
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000205
+          "overlap": 1.0
         }
       ],
       "primary": 10,
@@ -5070,12 +2254,12 @@
         {
           "nr": 4,
           "name": "Nordhausen II",
-          "overlap": 0.983967
+          "overlap": 0.986716
         },
         {
           "nr": 3,
           "name": "Nordhausen I",
-          "overlap": 0.016033
+          "overlap": 0.013284
         }
       ],
       "primary": 4,
@@ -5086,17 +2270,7 @@
         {
           "nr": 3,
           "name": "Nordhausen I",
-          "overlap": 0.995532
-        },
-        {
-          "nr": 4,
-          "name": "Nordhausen II",
-          "overlap": 0.004032
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.000436
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -5107,17 +2281,7 @@
         {
           "nr": 3,
           "name": "Nordhausen I",
-          "overlap": 0.998738
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.000796
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.000466
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -5128,17 +2292,7 @@
         {
           "nr": 3,
           "name": "Nordhausen I",
-          "overlap": 0.99877
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.00096
-        },
-        {
-          "nr": 4,
-          "name": "Nordhausen II",
-          "overlap": 0.00027
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -5149,17 +2303,7 @@
         {
           "nr": 3,
           "name": "Nordhausen I",
-          "overlap": 0.994265
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.004398
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.001337
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -5170,22 +2314,7 @@
         {
           "nr": 3,
           "name": "Nordhausen I",
-          "overlap": 0.993141
-        },
-        {
-          "nr": 4,
-          "name": "Nordhausen II",
-          "overlap": 0.005398
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.001385
-        },
-        {
-          "nr": 11,
-          "name": "Kyffhäuserkreis II",
-          "overlap": 7.6e-05
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -5196,12 +2325,7 @@
         {
           "nr": 3,
           "name": "Nordhausen I",
-          "overlap": 0.99887
-        },
-        {
-          "nr": 4,
-          "name": "Nordhausen II",
-          "overlap": 0.00113
+          "overlap": 1.0
         }
       ],
       "primary": 3,
@@ -5211,13 +2335,8 @@
       "wahlkreise": [
         {
           "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.995517
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.004483
+          "name": "Wartburgkreis II/Eisenach",
+          "overlap": 1.0
         }
       ],
       "primary": 6,
@@ -5228,12 +2347,12 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.976087
+          "overlap": 0.985861
         },
         {
           "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.023913
+          "name": "Wartburgkreis II/Eisenach",
+          "overlap": 0.014139
         }
       ],
       "primary": 7,
@@ -5244,32 +2363,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.994721
-        },
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.001864
-        },
-        {
-          "nr": 15,
-          "name": "Gotha II",
-          "overlap": 0.001265
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.001016
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.000856
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.000278
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -5280,22 +2374,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.915466
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.080122
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.003228
-        },
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.001184
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -5306,12 +2385,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.997844
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.002156
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -5322,17 +2396,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.999673
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.000316
-        },
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 1.1e-05
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -5342,18 +2406,13 @@
       "wahlkreise": [
         {
           "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.982979
+          "name": "Wartburgkreis II/Eisenach",
+          "overlap": 0.987397
         },
         {
           "nr": 5,
           "name": "Wartburgkreis I",
-          "overlap": 0.013584
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.003436
+          "overlap": 0.012603
         }
       ],
       "primary": 6,
@@ -5363,13 +2422,8 @@
       "wahlkreise": [
         {
           "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.997409
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.002591
+          "name": "Wartburgkreis II/Eisenach",
+          "overlap": 1.0
         }
       ],
       "primary": 6,
@@ -5380,17 +2434,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.998359
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.001641
-        },
-        {
-          "nr": 5,
-          "name": "Wartburgkreis I",
-          "overlap": 0.0
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -5401,12 +2445,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.995181
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.004819
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -5417,12 +2456,7 @@
         {
           "nr": 7,
           "name": "Wartburgkreis III",
-          "overlap": 0.994185
-        },
-        {
-          "nr": 6,
-          "name": "Wartburgkreis II",
-          "overlap": 0.005815
+          "overlap": 1.0
         }
       ],
       "primary": 7,
@@ -5433,17 +2467,7 @@
         {
           "nr": 15,
           "name": "Gotha II",
-          "overlap": 0.994335
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.003623
-        },
-        {
-          "nr": 14,
-          "name": "Gotha I",
-          "overlap": 0.002042
+          "overlap": 1.0
         }
       ],
       "primary": 15,
@@ -5454,32 +2478,17 @@
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.920765
+          "overlap": 0.922707
         },
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.03931
+          "overlap": 0.03929
         },
         {
           "nr": 15,
           "name": "Gotha II",
-          "overlap": 0.038304
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.000796
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.000427
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.000398
+          "overlap": 0.038003
         }
       ],
       "primary": 16,
@@ -5490,27 +2499,12 @@
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.499255
+          "overlap": 0.501937
         },
         {
           "nr": 15,
           "name": "Gotha II",
-          "overlap": 0.497956
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.002215
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000379
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.000196
+          "overlap": 0.498063
         }
       ],
       "primary": 14,
@@ -5521,27 +2515,7 @@
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.994802
-        },
-        {
-          "nr": 23,
-          "name": "Ilm-Kreis II",
-          "overlap": 0.003197
-        },
-        {
-          "nr": 21,
-          "name": "Suhl/Schmalkalden-Meiningen IV",
-          "overlap": 0.001641
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000332
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 2.8e-05
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -5552,22 +2526,7 @@
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.997323
-        },
-        {
-          "nr": 15,
-          "name": "Gotha II",
-          "overlap": 0.001329
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.001295
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 5.3e-05
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -5578,12 +2537,7 @@
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.998801
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.001199
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -5605,12 +2559,7 @@
         {
           "nr": 14,
           "name": "Gotha I",
-          "overlap": 0.997203
-        },
-        {
-          "nr": 13,
-          "name": "Schmalkalden-Meiningen II",
-          "overlap": 0.002797
+          "overlap": 1.0
         }
       ],
       "primary": 14,
@@ -5621,22 +2570,7 @@
         {
           "nr": 9,
           "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.998034
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.001133
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.000782
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 5.1e-05
+          "overlap": 1.0
         }
       ],
       "primary": 9,
@@ -5647,17 +2581,7 @@
         {
           "nr": 9,
           "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.995712
-        },
-        {
-          "nr": 16,
-          "name": "Sömmerda I/Gotha III",
-          "overlap": 0.002609
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.001679
+          "overlap": 1.0
         }
       ],
       "primary": 9,
@@ -5668,12 +2592,12 @@
         {
           "nr": 16,
           "name": "Sömmerda I/Gotha III",
-          "overlap": 0.662875
+          "overlap": 0.661201
         },
         {
           "nr": 9,
           "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.337125
+          "overlap": 0.338799
         }
       ],
       "primary": 16,
@@ -5684,17 +2608,7 @@
         {
           "nr": 8,
           "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.996611
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.002272
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.001117
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -5705,17 +2619,7 @@
         {
           "nr": 8,
           "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.993243
-        },
-        {
-          "nr": 1,
-          "name": "Eichsfeld I",
-          "overlap": 0.00422
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.002538
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -5726,17 +2630,12 @@
         {
           "nr": 9,
           "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.984178
+          "overlap": 0.988579
         },
         {
           "nr": 8,
           "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.014007
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.001815
+          "overlap": 0.011421
         }
       ],
       "primary": 9,
@@ -5747,22 +2646,7 @@
         {
           "nr": 8,
           "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.990495
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.006102
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.002314
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.001088
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -5773,17 +2657,7 @@
         {
           "nr": 9,
           "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.995528
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.002352
-        },
-        {
-          "nr": 7,
-          "name": "Wartburgkreis III",
-          "overlap": 0.00212
+          "overlap": 1.0
         }
       ],
       "primary": 9,
@@ -5794,17 +2668,7 @@
         {
           "nr": 9,
           "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.995478
-        },
-        {
-          "nr": 8,
-          "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.003588
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.000934
+          "overlap": 1.0
         }
       ],
       "primary": 9,
@@ -5815,22 +2679,7 @@
         {
           "nr": 8,
           "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.992301
-        },
-        {
-          "nr": 2,
-          "name": "Eichsfeld II",
-          "overlap": 0.003304
-        },
-        {
-          "nr": 9,
-          "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.002317
-        },
-        {
-          "nr": 10,
-          "name": "Kyffhäuserkreis I",
-          "overlap": 0.002077
+          "overlap": 1.0
         }
       ],
       "primary": 8,
@@ -5841,12 +2690,12 @@
         {
           "nr": 8,
           "name": "Unstrut-Hainich-Kreis I",
-          "overlap": 0.579369
+          "overlap": 0.579819
         },
         {
           "nr": 9,
           "name": "Unstrut-Hainich-Kreis II",
-          "overlap": 0.420631
+          "overlap": 0.420181
         }
       ],
       "primary": 8,
